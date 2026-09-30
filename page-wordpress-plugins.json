@@ -1,0 +1,628 @@
+{
+  "slug": "wordpress-plugins",
+  "kind": "Category page",
+  "title": "8 WordPress Plugins, One-Time Price — No Monthly Subscription | Megastore76",
+  "metaDescription": "Abandoned cart recovery, urgency widgets, social proof, popups, live chat, instant search and more. Eight self-hosted WordPress plugins from £19, one payment, no account, no subscription.",
+  "eyebrow": "8 plugins · from £19 · one payment",
+  "h1": "Eight WordPress plugins that replace a monthly subscription",
+  "intro": "Every one of these does a job you are probably already paying a service to do — recovering carts, capturing emails, showing social proof, running chat. Buy it once, install it on your own site, and stop the direct debit.",
+  "chips": [
+    "One-time payment",
+    "Self-hosted on your own site",
+    "No account or API key",
+    "From £19"
+  ],
+  "updated": "Prices checked against megastore76.com on 29 September 2026.",
+  "nav": [
+    {
+      "label": "Start here",
+      "href": "#verdict"
+    },
+    {
+      "label": "Compare all",
+      "href": "#compare"
+    },
+    {
+      "label": "In detail",
+      "href": "#picks"
+    },
+    {
+      "label": "What to expect",
+      "href": "#guide"
+    },
+    {
+      "label": "Questions",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "ctaLabel": "Start with Abandoned Cart Recovery — £29",
+    "ctaUrl": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+    "secondaryLabel": "Compare all 8",
+    "secondaryUrl": "#compare"
+  },
+  "verdict": {
+    "kicker": "Start here",
+    "heading": "If you only buy one, buy this one",
+    "intro": "Most WooCommerce stores lose more money to abandoned carts than to anything else on the site. It is the single highest-return fix available, and it is the one we would buy first.",
+    "picks": [
+      {
+        "label": "Highest return",
+        "name": "Abandoned Cart Recovery",
+        "price": 29,
+        "why": "Captures abandoned WooCommerce carts and recovers them with a real three-email sequence and an auto-generated single-use discount coupon, running itself on WP-Cron. No third-party service, so no monthly bill and no customer data leaving your site.",
+        "points": [
+          "Three-email sequence",
+          "Auto single-use coupons",
+          "Runs on WP-Cron",
+          "No third-party service"
+        ],
+        "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+        "ctaLabel": "See it — £29",
+        "primary": true,
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png"
+      },
+      {
+        "label": "Most honest widget",
+        "name": "Social Proof Badges",
+        "price": 24,
+        "why": "Real \"X views this week\" and \"Popular this week\" badges built from your own tracked view data — never fabricated. It shows nothing at all until a post or product genuinely earns it, which is the opposite of how most social proof plugins work.",
+        "points": [
+          "Built from real view data",
+          "Never fabricated",
+          "Shows nothing until earned",
+          "Self-hosted"
+        ],
+        "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+        "ctaLabel": "See it — £24"
+      },
+      {
+        "label": "Cheapest entry",
+        "name": "Smart Search",
+        "price": 19,
+        "why": "A floating search widget that finds posts and products instantly as visitors type — no page reload, no dead-end \"0 results\" screen. Installs in about two minutes with no coding, and it is the cheapest way to test whether our plugins suit your site.",
+        "points": [
+          "Instant results as you type",
+          "No page reload",
+          "No coding required",
+          "£19 once"
+        ],
+        "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+        "ctaLabel": "See it — £19"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "Compare",
+    "heading": "All eight, side by side",
+    "intro": "Sorted by price. Each is a one-time purchase — there is no tier, no seat count and no renewal. The \"what it replaces\" column is the paid service most people are using for the same job.",
+    "footnote": "Prices were read from megastore76.com on 29 September 2026. These are our own plugins, so this page is our own description rather than an independent review.",
+    "rows": [
+      {
+        "name": "Abandoned Cart Recovery",
+        "note": "WooCommerce",
+        "spec": "3-email sequence · auto coupons · WP-Cron",
+        "price": 29,
+        "bestFor": "Recovering lost sales",
+        "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+        "pick": true,
+        "replaces": "Cart recovery SaaS, billed monthly"
+      },
+      {
+        "name": "Newsletter Capture",
+        "note": "Lead capture",
+        "spec": "Scroll depth · exit intent · time-on-page popups",
+        "price": 29,
+        "bestFor": "Building an email list",
+        "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+        "replaces": "Popup SaaS, billed monthly"
+      },
+      {
+        "name": "Urgency & Scarcity Widgets",
+        "note": "WooCommerce",
+        "spec": "Countdowns · low-stock · live viewers · cache-safe",
+        "price": 27,
+        "bestFor": "Converting browsers faster",
+        "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+        "replaces": "Urgency plugins with annual licences"
+      },
+      {
+        "name": "Social Proof Badges",
+        "note": "Trust",
+        "spec": "Real \"Popular this week\" badges from tracked views",
+        "price": 24,
+        "bestFor": "Making a new site look alive",
+        "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+        "pick": true,
+        "replaces": "Social proof SaaS, billed monthly"
+      },
+      {
+        "name": "Reading Experience Kit",
+        "note": "Content",
+        "spec": "Progress bar · auto table of contents · read time",
+        "price": 19,
+        "bestFor": "Long-form articles",
+        "url": "https://megastore76.com/product/reading-experience-kit-progress-bar-table-of-contents-read-time-for-wordpress",
+        "replaces": "Several separate plugins"
+      },
+      {
+        "name": "Smart Search",
+        "note": "Search",
+        "spec": "Instant results as visitors type · no reload",
+        "price": 19,
+        "bestFor": "Fixing dead-end search",
+        "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+        "pick": true,
+        "replaces": "Search SaaS, billed monthly"
+      },
+      {
+        "name": "Live Chat Bubble",
+        "note": "Support",
+        "spec": "WhatsApp · email · phone · business-hours greetings",
+        "price": 19,
+        "bestFor": "Answering buyers quickly",
+        "url": "https://megastore76.com/product/live-chat-click-to-chat-bubble-for-wordpress",
+        "replaces": "Live chat SaaS, billed per seat"
+      },
+      {
+        "name": "Social Pulse",
+        "note": "Social",
+        "spec": "Floating icons for 13+ networks · any custom link",
+        "price": 19,
+        "bestFor": "Growing social following",
+        "url": "https://megastore76.com/product/social-pulse-floating-social-icons-follow-widget",
+        "replaces": "Social icon plugins with pro upsells"
+      }
+    ]
+  },
+  "dives": {
+    "kicker": "In detail",
+    "heading": "Five worth a closer look",
+    "intro": "The five we get asked about most, with what each genuinely does well and where it will not suit you. Every one has a real drawback listed, because a plugin page with no drawbacks on it is not telling you the whole story."
+  },
+  "products": [
+    {
+      "name": "Abandoned Cart Recovery",
+      "price": 29,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+      "badge": "Buy this first",
+      "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+      "ctaLabel": "See it on the store",
+      "summary": "Captures abandoned WooCommerce carts and recovers them with a real three-email sequence and an auto-generated single-use discount coupon, running itself on WP-Cron. Because it runs on your own site, no customer data goes to a third party and there is no monthly bill.",
+      "specs": [
+        "Three-email recovery sequence",
+        "Auto-generated single-use coupons",
+        "Runs on WP-Cron",
+        "No third-party service or API key",
+        "Self-hosted"
+      ],
+      "pros": [
+        "The highest-return fix on a WooCommerce store",
+        "No monthly subscription, unlike the SaaS equivalents",
+        "Customer data never leaves your site",
+        "Works with your existing store emails"
+      ],
+      "cons": [
+        "Needs WP-Cron to be working properly, which some hosts throttle",
+        "Recovery emails go from your domain, so deliverability is your responsibility",
+        "WooCommerce only — it does nothing on a non-store site"
+      ],
+      "forWho": "Anyone running a WooCommerce store with meaningful traffic. If you are losing carts, this pays for itself faster than anything else here."
+    },
+    {
+      "name": "Urgency & Scarcity Widgets",
+      "price": 27,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+      "badge": "WooCommerce",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+      "ctaLabel": "See it on the store",
+      "summary": "Countdown timers, low-stock alerts, recently-sold counts and live viewer counts — with every number pulled from your actual store data rather than invented. Cache-safe and no API keys required.",
+      "specs": [
+        "Countdown timers",
+        "Low-stock alerts",
+        "Recently-sold counts",
+        "Live viewer counts",
+        "Cache-safe, no API keys"
+      ],
+      "pros": [
+        "Numbers come from your real store data, so nothing is a lie",
+        "Cache-safe, which is where most urgency plugins break",
+        "No API keys to manage",
+        "One-time price rather than an annual licence"
+      ],
+      "cons": [
+        "Urgency only works on visitors who were already close to buying",
+        "Use it dishonestly and it will cost you trust — the honest mode is the point",
+        "WooCommerce only"
+      ],
+      "forWho": "Store owners whose traffic is decent but conversion rate is not, and who want to apply pressure without inventing scarcity."
+    },
+    {
+      "name": "Newsletter Capture",
+      "price": 29,
+      "badge": "Lead capture",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+      "ctaLabel": "See it on the store",
+      "summary": "A signup popup that appears at the right moment — on scroll depth, exit intent or time-on-page rather than the second someone lands. It builds its own lead database, with CSV export and an optional webhook to your email service.",
+      "specs": [
+        "Scroll-depth triggers",
+        "Exit-intent triggers",
+        "Time-on-page triggers",
+        "Built-in lead database",
+        "CSV export and optional ESP webhook"
+      ],
+      "pros": [
+        "Triggered rather than immediate, so it annoys far fewer people",
+        "Leads stored on your own site, exported whenever you like",
+        "Webhook means it can still feed your existing email tool",
+        "One-time price instead of a monthly popup service"
+      ],
+      "cons": [
+        "Popups still cost you some visitors — this reduces the damage rather than removing it",
+        "If you want rich automation and sequences, you still need a real email platform",
+        "Needs sensible trigger settings to be worth having"
+      ],
+      "forWho": "Bloggers and store owners with traffic but no email list, or anyone paying monthly for a popup tool.",
+      "imgNote": "We have not put this listing’s picture on this page — it shows something the plugin does not actually do for you. See the note under the pictures below."
+    },
+    {
+      "name": "Social Proof Badges",
+      "price": 24,
+      "badge": "No invented numbers",
+      "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+      "ctaLabel": "See it on the store",
+      "summary": "Real \"👀 X views this week\" and \"🔥 Popular this week\" badges, built from your own tracked view data and never fabricated. It shows nothing at all until a post or product genuinely earns it — which is the honest way round and, in the UK, the legal way round.",
+      "specs": [
+        "Badges from real tracked views",
+        "Nothing shown until earned",
+        "Self-hosted view tracking",
+        "No external service"
+      ],
+      "pros": [
+        "Every number is real, so there is nothing to get caught out by",
+        "Quietly builds credibility on a young site",
+        "No third-party script slowing your pages",
+        "One-time payment"
+      ],
+      "cons": [
+        "On a brand-new site there is nothing to show until traffic arrives",
+        "It will not manufacture the instant social proof a paid service would",
+        "View tracking adds a small database load on busy sites"
+      ],
+      "forWho": "Site owners who want social proof without inventing numbers — and who care that fabricated counts are a regulatory risk, not just a tacky one.",
+      "imgNote": "We have not put this listing’s picture on this page — it shows something the plugin does not actually do for you. See the note under the pictures below."
+    },
+    {
+      "name": "Smart Search",
+      "price": 19,
+      "badge": "£19 entry point",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+      "ctaLabel": "See it on the store",
+      "summary": "A floating search widget that finds posts and products instantly, as visitors type — no page reload and no dead-end \"0 results\" screen. Installs in about two minutes with no coding, and at £19 it is the cheapest way to find out whether our plugins suit your site.",
+      "specs": [
+        "Instant results as you type",
+        "No page reload",
+        "Searches posts and products",
+        "No coding required",
+        "Self-hosted"
+      ],
+      "pros": [
+        "Fixes the dead-end search that loses visitors",
+        "Two-minute install, no configuration needed",
+        "The cheapest way to try our plugins",
+        "No external search service needed"
+      ],
+      "cons": [
+        "On very large catalogues, results can lag without server-side tuning",
+        "It improves search, not your product copy — poor titles still search poorly",
+        "The listing picture is a marketing graphic, not a screenshot of your own site running it"
+      ],
+      "forWho": "Any WordPress site where visitors search and currently get a thin results page, especially stores with more than about fifty products.",
+      "imgNote": "We have not put this listing’s picture on this page — it shows something the plugin does not actually do for you. See the note under the pictures below."
+    }
+  ],
+  "guide": {
+    "kicker": "What to expect",
+    "heading": "What buying one of these is actually like",
+    "intro": "These are our own plugins, so here is the unglamorous version of what happens after you pay — including the parts that are on us to fix.",
+    "points": [
+      {
+        "h": "One payment, no renewal",
+        "p": "You pay once and the plugin is yours. There is no annual licence, no seat count and no tier that unlocks the useful features later. That is the whole point of the range: the job these do is normally sold as a monthly service, and a monthly service is what you are replacing."
+      },
+      {
+        "h": "It runs on your own site",
+        "p": "There is no external account, no API key and no dashboard on someone else's server. Cart data, leads and view counts stay in your own WordPress database. That is better for privacy, better for page speed and it means nothing breaks if a third-party service changes its pricing."
+      },
+      {
+        "h": "Every number shown is a real one",
+        "p": "The urgency widgets and the social proof badges are built so they cannot display invented numbers. If a product has not earned a \"Popular this week\" badge, no badge appears. Fabricated scarcity and fake review counts are not just tacky — in the UK they are a consumer law exposure."
+      },
+      {
+        "h": "WordPress and WooCommerce plugins are the mature ones",
+        "p": "The eight plugins on this page are installed on real sites, including our own. We are honest that the source-code products in our store — the self-hosted SaaS templates — are a newer range built for developers rather than site owners, and they are a different kind of purchase."
+      },
+      {
+        "h": "You will need to configure them",
+        "p": "None of these are install-and-forget. Abandoned Cart Recovery needs its email sequence wording checked against your brand, and Newsletter Capture needs its triggers tuned or it will annoy people. Budget half an hour each, and they will do their job properly."
+      },
+      {
+        "h": "If a download gives you trouble, tell us",
+        "p": "These are digital downloads delivered after checkout. If a file will not open or a plugin will not install, email us and we will sort it directly rather than leaving you to fight a support queue. We would rather fix a problem than lose a customer over it."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "Before you buy",
+    "heading": "Why buy these from us",
+    "intro": "We wrote these plugins and we use them on our own sites. That is a genuine advantage and an obvious bias, so we are telling you both plainly.",
+    "cards": [
+      {
+        "ic": "🛠",
+        "b": "We run them ourselves",
+        "p": "These are installed on megastore76.com and on client sites. When something breaks, we are the ones who have to fix it, which tends to make for better plugins."
+      },
+      {
+        "ic": "🔓",
+        "b": "Self-hosted, no lock-in",
+        "p": "No external account, no API keys, no third-party dashboard. If you stop using a plugin, nothing of yours is stranded on someone else's server."
+      },
+      {
+        "ic": "📊",
+        "b": "Honest numbers only",
+        "p": "Our urgency and social proof plugins are built so they cannot show invented figures. We would rather a badge not appear than have it appear dishonestly."
+      }
+    ],
+    "slotNote": "This is where customer quotes go. We have none to publish yet, so the space stays empty rather than filled with invented ones. For a £19–£29 plugin, a single real quote from a store owner does more than any headline on this page — send me yours and it drops straight in."
+  },
+  "faqHeading": "Common questions",
+  "faq": [
+    {
+      "q": "Is this really a one-time payment?",
+      "a": "Yes. You pay once and the plugin is yours, with no annual licence and no subscription. That is deliberate — the job each of these does is normally sold as a monthly service, and replacing that monthly bill is the reason the range exists."
+    },
+    {
+      "q": "How are these delivered?",
+      "a": "As a download after checkout, installed on your own WordPress site like any other plugin. There is no external account to create and no API key to paste in. If a file will not open or a plugin will not install, email <a href=\"mailto:megaphilip76@gmail.com\">megaphilip76@gmail.com</a> and we will sort it out directly."
+    },
+    {
+      "q": "Do these work without WooCommerce?",
+      "a": "Abandoned Cart Recovery and Urgency & Scarcity are WooCommerce-only and will do nothing on a non-store site. The other six — Newsletter Capture, Social Proof Badges, Reading Experience Kit, Smart Search, Live Chat and Social Pulse — work on any WordPress site."
+    },
+    {
+      "q": "Which one should I buy first?",
+      "a": "Abandoned Cart Recovery, if you run a WooCommerce store with real traffic. Losing carts usually costs more than anything else on a store, and recovering them is the highest-return fix available. If you are not running a store, start with Smart Search at £19 or Social Proof Badges at £24."
+    },
+    {
+      "q": "Do the urgency and social proof widgets show fake numbers?",
+      "a": "No, and they are built so they cannot. Every countdown, stock level, viewer count and badge is pulled from your own store or view data. If a product has not genuinely earned a \"Popular this week\" badge, no badge is shown. Invented scarcity is a consumer law risk in the UK, not just a bad look."
+    },
+    {
+      "q": "Do I need to know how to code?",
+      "a": "No. These install and configure from the WordPress admin. Smart Search takes about two minutes with no setup at all. The ones with more options — Abandoned Cart Recovery and Newsletter Capture — need their email wording and triggers tuned, which is form-filling rather than coding."
+    },
+    {
+      "q": "What about the source-code products on your store?",
+      "a": "Those are a separate, newer range — self-hosted SaaS templates like Invoice Chaser and Shiplog, sold as source code for developers at £29 to £99. They are a different kind of purchase from these plugins and we would rather say so than blur the two together."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Final word",
+    "heading": "Which one, depending on your site",
+    "intro": "Find your situation and buy that one. If none of them fit, message us and we will say so rather than sell you something you will not use.",
+    "rows": [
+      {
+        "who": "You run a WooCommerce store",
+        "why": "Recover lost carts automatically — normally a monthly SaaS bill",
+        "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+        "label": "Abandoned Cart Recovery · £29"
+      },
+      {
+        "who": "You want more urgency at checkout",
+        "why": "Real countdowns and stock levels from your own data",
+        "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+        "label": "Urgency & Scarcity · £27"
+      },
+      {
+        "who": "You have traffic but no email list",
+        "why": "Triggered popups that go off at the right moment",
+        "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+        "label": "Newsletter Capture · £29"
+      },
+      {
+        "who": "Your site still looks new and empty",
+        "why": "Real popularity badges that appear only when earned",
+        "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+        "label": "Social Proof Badges · £24"
+      },
+      {
+        "who": "You want to test us cheaply",
+        "why": "Instant search, two-minute install, no coding",
+        "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+        "label": "Smart Search · £19"
+      },
+      {
+        "who": "You are a developer, not a site owner",
+        "why": "Self-hosted SaaS source code, £29–£99",
+        "url": "https://megastore76.com/product-category/digital-services",
+        "label": "Browse the source-code range"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "One payment, then it is yours",
+    "text": "No annual licence, no seat count, no account on someone else's server. Install it on your own site and the monthly bill for that job stops. Not sure which one fits? Ask us and we will tell you honestly.",
+    "label": "Start with Abandoned Cart Recovery — £29",
+    "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+    "secondaryLabel": "Browse all our plugins",
+    "secondaryUrl": "https://megastore76.com/product-category/digital-services"
+  },
+  "sticky": {
+    "top": "Plugins from £19",
+    "sub": "One payment · no subscription",
+    "label": "View",
+    "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce"
+  },
+  "disclosure": "Every plugin on this page is our own product, sold on megastore76.com. We wrote them and use them on our own sites, so this is our own description rather than an independent review. Prices checked 29 September 2026.",
+  "schemaProducts": [
+    {
+      "name": "Abandoned Cart Recovery",
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+      "summary": "Captures abandoned WooCommerce carts and recovers them with a real three-email sequence and an auto-generated single-use discount coupon, running itself on WP-Cron. Because it runs on your own site, no customer data goes to a third party and there is no monthly bill.",
+      "price": 29,
+      "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce"
+    },
+    {
+      "name": "Urgency & Scarcity Widgets",
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+      "summary": "Countdown timers, low-stock alerts, recently-sold counts and live viewer counts — with every number pulled from your actual store data rather than invented. Cache-safe and no API keys required.",
+      "price": 27,
+      "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce"
+    },
+    {
+      "name": "Newsletter Capture",
+      "summary": "A signup popup that appears at the right moment — on scroll depth, exit intent or time-on-page rather than the second someone lands. It builds its own lead database, with CSV export and an optional webhook to your email service.",
+      "price": 29,
+      "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress"
+    },
+    {
+      "name": "Social Proof Badges",
+      "summary": "Real \"👀 X views this week\" and \"🔥 Popular this week\" badges, built from your own tracked view data and never fabricated. It shows nothing at all until a post or product genuinely earns it — which is the honest way round and, in the UK, the legal way round.",
+      "price": 24,
+      "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress"
+    },
+    {
+      "name": "Smart Search",
+      "summary": "A floating search widget that finds posts and products instantly, as visitors type — no page reload and no dead-end \"0 results\" screen. Installs in about two minutes with no coding, and at £19 it is the cheapest way to find out whether our plugins suit your site.",
+      "price": 19,
+      "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress"
+    }
+  ],
+  "shelves": {
+    "kicker": "Our own plugins",
+    "heading": "What these actually look like",
+    "intro": "<p>Every plugin here is a one-off purchase — £19 to £29, no subscription. Eight are in the table above; these three are the ones whose listing pictures carry no price, rating or review count the store cannot back.</p>",
+    "legend": "<b>What the badge means.</b> Every tile carries the listing’s own picture, its own price and its own link. The badge says where the button takes you, because in this shop that varies: <b>Bought here</b> means we sell it and you check out on this site.",
+    "groups": [
+      {
+        "name": "Digital Services",
+        "count": 18,
+        "sub": "Our own tools, bought here with no subscription and no API key. The fourteen plugins are all clean to picture — the three shown are the ones this page reviews in full.",
+        "items": [
+          {
+            "id": 6742,
+            "name": "Abandoned Cart Recovery for WooCommerce",
+            "price": 29,
+            "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6738,
+            "name": "Urgency & Scarcity Widgets for WooCommerce",
+            "price": 27,
+            "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6741,
+            "name": "Live Chat / Click-to-Chat Bubble for WordPress",
+            "price": 19,
+            "url": "https://megastore76.com/product/live-chat-click-to-chat-bubble-for-wordpress",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-1.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          }
+        ],
+        "more": {
+          "heading": "The other 15 listings in Digital Services",
+          "sub": "Not pictured — either the listing’s own image prints a claim we cannot stand behind, or it is a picture we have not opened and looked at. The listings are live in the shop all the same.",
+          "items": [
+            {
+              "name": "Affiliate Revenue Optimizer",
+              "url": "https://megastore76.com/product/affiliate-revenue-optimizer",
+              "via": "Bought here"
+            },
+            {
+              "name": "Canva Pro Review: The All-in-One Design Platform",
+              "url": "https://megastore76.com/product/canva-pro-review-the-all-in-one-design-platform",
+              "via": "via canva.com"
+            },
+            {
+              "name": "ElevenLabs Complete Review: The AI Voice Platform Impacting The World.",
+              "url": "https://megastore76.com/product/elevenlabs-complete-review-ai-voice-platform",
+              "via": "via try.elevenlabs.io"
+            },
+            {
+              "name": "Invoice Chaser — Automated Payment Reminder SaaS (Source Code)",
+              "url": "https://megastore76.com/product/invoice-chaser-automated-payment-reminder-saas-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "InvoiceForge — Self-Hosted Invoice Generator & Client Manager (Source Code)",
+              "url": "https://megastore76.com/product/invoiceforge-self-hosted-invoice-generator-client-manager-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "LinkForge — Self-Hosted Link-in-Bio Page & Click Analytics (Source Code)",
+              "url": "https://megastore76.com/product/linkforge-self-hosted-link-in-bio-page-click-analytics-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "Midjourney Review: AI Image Generation Explained",
+              "url": "https://megastore76.com/product/midjourney-review-ai-image-generation-explained",
+              "via": "via midjourney.com"
+            },
+            {
+              "name": "Newsletter Capture — Smart Popup &#038; Lead Capture for WordPress",
+              "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "NordVPN Complete Review: Secure Browsing for 2026",
+              "url": "https://megastore76.com/product/nordvpn-complete-review-secure-browsing-for-2026",
+              "via": "via go.nordvpn.net"
+            },
+            {
+              "name": "QRForge — Self-Hosted Dynamic QR Code Generator & Scan Analytics (Source Code)",
+              "url": "https://megastore76.com/product/qrforge-self-hosted-dynamic-qr-code-generator-scan-analytics-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "Reading Experience Kit — Progress Bar, Table of Contents &#038; Read Time for WordPress",
+              "url": "https://megastore76.com/product/reading-experience-kit-progress-bar-table-of-contents-read-time-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "Shiplog — Self-Hosted Changelog &#038; Feedback Board (Source Code)",
+              "url": "https://megastore76.com/product/shiplog-self-hosted-changelog-feedback-board-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "Smart Search — Instant On-Site Search for WordPress",
+              "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "Social Proof Badges — Real “Popular This Week” Trust Badges for WordPress",
+              "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "Social Pulse – Floating Social Icons &#038; Follow Widget",
+              "url": "https://megastore76.com/product/social-pulse-floating-social-icons-follow-widget",
+              "via": "Bought here"
+            }
+          ]
+        }
+      }
+    ],
+    "footnote": "Five of the eight are not pictured. Smart Search and Social Proof Badges print dollar prices from a made-up demo shop; Reading Experience Kit’s picture shows two other plugins’ widgets rather than its own; Newsletter Capture’s is a screenshot taken inside our own admin area; and Social Pulse’s carries sample numbers from a placeholder site. Rather than show you images that need a caveat, we have left those described and priced above."
+  }
+}

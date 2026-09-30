@@ -1,0 +1,1868 @@
+{
+  "slug": "store",
+  "kind": "Store page — the whole shop",
+  "title": "Megastore76 — Tech, WordPress Tools & Books from a UK Store",
+  "metaDescription": "The whole shop on one page: 63 products pictured with their own prices, the other 155 linked, across eight departments. Every tile says whether you buy it here or via eBay, Amazon or Google Play.",
+  "eyebrow": "218 products · 8 departments · UK-based",
+  "h1": "Work out where to start",
+  "intro": "Megastore76 is four different shops wearing one coat. Tech and gadgets, WordPress tools we wrote ourselves, books, and a ministry library. Pick the door that is actually yours and skip the rest.",
+  "chips": [
+    "218 products",
+    "One-time prices",
+    "18 ours, 200 links out",
+    "UK-based store"
+  ],
+  "updated": "Product counts and prices read from megastore76.com on 29 September 2026.",
+  "nav": [
+    {
+      "label": "Choose a door",
+      "href": "#verdict"
+    },
+    {
+      "label": "Departments",
+      "href": "#compare"
+    },
+    {
+      "label": "The shelves",
+      "href": "#shelves"
+    },
+    {
+      "label": "Where we are honest",
+      "href": "#guide"
+    },
+    {
+      "label": "Questions",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "ctaLabel": "Shop the audio range — 46 products",
+    "ctaUrl": "https://megastore76.com/product-category/audio-headphones",
+    "secondaryLabel": "See all departments",
+    "secondaryUrl": "#compare"
+  },
+  "verdict": {
+    "kicker": "Choose a door",
+    "heading": "Four kinds of shopper, four doors",
+    "intro": "Most people arriving here want exactly one of these. Find yours, and go straight there rather than scrolling past the other three.",
+    "picks": [
+      {
+        "label": "Door one",
+        "name": "Tech and gadgets",
+        "price": 0,
+        "why": "Smart devices, headphones, smart home kit, TVs and power banks — 174 products across four departments. This is the biggest part of the store and the part most visitors arrive for.",
+        "points": [
+          "Smart Devices — 75",
+          "Audio & Headphones — 46",
+          "Smart Home — 38",
+          "TVs & Displays — 12",
+          "Chargers & Power Banks — 3"
+        ],
+        "url": "https://megastore76.com/product-category/smart-devices",
+        "ctaLabel": "Browse the tech",
+        "primary": true
+      },
+      {
+        "label": "Door two",
+        "name": "WordPress tools we wrote",
+        "price": 19,
+        "why": "Eight self-hosted plugins from £19, and a newer range of source-code products for developers. One-time prices, no subscriptions, no accounts on anyone else's server. This is our own work and our highest-margin range.",
+        "points": [
+          "8 plugins from £19",
+          "One-time payment",
+          "Self-hosted, no API keys",
+          "Source code from £29"
+        ],
+        "url": "https://megastore76.com/product-category/digital-services",
+        "ctaLabel": "Browse the tools"
+      },
+      {
+        "label": "Door three",
+        "name": "Books and the ministry library",
+        "price": 3.99,
+        "why": "Eleven books by Pastor Mega Philip Mega, from £3.99, including a one-year devotional for couples and a guide to releasing resentment. All eleven come together in the Ministry Suite at £147.",
+        "points": [
+          "11 books from £3.99",
+          "EPUB, any e-reader",
+          "Written by Pastor Mega Philip Mega",
+          "Or all of it in the £147 suite"
+        ],
+        "url": "https://megastore76.com/product-category/books-and-publications",
+        "ctaLabel": "Browse the books"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "Departments",
+    "heading": "All eight, with real counts",
+    "intro": "These numbers were counted from the live store on 29 September 2026, not written into this page. Only 18 of the 218 are ours — the other 200 hand you to eBay, Amazon, Google Play or the vendor. Click through to the department you want.",
+    "footnote": "Counts are a snapshot: the store grows, so the department page is always the accurate one. All 218 products were in stock on 29 September 2026, and 15 were on sale.",
+    "rows": [
+      {
+        "name": "Smart Devices",
+        "note": "Tech",
+        "spec": "Vacuums, robot cleaners, wearables and everyday gadgets",
+        "count": 75,
+        "bestFor": "Browsing for a bargain",
+        "url": "https://megastore76.com/product-category/smart-devices"
+      },
+      {
+        "name": "Audio & Headphones",
+        "note": "Tech",
+        "spec": "ANC headphones, earbuds, microphones and gaming headsets",
+        "count": 46,
+        "bestFor": "Our strongest price advantage",
+        "url": "https://megastore76.com/product-category/audio-headphones",
+        "pick": true
+      },
+      {
+        "name": "Smart Home",
+        "note": "Tech",
+        "spec": "Plugs, lighting, sensors and home automation",
+        "count": 38,
+        "bestFor": "Setting up a smart home",
+        "url": "https://megastore76.com/product-category/smart-home"
+      },
+      {
+        "name": "Digital Services",
+        "note": "Our own tools",
+        "spec": "WordPress plugins from £19 and self-hosted source code from £29",
+        "count": 19,
+        "bestFor": "Site owners and developers",
+        "url": "https://megastore76.com/product-category/digital-services",
+        "pick": true
+      },
+      {
+        "name": "TVs & Displays",
+        "note": "Tech",
+        "spec": "Streaming sticks, displays and TV accessories",
+        "count": 12,
+        "bestFor": "Upgrading a TV setup",
+        "url": "https://megastore76.com/product-category/tvs-displays"
+      },
+      {
+        "name": "Books and Publications",
+        "note": "Books",
+        "spec": "Eleven EPUB books by Pastor Mega Philip Mega, from £3.99",
+        "count": 11,
+        "bestFor": "Reading and devotionals",
+        "url": "https://megastore76.com/product-category/books-and-publications"
+      },
+      {
+        "name": "Chargers & Power Banks",
+        "note": "Tech",
+        "spec": "Power banks and charging kit",
+        "count": 3,
+        "bestFor": "Travel and everyday charging",
+        "url": "https://megastore76.com/product-category/chargers-power-banks"
+      },
+      {
+        "name": "Ai Tools",
+        "note": "Digital",
+        "spec": "AI software and tooling",
+        "count": 1,
+        "bestFor": "A very new department",
+        "url": "https://megastore76.com/product-category/ai-tools"
+      }
+    ]
+  },
+  "dives": {
+    "kicker": "Where to look first",
+    "heading": "The three pages we would actually send you to",
+    "intro": "Rather than dumping 218 products on you, here are the three specific places where the value is clearest right now — with the honest reason each one is worth your time."
+  },
+  "products": [
+    {
+      "name": "Best Noise-Cancelling Headphones Under £50",
+      "price": 23.2,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/baseus_earbuds_studio.jpg",
+      "badge": "Our best value page",
+      "url": "https://megastore76.com/product-category/audio-headphones",
+      "ctaLabel": "Compare the headphones",
+      "summary": "Twelve pairs compared on the manufacturer's own specs, ranked by what you get for the money. The cheapest pair claims 50dB of noise cancelling for £23.20 — deeper than several pairs further up the list that cost more.",
+      "specs": [
+        "12 pairs compared",
+        "From £18.49 to £49.99",
+        "Specs are manufacturer figures",
+        "Clean product photos"
+      ],
+      "pros": [
+        "The audio range is where our prices are genuinely strong",
+        "Every figure is labelled as the maker's claim rather than ours",
+        "Includes real drawbacks against each pair"
+      ],
+      "cons": [
+        "No independent testing — we compare published specs, not measured ones",
+        "The 46-product department is larger than the 12 compared on that page"
+      ],
+      "forWho": "Anyone shopping for headphones, earbuds or a headset and wanting to compare before buying."
+    },
+    {
+      "name": "WordPress Plugins — One-Time Price",
+      "price": 19,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+      "badge": "Highest margin",
+      "url": "https://megastore76.com/product-category/digital-services",
+      "ctaLabel": "See the plugins",
+      "summary": "Eight self-hosted WordPress plugins from £19, each doing a job that is normally sold as a monthly service — cart recovery, popups, urgency widgets, social proof, chat, search. We wrote them and run them on our own sites.",
+      "specs": [
+        "8 plugins from £19",
+        "One-time payment",
+        "Self-hosted, no API keys",
+        "Written and used by us"
+      ],
+      "pros": [
+        "Replaces a monthly subscription with a single payment",
+        "Our own products, so there is no distributor markup",
+        "Built so the urgency and social proof features cannot show invented numbers"
+      ],
+      "cons": [
+        "We wrote them, so this is our own description rather than an independent review",
+        "Some need half an hour of configuration to be worth having"
+      ],
+      "forWho": "WordPress and WooCommerce site owners paying monthly for tools that could be bought once."
+    },
+    {
+      "name": "Megastore76 Ministry Suite",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "Our flagship",
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "See the suite",
+      "summary": "Five offline ministry tools and all eleven books in one download. It works with no internet connection at all, and everything you type — prayer requests, visit notes — stays on your own computer.",
+      "specs": [
+        "5 ministry tools",
+        "11 EPUB books",
+        "Works fully offline",
+        "One payment of £147"
+      ],
+      "pros": [
+        "The privacy design is genuine: nothing is uploaded anywhere",
+        "A one-off price with no account and no subscription",
+        "The eleven books are a real published body of work"
+      ],
+      "cons": [
+        "£147 is a serious amount and there is no free trial",
+        "It does not sync between devices, by design",
+        "Future editions are released separately rather than included automatically"
+      ],
+      "forWho": "Pastors and ministry leaders who want ministry tools that do not send their congregation's confidences to a cloud service."
+    }
+  ],
+  "guide": {
+    "kicker": "Honestly",
+    "heading": "Four things we would rather tell you ourselves",
+    "intro": "Every store claims to be trustworthy, so a claim is worth nothing. Here are four specific things that are true about ours, including the one we are currently fixing.",
+    "points": [
+      {
+        "h": "We have no customer reviews yet",
+        "p": "Not one. There are zero ratings and zero reviews across all 218 products. Every star rating and testimonial you see on this site is therefore absent, because we have not invented any. We would rather show you nothing than show you a number we made up — and in the UK, invented reviews and fake scarcity are a consumer law risk, not just a bad look."
+      },
+      {
+        "h": "Most listing pictures are marketing graphics, not photos",
+        "p": "Most listings here carry a seller-made marketing graphic rather than a photograph of the product, and a few of those graphics show a placeholder price that does not match what the store charges. We look at the picture on every page we build, and we leave out any that prints a price, rating, award or review count the store cannot support — and we say so when we do. We never describe a picture as a photograph unless we have checked it. If a listing’s picture looks like a poster rather than a product, trust the price on the page rather than the figure in the image."
+      },
+      {
+        "h": "We tell you who you are buying from",
+        "p": "Only 18 of the 218 listings are ours — the WordPress plugins, the source-code tools, the three PDF guides and the Ministry Suite. The other 200 are links out: the button hands you to eBay, Amazon, Google Play or the vendor, and we earn a commission if you buy. Every tile and every listing on this page says which it is, so you find out before you click and not at the checkout. All 218 showed as in stock on 29 September 2026 and 15 were on sale, but stock and prices move, so the listing itself is always the final word."
+      },
+      {
+        "h": "The specs you read are the maker's, not ours",
+        "p": "On the tech pages we publish the manufacturer's own figures for noise cancelling, battery life and the rest, and we label them as such. We have not independently tested these products. Where we think a number is optimistic — and 56dB of noise cancelling for under £40 is optimistic — we say so on the page."
+      },
+      {
+        "h": "You can ask us before you buy",
+        "p": "There is a phone number and an email address at the bottom of this page and a person at the other end of both. If we think a cheaper listing suits you better, or that nothing in the shop fits what you need, we will tell you that rather than take the click."
+      },
+      {
+        "h": "Our own products and everything else are labelled differently",
+        "p": "The WordPress plugins, the source-code tools, the three PDF guides and the Ministry Suite are ours — we wrote them, and you buy them from us on this site. The tech and gadgets are not: 200 of the 218 listings send you to eBay, Amazon, Google Play or the vendor to complete the purchase. Nothing in the shop pretends otherwise — the badge on every tile and the note beside every listing name says where your money goes."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "The store",
+    "heading": "What Megastore76 is",
+    "intro": "A UK-based store selling tech, its own software and books. Small enough that you can reach the person who runs it.",
+    "cards": [
+      {
+        "ic": "🇬🇧",
+        "b": "UK-based, reachable",
+        "p": "Not a marketplace stall. Real phone number, real email, and a person who answers both."
+      },
+      {
+        "ic": "🧾",
+        "b": "One-time prices",
+        "p": "Nothing in the store is a subscription. You buy it, you own it, there is no renewal to forget about."
+      },
+      {
+        "ic": "✍️",
+        "b": "We say who sells it",
+        "p": "18 of the 218 listings are ours. The other 200 are affiliate links out to eBay, Amazon, Google Play or the vendor, and every one of them is labelled as such rather than posing as a product we stock."
+      }
+    ],
+    "slotNote": "This is where customer testimonials go on the store's front door. We have none to quote yet, so the space is empty rather than filled with invented ones. Send me real quotes and this becomes the strongest block on the page."
+  },
+  "faqHeading": "Common questions",
+  "faq": [
+    {
+      "q": "What does Megastore76 actually sell?",
+      "a": "Two kinds of listing. <b>Ours, bought on this site:</b> 14 WordPress plugins and source-code tools, three PDF guides, and the £147 Ministry Suite that bundles our tools with the book library — 18 listings in all. <b>Affiliate listings, bought elsewhere:</b> the tech and gadgets (audio, smart devices, smart home, TVs, power banks), ten books by Pastor Mega Philip Mega on Google Play, and a few software reviews — 200 listings, where the button hands you to eBay, Amazon, Google Play or the vendor. 218 in total across eight departments. Every tile on this page is labelled with which it is."
+    },
+    {
+      "q": "Why are there no reviews or star ratings?",
+      "a": "Because we have none yet — zero across all 218 products. Rather than invent them we leave the space empty. Invented reviews and fabricated scarcity are a consumer law risk in the UK, and they are also the fastest way to lose a customer who finds out."
+    },
+    {
+      "q": "Is anything a subscription?",
+      "a": "No. Every product in the store is a one-time purchase. The plugins, the source-code tools, the books and the Ministry Suite are all buy-once. That is deliberate — several of the plugins exist specifically to replace a monthly service you might be paying for."
+    },
+    {
+      "q": "Where should I start?",
+      "a": "If you want tech, the audio range is where our prices are strongest — 46 products and a comparison page covering twelve of them. If you run a WordPress site, start with the plugins from £19. If you want books, they start at £3.99. If you are in ministry, look at the £147 Ministry Suite."
+    },
+    {
+      "q": "Are the product photos real?",
+      "a": "Not all of them, and we would rather say so. Most listings carry a seller-made marketing graphic rather than a photograph of the product, and a few of those graphics show a placeholder price that does not match the real one. On the pages we build we look at every picture and leave out any that prints a price, rating, award or review count the store cannot support. So trust the price on the page rather than any figure inside a picture."
+    },
+    {
+      "q": "Can I ask a question before buying?",
+      "a": "Yes, and we would rather you did. Email <a href=\"mailto:megaphilip76@gmail.com\">megaphilip76@gmail.com</a> or call <a href=\"tel:+447869160958\">+44 7869 160958</a>. Tell us what you are trying to do and we will point you at the right listing — or tell you honestly that nothing in the shop fits."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Where to go",
+    "heading": "Pick your door and go",
+    "intro": "Eight departments, four kinds of shopper. Here is the shortest route from arriving to finding what you came for.",
+    "rows": [
+      {
+        "who": "You want headphones or earbuds",
+        "why": "46 products and a 12-pair comparison page",
+        "url": "https://megastore76.com/product-category/audio-headphones",
+        "label": "Audio & Headphones"
+      },
+      {
+        "who": "You want a gadget or a bargain",
+        "why": "Vacuums, wearables and everyday tech — 75 products",
+        "url": "https://megastore76.com/product-category/smart-devices",
+        "label": "Smart Devices"
+      },
+      {
+        "who": "You run a WordPress site",
+        "why": "Self-hosted plugins from £19, one-time price",
+        "url": "https://megastore76.com/product-category/digital-services",
+        "label": "Digital Services"
+      },
+      {
+        "who": "You are setting up a smart home",
+        "why": "Plugs, lighting and sensors — 38 products",
+        "url": "https://megastore76.com/product-category/smart-home",
+        "label": "Smart Home"
+      },
+      {
+        "who": "You want something to read",
+        "why": "Eleven books from £3.99 by Pastor Mega Philip Mega",
+        "url": "https://megastore76.com/product-category/books-and-publications",
+        "label": "Books and Publications"
+      },
+      {
+        "who": "You are in ministry",
+        "why": "5 offline tools plus all 11 books in one download",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite",
+        "label": "Ministry Suite · £147"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Not sure which door is yours?",
+    "text": "Tell us what you are trying to do and we will point you at the right department — or tell you honestly that nothing in the shop fits. That is a quicker answer than scrolling 218 products.",
+    "label": "Ask us on WhatsApp",
+    "url": "https://wa.me/447869160958",
+    "secondaryLabel": "Browse the whole store",
+    "secondaryUrl": "https://megastore76.com/shop"
+  },
+  "sticky": {
+    "top": "218 products",
+    "sub": "8 departments · UK store",
+    "label": "Shop",
+    "url": "https://megastore76.com/shop"
+  },
+  "disclosure": "This page describes products sold on megastore76.com. Eighteen of the 218 listings — the WordPress plugins, the source-code tools, the three PDF guides and the Ministry Suite — are our own products and you buy them from us. The other 200 are links out: the button hands you to eBay, Amazon, Google Play or the vendor, and we earn a commission if you buy. Product counts and prices were read from the live store on 29 September 2026 and will drift as the store grows. We have no customer reviews, and none have been invented for this page.",
+  "shelves": {
+    "kicker": "The shelves",
+    "heading": "63 of the 218 products, pictured",
+    "intro": "<p>Every department on this page, with the products themselves. Each tile carries that listing's own image, its own price and its own link — nothing here is a stock photo of something similar.</p><p>The badge on a tile tells you where the button takes you, because in this shop that varies: <b>Bought here</b> means we sell it and you check out on this site, and <b>via eBay</b>, <b>via Amazon</b> or <b>via Google Play</b> means the listing hands you to that seller and we earn a commission on the sale. 18 of the 218 listings are ours; the rest are links out.</p>",
+    "legend": "<b>Why only 63 of them are pictured.</b> Every listing in this store carries one image, and most of those images are seller-made marketing graphics rather than photographs. We have opened and looked at the picture on each of the 63 below, and we checked the two things that actually mislead people: a price the store does not charge, and a rating, award or review count the store cannot back. The other 155 listings are listed in text further down each shelf. Where a listing's picture prints a price or a badge we cannot stand behind, the listing stays and the picture does not.",
+    "groups": [
+      {
+        "name": "TVs & Displays",
+        "sub": "The two OLEDs we compare in full, and the streaming sticks most people actually buy. The 55-inch and 65-inch panels are the same listings the TV pages discuss.",
+        "count": 12,
+        "items": [
+          {
+            "id": 3613,
+            "name": "LG C5 OLED",
+            "price": 1499,
+            "url": "https://megastore76.com/product/lg-c5-oled-tv",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 3609,
+            "name": "Samsung S95D OLED",
+            "price": 1799,
+            "url": "https://megastore76.com/product/samsung-s95d-oled",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/image-31.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5935,
+            "name": "Amazon Fire TV Stick 4K Select Latest Gen Alexa 4K UHD Streaming Media Player",
+            "price": 39.99,
+            "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-select-latest-gen-alexa-4k-uhd-streaming-media-player",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_aesg9uaesg9uaesg-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 4429,
+            "name": "4K Streaming Stick with Voice Remote",
+            "price": 39.99,
+            "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5930,
+            "name": "Amazon Fire Stick TV 4K Ultra HD Firestick Streaming + Remote – 1st Gen UNBOXED",
+            "price": 38.5,
+            "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-remote-1st-gen-unboxed",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h38zfuh38zfuh38z-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5938,
+            "name": "Amazon Fire Stick TV 4K Ultra HD Firestick Streaming Voice Control Remote",
+            "price": 9.95,
+            "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2ji4hf2ji4hf2ji4-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "Also in TVs & Displays",
+          "sub": "6 more listings in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "Amazon Fire TV Stick 4K Max Gen 2 | Streaming Device | Wi-Fi 6 Alexa Voice",
+              "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Fire TV Stick 4K Plus streaming device 8gb Wi-Fi 6 Dolby Vision Brand New",
+              "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-plus-streaming-device-8gb-wi-fi-6-dolby-vision-brand-new",
+              "via": "via eBay"
+            },
+            {
+              "name": "Android TV Stick 4K S02 – Smart Streaming Device | 4K Ultra HD | Android TV",
+              "url": "https://megastore76.com/product/android-tv-stick-4k-s02-smart-streaming-device-4k-ultra-hd-android-tv",
+              "via": "via eBay"
+            },
+            {
+              "name": "Fire TV Stick 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote F3",
+              "url": "https://megastore76.com/product/fire-tv-stick-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote-f3",
+              "via": "via eBay"
+            },
+            {
+              "name": "Fire TV Stick F3 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote",
+              "url": "https://megastore76.com/product/fire-tv-stick-f3-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote",
+              "via": "via eBay"
+            },
+            {
+              "name": "Roku Streaming Stick 2025 HD Streaming Device For TV With Roku Voice Remote",
+              "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote",
+              "via": "via eBay"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Audio & Headphones",
+        "sub": "Our strongest department, and the one where our prices beat the high street most clearly. Every noise-cancelling figure here is the maker’s own claim printed on the listing — we have not measured any of them, and on one pair we think the claim is optimistic.",
+        "count": 46,
+        "items": [
+          {
+            "id": 6004,
+            "name": "Samsung Galaxy Buds 4 Pro Wireless Earbuds ANC Bluetooth Noise Cancelling – Black",
+            "price": 164.99,
+            "url": "https://megastore76.com/product/samsung-galaxy-buds-4-pro-wireless-earbuds-anc-bluetooth-noise-cancelling-black",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3o44tn3o44tn3o44-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 3633,
+            "name": "Samsung Galaxy Bud FE",
+            "price": 60.99,
+            "url": "https://megastore76.com/product/samsung-galaxy-bud-fe",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_1c4k581c4k581c4k-scaled.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 3642,
+            "name": "Maxmate MPV 90H",
+            "price": 49.99,
+            "url": "https://megastore76.com/product/maxmate-mpv-90h-wireless-noise-cancelling-headphones",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/image-40.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6647,
+            "name": "HAYLOU S40 ANC Wireless Headphones (50dB Noise Cancelling)",
+            "price": 42.77,
+            "url": "https://megastore76.com/product/haylou-s40-anc-wireless-headphones-50db-noise-cancelling",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/haylou_s40_headphones.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 3626,
+            "name": "Soundcore by Anker Space A40",
+            "price": 42.49,
+            "url": "https://megastore76.com/product/soundcore-space-a40",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_otidiqotidiqotid-scaled.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6646,
+            "name": "QCY H3S Adaptive ANC Wireless Headphones (Bluetooth 6.0)",
+            "price": 37.41,
+            "url": "https://megastore76.com/product/qcy-h3s-adaptive-anc-wireless-headphones-bluetooth-6-0",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/qcy_h3s_headphones.webp",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 6645,
+            "name": "UGREEN Studio Pro Wireless Headphones (48dB ANC, Hi-Res LDAC)",
+            "price": 35.45,
+            "url": "https://megastore76.com/product/ugreen-studio-pro-wireless-headphones-48db-anc-hi-res-ldac",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/ugreen_studio_pro_headphones.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 6649,
+            "name": "UGREEN Max5c Wireless Headphones (43dB ANC, Spatial Audio)",
+            "price": 33.03,
+            "url": "https://megastore76.com/product/ugreen-max5c-wireless-headphones-43db-anc-spatial-audio",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/ugreen_headphones_product.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 6536,
+            "name": "Logitech G G321 LIGHTSPEED Wireless Gaming Headset",
+            "price": 32.99,
+            "url": "https://megastore76.com/product/logitech-g-g321-lightspeed-wireless-gaming-headset",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/logitech_g321_hero.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6475,
+            "name": "FIFINE K669B USB Microphone",
+            "price": 29.99,
+            "url": "https://megastore76.com/product/fifine-k669b-usb-microphone",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/fifine_k669b_microphone.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6478,
+            "name": "MAONO DGM20 USB Microphone",
+            "price": 29.99,
+            "url": "https://megastore76.com/product/maono-dgm20-usb-microphone",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/maono_dgm20_gaming_microphone.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6661,
+            "name": "Edifier X5 Pro ANC Wireless Earbuds",
+            "price": 26.89,
+            "url": "https://megastore76.com/product/edifier-x5-pro-anc-wireless-earbuds",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/edifier_x5_pro_earbuds.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 6660,
+            "name": "Baseus EP10 Pro ANC Wireless Earbuds",
+            "price": 23.2,
+            "url": "https://megastore76.com/product/baseus-ep10-pro-anc-wireless-earbuds",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/baseus_earbuds_studio.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 6665,
+            "name": "Lenovo LE209 Wireless Earbuds",
+            "price": 10.48,
+            "url": "https://megastore76.com/product/lenovo-le209-wireless-earbuds",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/to_lenovo_earbuds_product_image.webp",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "Also in Audio & Headphones",
+          "sub": "32 more listings in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "Amazon Basics USB Condenser Microphone",
+              "url": "https://megastore76.com/product/amazon-basics-usb-condenser-microphone",
+              "via": "via Amazon"
+            },
+            {
+              "name": "AOC 3-in-1 Wireless Headset with Microphone",
+              "url": "https://megastore76.com/product/aoc-3-in-1-wireless-headset-with-microphone",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Baseus EH10 NC ANC Wireless Headphones (Hi-Res LDAC, 80Hrs)",
+              "url": "https://megastore76.com/product/baseus-eh10-nc-anc-wireless-headphones-hi-res-ldac-80hrs",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "BINNUNE BW06 Wireless Gaming Headset (PS5, PS4, PC, Mac)",
+              "url": "https://megastore76.com/product/binnune-bw06-wireless-gaming-headset-ps5-ps4-pc-mac",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Bluetooth Earphones TWS Mini Wireless Headphones In-Ear Buds For iPhone Android",
+              "url": "https://megastore76.com/product/bluetooth-earphones-tws-mini-wireless-headphones-in-ear-buds-for-iphone-android",
+              "via": "via eBay"
+            },
+            {
+              "name": "BOYA BY-M1 Lavalier Microphone",
+              "url": "https://megastore76.com/product/boya-by-m1-lavalier-microphone",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Btootos Wireless Earbuds, Bluetooth 5.3 Headphones In Ear with 4 ENC Noise Cancel",
+              "url": "https://megastore76.com/product/btootos-wireless-earbuds-bluetooth-5-3-headphones-in-ear-with-4-enc-noise-cancel",
+              "via": "via eBay"
+            },
+            {
+              "name": "Deep Beats Wireless Earbuds Bluetooth Noise Cancelling – New",
+              "url": "https://megastore76.com/product/deep-beats-wireless-earbuds-bluetooth-noise-cancelling-new",
+              "via": "via eBay"
+            },
+            {
+              "name": "Edifier Comfo Flex Open-Ear Wireless Earbuds",
+              "url": "https://megastore76.com/product/edifier-comfo-flex-open-ear-wireless-earbuds",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Edifier W280NB Pro Wireless Neckband Earphones",
+              "url": "https://megastore76.com/product/edifier-w280nb-pro-wireless-neckband-earphones",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Edifier X3 Pro ANC Wireless Earbuds",
+              "url": "https://megastore76.com/product/edifier-x3-pro-anc-wireless-earbuds",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "JBL Tune 520 BT Wireless On-Ear Headphones",
+              "url": "https://megastore76.com/product/jbl-tune-520-bt-wireless-on-ear-headphones",
+              "via": "via Amazon"
+            },
+            {
+              "name": "KVIDIO Bluetooth Headphones Over Ear",
+              "url": "https://megastore76.com/product/kvidio-bluetooth-headphones-over-ear",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Lenovo LP5 Pro Bluetooth 5.4 Wireless Earbuds ENC Noise Cancelling HiFi Stereo",
+              "url": "https://megastore76.com/product/lenovo-lp5-pro-bluetooth-5-4-wireless-earbuds-enc-noise-cancelling-hifi-stereo",
+              "via": "via eBay"
+            },
+            {
+              "name": "Lenovo Xt80 Sports Wireless Earphones",
+              "url": "https://megastore76.com/product/lenovo-xt80-sports-wireless-earphones",
+              "via": "via eBay"
+            },
+            {
+              "name": "MCHOSE V9 Pro Wireless Gaming Headset (Three-Mode, PC)",
+              "url": "https://megastore76.com/product/mchose-v9-pro-wireless-gaming-headset-three-mode-pc",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Mini Bluetooth 5.3 Invisible Earbuds Wireless TWS Headphones w/ Mic Noise Cancel",
+              "url": "https://megastore76.com/product/mini-bluetooth-5-3-invisible-earbuds-wireless-tws-headphones-w-mic-noise-cancel",
+              "via": "via eBay"
+            },
+            {
+              "name": "Movo VXR10 Shotgun Microphone",
+              "url": "https://megastore76.com/product/movo-vxr10-shotgun-microphone",
+              "via": "via Amazon"
+            },
+            {
+              "name": "New Bee Bluetooth Headset V5.3",
+              "url": "https://megastore76.com/product/new-bee-bluetooth-headset-v5-3",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Open-Ear Sport Earbuds Bluetooth 5.4 Wireless Headphones Air Conduction",
+              "url": "https://megastore76.com/product/open-ear-sport-earbuds-bluetooth-5-4-wireless-headphones-air-conduction",
+              "via": "via eBay"
+            },
+            {
+              "name": "QCY MeloBuds Pro ANC Wireless Earbuds",
+              "url": "https://megastore76.com/product/qcy-melobuds-pro-anc-wireless-earbuds",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Shoumi Wireless Headphones with Display Screen (TF-Card MP3)",
+              "url": "https://megastore76.com/product/shoumi-wireless-headphones-with-display-screen-tf-card-mp3",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "Skullcandy Sesh Evo True Wireless Earphones Bluetooth Earbuds – IP55 – Mint",
+              "url": "https://megastore76.com/product/skullcandy-sesh-evo-true-wireless-earphones-bluetooth-earbuds-ip55-mint",
+              "via": "via eBay"
+            },
+            {
+              "name": "Sumvision Wave BX Wireless Bluetooth Headphones",
+              "url": "https://megastore76.com/product/sumvision-wave-bx-wireless-bluetooth-headphones",
+              "via": "via Amazon"
+            },
+            {
+              "name": "TONOR TC30 RGB USB Microphone",
+              "url": "https://megastore76.com/product/tonor-tc30-rgb-usb-microphone",
+              "via": "via Amazon"
+            },
+            {
+              "name": "TOZO T10 Wireless Earbuds Blue, Bluetooth IPX8 Waterproof Wireless Charging Case",
+              "url": "https://megastore76.com/product/tozo-t10-wireless-earbuds-blue-bluetooth-ipx8-waterproof-wireless-charging-case",
+              "via": "via eBay"
+            },
+            {
+              "name": "TWS Bluetooth 5.3 Earphones Mini Wireless Headphones InEar Buds For SONY Android",
+              "url": "https://megastore76.com/product/tws-bluetooth-5-3-earphones-mini-wireless-headphones-inear-buds-for-sony-android",
+              "via": "via eBay"
+            },
+            {
+              "name": "TWS Bluetooth Wireless Earbuds Dual Mic ENC Earphones For Android & iPhone",
+              "url": "https://megastore76.com/product/tws-bluetooth-wireless-earbuds-dual-mic-enc-earphones-for-android-iphone",
+              "via": "via eBay"
+            },
+            {
+              "name": "TWS BX17 Wireless Earbuds Bluetooth 5.3 48H Playtime LED IPX7 Sport Mic Bass",
+              "url": "https://megastore76.com/product/tws-bx17-wireless-earbuds-bluetooth-5-3-48h-playtime-led-ipx7-sport-mic-bass",
+              "via": "via eBay"
+            },
+            {
+              "name": "Wireless Earbuds Bluetooth 5.3 ENC Mic 40H Playtime Deep Bass IP7 Waterproof",
+              "url": "https://megastore76.com/product/wireless-earbuds-bluetooth-5-3-enc-mic-40h-playtime-deep-bass-ip7-waterproof",
+              "via": "via eBay"
+            },
+            {
+              "name": "Wireless Earbuds Ear Buds Bluetooth 5.3 Charging Case iPhone Samsung Android TWS (£8.50)",
+              "url": "https://megastore76.com/product/wireless-earbuds-ear-buds-bluetooth-5-3-charging-case-iphone-samsung-android-tws-8-50",
+              "via": "via eBay"
+            },
+            {
+              "name": "Wireless Earbuds Ear Buds Bluetooth 5.3 Charging Case iPhone Samsung Android TWS (£8.79)",
+              "url": "https://megastore76.com/product/wireless-earbuds-ear-buds-bluetooth-5-3-charging-case-iphone-samsung-android-tws-8-79",
+              "via": "via eBay"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Books and Publications",
+        "sub": "Books by Pastor Mega Philip Mega from £3.99. Ten of the eleven are listed here separately and are bought on Google Play, so the button hands you there. The £147 Ministry Suite at the top is ours: the whole eleven-book library plus the five offline ministry tools, in one download you own outright.",
+        "count": 11,
+        "items": [
+          {
+            "id": 6933,
+            "name": "Megastore76 Ministry Suite",
+            "price": 147,
+            "url": "https://megastore76.com/product/megastore76-ministry-suite",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6907,
+            "name": "Undivided: A One-Year Devotional for Christian Couples Pursuing Their Calling and Their Family",
+            "price": 6.99,
+            "url": "https://megastore76.com/product/undivided-a-one-year-devotional-for-christian-couples-pursuing-their-calling-and-their-family",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6908,
+            "name": "Forgiving Forward: A Christian’s Guide to Releasing Resentment and Finding Freedom",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/forgiving-forward-a-christians-guide-to-releasing-resentment-and-finding-freedom",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Forgiving-Forward-cover-original-subtitle.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6906,
+            "name": "Dating on Purpose: Courtship, Boundaries, and Discerning God’s Will Before Marriage",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/dating-on-purpose-courtship-boundaries-and-discerning-gods-will-before-marriage",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-dating-on-purpose.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6905,
+            "name": "Waiting Well: A Christian’s Guide to Singleness Without Settling",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/waiting-well-a-christians-guide-to-singleness-without-settling",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-waiting-well.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6903,
+            "name": "Stories That Build Faith: Bible Accounts That Draw You Closer to God",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/stories-that-build-faith-bible-accounts-that-draw-you-closer-to-god",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-stories-that-build-faith.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6446,
+            "name": "Loving Like Jesus: Living Out the Gospel in Every Relationship",
+            "price": 4.89,
+            "url": "https://megastore76.com/product/loving-like-jesus-living-out-the-gospel-in-every-relationship",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Lovin-like-Jesus.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6904,
+            "name": "The Christian Journey: Walking in Uncompromising Holiness and Integrity",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/the-christian-journey-walking-in-uncompromising-holiness-and-integrity",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-christian-journey.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6447,
+            "name": "God’s Blueprint for a Strong Christian Marriage: A Biblical Guide to Building Love, Trust & Unity That Lasts",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/gods-blueprint-for-a-strong-christian-marriage-a-biblical-guide-to-building-love-trust-unity-that-lasts",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6445,
+            "name": "Bringing Up God-Fearing Children: Raising Children Who Love God in a Confused World",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/bringing-up-god-fearing-children-raising-children-who-love-god-in-a-confused-world",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Bringing-Up-God-Fearing-Children-scaled.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "Also in Books and Publications",
+          "sub": "1 more listing in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "Unusual Obedience: When God Asks the Unexpected",
+              "url": "https://megastore76.com/product/unusual-obedience-when-god-asks-the-unexpected",
+              "via": "via Google Play"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Digital Services",
+        "sub": "The tools we wrote ourselves and run on our own sites, and you buy them here. One-time price, self-hosted, no subscription and no API key. The four software reviews in this department are not ours — they are affiliate listings, and they sit in the list below tagged with where the button goes.",
+        "count": 19,
+        "items": [
+          {
+            "id": 6852,
+            "name": "Invoice Chaser — Automated Payment Reminder SaaS (Source Code)",
+            "price": 99,
+            "url": "https://megastore76.com/product/invoice-chaser-automated-payment-reminder-saas-source-code",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Payment-Reinder.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6869,
+            "name": "Shiplog — Self-Hosted Changelog & Feedback Board (Source Code)",
+            "price": 49,
+            "url": "https://megastore76.com/product/shiplog-self-hosted-changelog-feedback-board-source-code",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Shiplog.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6876,
+            "name": "InvoiceForge — Self-Hosted Invoice Generator & Client Manager (Source Code)",
+            "price": 39,
+            "url": "https://megastore76.com/product/invoiceforge-self-hosted-invoice-generator-client-manager-source-code",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/InvoiceForge.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6742,
+            "name": "Abandoned Cart Recovery for WooCommerce",
+            "price": 29,
+            "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6738,
+            "name": "Urgency & Scarcity Widgets for WooCommerce",
+            "price": 27,
+            "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6741,
+            "name": "Live Chat / Click-to-Chat Bubble for WordPress",
+            "price": 19,
+            "url": "https://megastore76.com/product/live-chat-click-to-chat-bubble-for-wordpress",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-1.png",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6233,
+            "name": "Social Pulse – Floating Social Icons & Follow Widget",
+            "price": 19,
+            "url": "https://megastore76.com/product/social-pulse-floating-social-icons-follow-widget",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/sp.jpeg",
+            "badge": "Bought here",
+            "kind": "ours"
+          }
+        ],
+        "more": {
+          "heading": "Also in Digital Services",
+          "sub": "11 more listings in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "Affiliate Revenue Optimizer",
+              "url": "https://megastore76.com/product/affiliate-revenue-optimizer",
+              "via": "Bought here"
+            },
+            {
+              "name": "Canva Pro Review: The All-in-One Design Platform",
+              "url": "https://megastore76.com/product/canva-pro-review-the-all-in-one-design-platform",
+              "via": "via canva.com"
+            },
+            {
+              "name": "ElevenLabs Complete Review: The AI Voice Platform Impacting The World.",
+              "url": "https://megastore76.com/product/elevenlabs-complete-review-ai-voice-platform",
+              "via": "via try.elevenlabs.io"
+            },
+            {
+              "name": "LinkForge — Self-Hosted Link-in-Bio Page & Click Analytics (Source Code)",
+              "url": "https://megastore76.com/product/linkforge-self-hosted-link-in-bio-page-click-analytics-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "Midjourney Review: AI Image Generation Explained",
+              "url": "https://megastore76.com/product/midjourney-review-ai-image-generation-explained",
+              "via": "via midjourney.com"
+            },
+            {
+              "name": "Newsletter Capture — Smart Popup & Lead Capture for WordPress",
+              "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "NordVPN Complete Review: Secure Browsing for 2026",
+              "url": "https://megastore76.com/product/nordvpn-complete-review-secure-browsing-for-2026",
+              "via": "via go.nordvpn.net"
+            },
+            {
+              "name": "QRForge — Self-Hosted Dynamic QR Code Generator & Scan Analytics (Source Code)",
+              "url": "https://megastore76.com/product/qrforge-self-hosted-dynamic-qr-code-generator-scan-analytics-source-code",
+              "via": "Bought here"
+            },
+            {
+              "name": "Reading Experience Kit — Progress Bar, Table of Contents & Read Time for WordPress",
+              "url": "https://megastore76.com/product/reading-experience-kit-progress-bar-table-of-contents-read-time-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "Smart Search — Instant On-Site Search for WordPress",
+              "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+              "via": "Bought here"
+            },
+            {
+              "name": "Social Proof Badges — Real “Popular This Week” Trust Badges for WordPress",
+              "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+              "via": "Bought here"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Smart Devices",
+        "sub": "The widest range in the store and the one where quality varies most, so it runs from two premium e-ink tablets down to a £11 desk blower. The watches here are the ones we cover on the smartwatch page.",
+        "count": 75,
+        "items": [
+          {
+            "id": 6510,
+            "name": "Viwoods AiPaper 10.65″ AI E Ink Tablet with Pen",
+            "price": 465.99,
+            "url": "https://megastore76.com/product/viwoods-aipaper-10-65-ai-e-ink-tablet-with-pen",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/viwoods_aipaper_product_shot.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6511,
+            "name": "reMarkable 2 Paper Tablet",
+            "price": 365.28,
+            "url": "https://megastore76.com/product/remarkable-2-paper-tablet",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/remarkable2_paper_tablet.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6512,
+            "name": "Plaud Note Pro AI Voice Recorder",
+            "price": 169,
+            "url": "https://megastore76.com/product/plaud-note-pro-ai-voice-recorder",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/plaud_note_pro_hero.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5918,
+            "name": "CZ Smart PQ2 Hybrid Smartwatch Citizen Heart Rate Activity Tracker JX2005-55E",
+            "price": 110,
+            "url": "https://megastore76.com/product/cz-smart-pq2-hybrid-smartwatch-citizen-heart-rate-activity-tracker-jx2005-55e",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/citizen_smartwatch_luxury.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5963,
+            "name": "Windows 11 Cheap Laptop Mini 11″ 1.2Ghz 4GB RAM 128GB Storage",
+            "price": 79.99,
+            "url": "https://megastore76.com/product/windows-11-cheap-laptop-mini-11-1-2ghz-4gb-ram-128gb-storage",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/windows_11_mini_laptop.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5906,
+            "name": "Apple Watch Series 6 Smartwatch – Various Colours – 40&44mm",
+            "price": 72.95,
+            "url": "https://megastore76.com/product/apple-watch-series-6-smartwatch-various-colours-4044mm",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3nf3u03nf3u03nf3-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5924,
+            "name": "Google Pixel Watch 2 Smartwatch – Wi-Fi & LTE – 41mm – Various Colours",
+            "price": 64.95,
+            "url": "https://megastore76.com/product/google-pixel-watch-2-smartwatch-wi-fi-lte-41mm-various-colours",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_yisprzyisprzyisp-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5911,
+            "name": "Apple Watch SE Smartwatch – Various Colours – 40&44mm",
+            "price": 64.95,
+            "url": "https://megastore76.com/product/apple-watch-se-smartwatch-various-colours-4044mm",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ca06v8ca06v8ca06-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5927,
+            "name": "Samsung Galaxy Watch 6 40mm – LTE – SM-R935 – Smartwatch – Graphite",
+            "price": 54.95,
+            "url": "https://megastore76.com/product/samsung-galaxy-watch-6-40mm-lte-sm-r935-smartwatch-graphite",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_fn039kfn039kfn03-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5923,
+            "name": "Nothing Watch Pro 2 Smartwatch – Bluetooth – 11 Days Battery – Multiple Colours",
+            "price": 49.95,
+            "url": "https://megastore76.com/product/nothing-watch-pro-2-smartwatch-bluetooth-11-days-battery-multiple-colours",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_rmrws5rmrws5rmrw-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5950,
+            "name": "Dell Chromebook 11 3120 Laptop Intel Celeron 16GB Chrome OS WebCAM HDMI",
+            "price": 25.28,
+            "url": "https://megastore76.com/product/dell-chromebook-11-3120-laptop-intel-celeron-16gb-chrome-os-webcam-hdmi",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/dell_chromebook_luxury_ad.webp",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 6643,
+            "name": "8BitDo SN30 2.4G Wireless Gamepad (Retro SNES/SFC Style)",
+            "price": 20.11,
+            "url": "https://megastore76.com/product/8bitdo-sn30-2-4g-wireless-gamepad-retro-snes-sfc-style",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/snes_controller_studio.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          },
+          {
+            "id": 5928,
+            "name": "ZL02 Smart Watch with Heart Rate, Blood Pressure and Sleep Monitoring Bluetooth",
+            "price": 19.99,
+            "url": "https://megastore76.com/product/zl02-smart-watch-with-heart-rate-blood-pressure-and-sleep-monitoring-bluetooth",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/zl02_smart_watch.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 6641,
+            "name": "P70 Cordless Air Duster (110,000 RPM Turbo Blower)",
+            "price": 11.28,
+            "url": "https://megastore76.com/product/p70-cordless-air-duster-110000-rpm-turbo-blower",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/p70_cordless_air_duster.jpg",
+            "badge": "via rzekl.com",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "Also in Smart Devices",
+          "sub": "56 more listings in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "14.1″ Windows 11 Laptop 4GB RAM 128GB FHD USB-C Fusion5 A90B+ Pro 2025",
+              "url": "https://megastore76.com/product/14-1-windows-11-laptop-4gb-ram-128gb-fhd-usb-c-fusion5-a90b-pro-2025",
+              "via": "via eBay"
+            },
+            {
+              "name": "15.6″ Windows 11 Laptop 16GB RAM 512GB SSD FHD Intel N100 Fusion5 S15 N2 UK",
+              "url": "https://megastore76.com/product/15-6-windows-11-laptop-16gb-ram-512gb-ssd-fhd-intel-n100-fusion5-s15-n2-uk",
+              "via": "via eBay"
+            },
+            {
+              "name": "20000mAh Solar Power Bank with Fast Charging",
+              "url": "https://megastore76.com/product/20000mah-solar-power-bank-with-fast-charging",
+              "via": "via Amazon"
+            },
+            {
+              "name": "2026 Smart Watch Women Smartwatch Bluetooth",
+              "url": "https://megastore76.com/product/2026-smart-watch-women-smartwatch-bluetooth",
+              "via": "via eBay"
+            },
+            {
+              "name": "4G Smart Watch for Men Women 5MP Camera Touch Screen 2.86″ Screen Android",
+              "url": "https://megastore76.com/product/4g-smart-watch-for-men-women-5mp-camera-touch-screen-2-86-screen-android",
+              "via": "via eBay"
+            },
+            {
+              "name": "65W GaN Fast Charger with Dual USB-C Ports",
+              "url": "https://megastore76.com/product/65w-gan-fast-charger-with-dual-usb-c-ports",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Acer 14in Lightweight Compact Laptop Windows 10 for Basic Everyday Use",
+              "url": "https://megastore76.com/product/acer-14in-lightweight-compact-laptop-windows-10-for-basic-everyday-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "Acer Aspire A114-33-po39 Brand New Boxed Silver 14″ Intel N6000 4GB 128GB",
+              "url": "https://megastore76.com/product/acer-aspire-a114-33-po39-brand-new-boxed-silver-14-intel-n6000-4gb-128gb",
+              "via": "via eBay"
+            },
+            {
+              "name": "Air Protective Shockproof TPU Case for iPhone 17",
+              "url": "https://megastore76.com/product/air-protective-shockproof-tpu-case-for-iphone-17",
+              "via": "via eBay"
+            },
+            {
+              "name": "AMOLED Smart Watch Fitness Tracker Video Player 4GB Large Memory For Men Women",
+              "url": "https://megastore76.com/product/amoled-smart-watch-fitness-tracker-video-player-4gb-large-memory-for-men-women",
+              "via": "via eBay"
+            },
+            {
+              "name": "AMOLED Smartwatch – Always Show Time – for Android iOS Men Ladies",
+              "url": "https://megastore76.com/product/amoled-smartwatch-always-show-time-for-android-ios-men-ladies",
+              "via": "via eBay"
+            },
+            {
+              "name": "Anker Soundcore Work AI Voice Recorder Review 2026: A Pocket-Sized Meeting Assistant",
+              "url": "https://megastore76.com/product/anker-soundcore-work-ai-voice-recorder-review-2026-a-pocket-sized-meeting-assistant",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Asus C202S Chromebook 11.6″ Laptop notebook (Good for everyday use)",
+              "url": "https://megastore76.com/product/asus-c202s-chromebook-11-6-laptop-notebook-good-for-everyday-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure",
+              "url": "https://megastore76.com/product/bluetooth-smart-watch-call-fitness-tracker-men-women-heart-rate-blood-pressure",
+              "via": "via eBay"
+            },
+            {
+              "name": "Cheap Laptop Mini Windows 10 11″ Laptop 1.2Ghz 4GB RAM 64GB Storage",
+              "url": "https://megastore76.com/product/cheap-laptop-mini-windows-10-11-laptop-1-2ghz-4gb-ram-64gb-storage",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Latitude 3301 Laptop – 13″ FHD i5-8265u CPU 8GB Ram 256GB SSD Windows 11",
+              "url": "https://megastore76.com/product/dell-latitude-3301-laptop-13-fhd-i5-8265u-cpu-8gb-ram-256gb-ssd-windows-11",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Latitude 3390 2-in-1 i5 8GB RAM 128GB SSD Touchscreen Win 11 Pro (Good)",
+              "url": "https://megastore76.com/product/dell-latitude-3390-2-in-1-i5-8gb-ram-128gb-ssd-touchscreen-win-11-pro-good",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Latitude 3390 2-in-1 i5 8GB RAM 128GB SSD Touchscreen Win 11 Pro (Used)",
+              "url": "https://megastore76.com/product/dell-latitude-3390-2-in-1-i5-8gb-ram-128gb-ssd-touchscreen-win-11-pro-used",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Latitude 5300 Laptop, 13.3″ I5-8365U 16GB RAM 512GB SSD Win 11 Pro",
+              "url": "https://megastore76.com/product/dell-latitude-5300-laptop-13-3-i5-8365u-16gb-ram-512gb-ssd-win-11-pro",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Latitude 7490 14″ Laptop Intel i5 8GB RAM 128GB SSD Linux OS",
+              "url": "https://megastore76.com/product/dell-latitude-7490-14-laptop-intel-i5-8gb-ram-128gb-ssd-linux-os",
+              "via": "via eBay"
+            },
+            {
+              "name": "Dell Vostro 14 5468 Laptop Core i5 7th Gen 8GB RAM 256GB SSD Win 11 Pro HDMI",
+              "url": "https://megastore76.com/product/dell-vostro-14-5468-laptop-core-i5-7th-gen-8gb-ram-256gb-ssd-win-11-pro-hdmi",
+              "via": "via eBay"
+            },
+            {
+              "name": "GameSir Nova Lite Wireless Gamepad (Hall Effect, Multi-Platform)",
+              "url": "https://megastore76.com/product/gamesir-nova-lite-wireless-gamepad-hall-effect-multi-platform",
+              "via": "via rzekl.com"
+            },
+            {
+              "name": "HP 14s-dq0518sa Laptop – Compact, Reliable, and Ready for Everyday Use",
+              "url": "https://megastore76.com/product/hp-14s-dq0518sa-laptop-compact-reliable-and-ready-for-everyday-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "HP 250 G7 15.6 Laptop i5-8265U 4GB DDR4 256GB NVMe",
+              "url": "https://megastore76.com/product/hp-250-g7-15-6-laptop-i5-8265u-4gb-ddr4-256gb-nvme",
+              "via": "via eBay"
+            },
+            {
+              "name": "HP Laptop 15s-fq5020na – Perfect for Students, Work & Everyday Use",
+              "url": "https://megastore76.com/product/hp-laptop-15s-fq5020na-perfect-for-students-work-everyday-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "JOTO Reusable Cable Management Sleeve Kit (6-Pack)",
+              "url": "https://megastore76.com/product/joto-reusable-cable-management-sleeve-kit-6-pack",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Laptop Dell Latitude 5410 Core i5 10th Gen 16GB Ram 512GB SSD NVME Win 11 Pro",
+              "url": "https://megastore76.com/product/laptop-dell-latitude-5410-core-i5-10th-gen-16gb-ram-512gb-ssd-nvme-win-11-pro",
+              "via": "via eBay"
+            },
+            {
+              "name": "Lenovo 100e 2nd Gen Windows 10 Laptop, 11.6″ screen, 64gb eMMC/Webcam",
+              "url": "https://megastore76.com/product/lenovo-100e-2nd-gen-windows-10-laptop-11-6-screen-64gb-emmc-webcam",
+              "via": "via eBay"
+            },
+            {
+              "name": "Lenovo 300e 2nd Gen Touch Screen Fast Laptop",
+              "url": "https://megastore76.com/product/lenovo-300e-2nd-gen-touch-screen-fast-laptop",
+              "via": "via eBay"
+            },
+            {
+              "name": "Lenovo MT 81AX BU Laptop Intel i5 8GB Ram 256GB SSD Win 11 Pro",
+              "url": "https://megastore76.com/product/lenovo-mt-81ax-bu-laptop-intel-i5-8gb-ram-256gb-ssd-win-11-pro",
+              "via": "via eBay"
+            },
+            {
+              "name": "Lenovo ThinkBook 13 IML Laptop i7 10th gen 16GB RAM 512GB NVME Win 11 V.Good",
+              "url": "https://megastore76.com/product/lenovo-thinkbook-13-iml-laptop-i7-10th-gen-16gb-ram-512gb-nvme-win-11-v-good",
+              "via": "via eBay"
+            },
+            {
+              "name": "Magnetic MagSafe Silicone Phone Case for iPhone 17",
+              "url": "https://megastore76.com/product/magnetic-magsafe-silicone-phone-case-for-iphone-17",
+              "via": "via eBay"
+            },
+            {
+              "name": "MagSafe Case Liquid Silicone (Shockproof) for iPhone 17",
+              "url": "https://megastore76.com/product/magsafe-case-liquid-silicone-shockproof-for-iphone-17",
+              "via": "via eBay"
+            },
+            {
+              "name": "MagSafe Case Liquid Silicone Premium Finish for iPhone 17",
+              "url": "https://megastore76.com/product/magsafe-case-liquid-silicone-premium-finish-for-iphone-17",
+              "via": "via eBay"
+            },
+            {
+              "name": "Microsoft Surface Pro 12-Inch Keyboard | Compatible with Surface Pro Copilot+",
+              "url": "https://megastore76.com/product/microsoft-surface-pro-12-inch-keyboard-compatible-with-surface-pro-copilot",
+              "via": "via eBay"
+            },
+            {
+              "name": "Oura Ring 4 Review 2026: The Smart Ring That Tracks Your Health 24/7",
+              "url": "https://megastore76.com/product/oura-ring-4-review-2026-the-smart-ring-that-tracks-your-health-24-7",
+              "via": "via Amazon"
+            },
+            {
+              "name": "ProtoArc XK01 Foldable Bluetooth Keyboard with Trackpad",
+              "url": "https://megastore76.com/product/protoarc-xk01-foldable-bluetooth-keyboard-with-trackpad",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Samsung Galaxy Fit3 Smart Watch Fitness Tracker Health Monitoring New Sealed",
+              "url": "https://megastore76.com/product/samsung-galaxy-fit3-smart-watch-fitness-tracker-health-monitoring-new-sealed",
+              "via": "via eBay"
+            },
+            {
+              "name": "Samsung Galaxy Watch 46mm 41mm SM-R840 Bluetooth GPS Smartwatch – Excellent",
+              "url": "https://megastore76.com/product/samsung-galaxy-watch-46mm-41mm-sm-r840-bluetooth-gps-smartwatch-excellent",
+              "via": "via eBay"
+            },
+            {
+              "name": "Samsung Galaxy Watch 6 40mm – Bluetooth – SM-R930 – Smartwatch – Black",
+              "url": "https://megastore76.com/product/samsung-galaxy-watch-6-40mm-bluetooth-sm-r930-smartwatch-black",
+              "via": "via eBay"
+            },
+            {
+              "name": "Shockproof Magnetic MagSafe Case (Clear) for iPhone 17",
+              "url": "https://megastore76.com/product/shockproof-magnetic-magsafe-case-clear-for-iphone-17",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Watch Men Women Answer/Make Calls 1.85” Smartwatch Fitness Watch Pink Red",
+              "url": "https://megastore76.com/product/smart-watch-men-women-answer-make-calls-1-85-smartwatch-fitness-watch-pink-red",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK (£24.99)",
+              "url": "https://megastore76.com/product/smart-watch-men-women-fitness-tracker-blood-pressure-heart-rate-sport-watches-uk-24-99",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK (£5.67)",
+              "url": "https://megastore76.com/product/smart-watch-men-women-fitness-tracker-blood-pressure-heart-rate-sport-watches-uk-5-67",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart watch Men Women with Answer/Make Call/Heart Rate/Sleep/Sports/Step Counter",
+              "url": "https://megastore76.com/product/smart-watch-men-women-with-answer-make-call-heart-rate-sleep-sports-step-counter",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Watch V69 1.85″ HD Bluetooth Call Fitness Tracker Heart Rate Sports Men UK",
+              "url": "https://megastore76.com/product/smart-watch-v69-1-85-hd-bluetooth-call-fitness-tracker-heart-rate-sports-men-uk",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Watch Women Android Ladies Fitness Bluetooth Call Watch for iPhone Samsung",
+              "url": "https://megastore76.com/product/smart-watch-women-android-ladies-fitness-bluetooth-call-watch-for-iphone-samsung",
+              "via": "via eBay"
+            },
+            {
+              "name": "Toshiba C850 Windows 11 Laptop Intel I3 8GB RAM 500GB Storage 15″ HD Webcam",
+              "url": "https://megastore76.com/product/toshiba-c850-windows-11-laptop-intel-i3-8gb-ram-500gb-storage-15-hd-webcam",
+              "via": "via eBay"
+            },
+            {
+              "name": "Toshiba Tecra A50-C Windows 11 Laptop Intel i7 16GB RAM 256GB SSD 15″ BT WiFi",
+              "url": "https://megastore76.com/product/toshiba-tecra-a50-c-windows-11-laptop-intel-i7-16gb-ram-256gb-ssd-15-bt-wifi",
+              "via": "via eBay"
+            },
+            {
+              "name": "UFO Magnetic Levitation Bluetooth Speaker Review 2026: Cool Gadget or Gimmick?",
+              "url": "https://megastore76.com/product/ufo-magnetic-levitation-bluetooth-speaker-review-2026-cool-gadget-or-gimmick",
+              "via": "via Amazon"
+            },
+            {
+              "name": "UGREEN 4K Webcam Review 2026: Sharp Video Without Breaking the Bank",
+              "url": "https://megastore76.com/product/ugreen-4k-webcam-review-2026-sharp-video-without-breaking-the-bank",
+              "via": "via Amazon"
+            },
+            {
+              "name": "UK 2026 New Medical Grade Smart Watch Blood Pressure Oxygen Heart Rate Bluetooth (£18.40)",
+              "url": "https://megastore76.com/product/uk-2026-new-medical-grade-smart-watch-blood-pressure-oxygen-heart-rate-bluetooth-18-40",
+              "via": "via eBay"
+            },
+            {
+              "name": "UK 2026 New Medical Grade Smart Watch Blood Pressure Oxygen Heart Rate Bluetooth (£7.99)",
+              "url": "https://megastore76.com/product/uk-2026-new-medical-grade-smart-watch-blood-pressure-oxygen-heart-rate-bluetooth-7-99",
+              "via": "via eBay"
+            },
+            {
+              "name": "V69 1.85″ Smart Watch with Bluetooth Call – Health, Fitness & IP68 Waterproof",
+              "url": "https://megastore76.com/product/v69-1-85-smart-watch-with-bluetooth-call-health-fitness-ip68-waterproof",
+              "via": "via eBay"
+            },
+            {
+              "name": "Wireless Earbuds with Active Noise Cancellation",
+              "url": "https://megastore76.com/product/wireless-earbuds-active-noise-cancellation",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Xteink Magnetic Portable E Ink Reader (Ultra-Thin, 4.3-Inch)",
+              "url": "https://megastore76.com/product/xteink-magnetic-portable-e-ink-reader-ultra-thin-4-3-inch",
+              "via": "via rzekl.com"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Smart Home",
+        "sub": "Plugs, lighting, robot vacuums and a doorbell. If you are starting out, the £4.69 plug at the bottom of the shelf is the cheapest way to find out whether any of this is for you.",
+        "count": 38,
+        "items": [
+          {
+            "id": 5968,
+            "name": "7KPa MS1-MAX Robot Vacuum Cleaner Smart Mapping 3.5L Hoover 180mins APP/Remote",
+            "price": 169.99,
+            "url": "https://megastore76.com/product/7kpa-ms1-max-robot-vacuum-cleaner-smart-mapping-3-5l-hoover-180mins-app-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_wsrmnmwsrmnmwsrm-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5967,
+            "name": "MONSGA MS1 Robot Vacuum Mop 7000Pa Lidar Navigation App 180min Maps UK",
+            "price": 64.99,
+            "url": "https://megastore76.com/product/monsga-ms1-robot-vacuum-mop-7000pa-lidar-navigation-app-180min-maps-uk",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_u943csu943csu943-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5236,
+            "name": "Smart Video Doorbell with 2K HDR Night Vision",
+            "price": 59.99,
+            "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5975,
+            "name": "Laresar Robot Vacuum Cleaner and Mop",
+            "price": 49,
+            "url": "https://megastore76.com/product/laresar-robot-vacuum-cleaner-and-mop",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jna0t0jna0t0jna0-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5970,
+            "name": "Ecovacs DEEBOT OZMO T8 AIVI Robot Vacuum Cleaner with Mop",
+            "price": 29.99,
+            "url": "https://megastore76.com/product/ecovacs-deebot-ozmo-t8-aivi-robot-vacuum-cleaner-with-mop",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2slk6n2slk6n2slk-1-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 6015,
+            "name": "Gritin Under Cabinet Kitchen Lights Rechargeable 2-Pack",
+            "price": 12.72,
+            "url": "https://megastore76.com/product/gritin-under-cabinet-kitchen-lights-rechargeable-2-pack",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3izi893izi893izi-scaled.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5986,
+            "name": "Wireless WiFi Smart Plug Power Socket For Amazon Alexa Google Home UK",
+            "price": 6.49,
+            "url": "https://megastore76.com/product/wireless-wifi-smart-plug-power-socket-for-amazon-alexa-google-home-uk",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_wifi_smart_plug.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5991,
+            "name": "Tuya Smart WiFi UK Plug Alexa Voice Control, Energy Monitoring & Timer Function",
+            "price": 5.49,
+            "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5987,
+            "name": "Smart Plug GNCC WiFi Plugs Works with Google Home Smart Socket Wireless",
+            "price": 4.69,
+            "url": "https://megastore76.com/product/smart-plug-gncc-wifi-plugs-works-with-google-home-smart-socket-wireless",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_nqieh5nqieh5nqie-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "Also in Smart Home",
+          "sub": "28 more listings in this department, unpictured — see the note above the shelves for why.",
+          "items": [
+            {
+              "name": "2 Smart Heavy Duty Outdoor Plug IP44 WiFi Plug Alexa Voice Control Google Apple",
+              "url": "https://megastore76.com/product/2-smart-heavy-duty-outdoor-plug-ip44-wifi-plug-alexa-voice-control-google-apple",
+              "via": "via eBay"
+            },
+            {
+              "name": "20A Smart WiFi Plug Socket Energy Monitoring Alexa Google Home 4400W High Power",
+              "url": "https://megastore76.com/product/20a-smart-wifi-plug-socket-energy-monitoring-alexa-google-home-4400w-high-power",
+              "via": "via eBay"
+            },
+            {
+              "name": "4pack Tuya Smart Life Wifi Smart Plugs with Power Monitor UK Plug Alexa Voice",
+              "url": "https://megastore76.com/product/4pack-tuya-smart-life-wifi-smart-plugs-with-power-monitor-uk-plug-alexa-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Alexa Smart Plug – Make Your Home Smart – Simple to Set up and Use",
+              "url": "https://megastore76.com/product/amazon-alexa-smart-plug-make-your-home-smart-simple-to-set-up-and-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Basics Single Outlet Indoor Wi-Fi Smart Plug, Works with Alexa 4 Pack",
+              "url": "https://megastore76.com/product/amazon-basics-single-outlet-indoor-wi-fi-smart-plug-works-with-alexa-4-pack",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Echo Dot Review 2026: Still the Best Budget Smart Speaker?",
+              "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Compact Robot Vacuum with App Control",
+              "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+              "via": "via Amazon"
+            },
+            {
+              "name": "eufy L60 Hybrid Robot Vacuum Cleaner with Mop and Self-Empty Station",
+              "url": "https://megastore76.com/product/eufy-l60-hybrid-robot-vacuum-cleaner-with-mop-and-self-empty-station",
+              "via": "via eBay"
+            },
+            {
+              "name": "Hoover Robot Vacuum Cleaner Dry – HG410D – Brand New Sealed UK Warranty",
+              "url": "https://megastore76.com/product/hoover-robot-vacuum-cleaner-dry-hg410d-brand-new-sealed-uk-warranty",
+              "via": "via eBay"
+            },
+            {
+              "name": "Innovate Further S2 Max Robot Vacuum Cleaner Smart Mopping",
+              "url": "https://megastore76.com/product/innovate-further-s2-max-robot-vacuum-cleaner-smart-mopping",
+              "via": "via eBay"
+            },
+            {
+              "name": "Intelligent Robot Vacuum Cleaner – Automatic Hoover – White – New/Unused",
+              "url": "https://megastore76.com/product/intelligent-robot-vacuum-cleaner-automatic-hoover-white-new-unused",
+              "via": "via eBay"
+            },
+            {
+              "name": "KPON 3-in-1 Wireless Charging Station Review 2026: One Stand, Three Devices",
+              "url": "https://megastore76.com/product/kpon-3-in-1-wireless-charging-station-review-2026-one-stand-three-devices",
+              "via": "via Amazon"
+            },
+            {
+              "name": "KSIPZE 30m LED Strip Lights RGB Music Sync",
+              "url": "https://megastore76.com/product/ksipze-30m-led-strip-lights-rgb-music-sync",
+              "via": "via Amazon"
+            },
+            {
+              "name": "LED Desk Lamp with Wireless Charging Base",
+              "url": "https://megastore76.com/product/led-desk-lamp-with-wireless-charging-base",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Lefant M1 Robot Vacuum Cleaner and Mop",
+              "url": "https://megastore76.com/product/lefant-m1-robot-vacuum-cleaner-and-mop",
+              "via": "via eBay"
+            },
+            {
+              "name": "Meross MSS315 Matter Smart Plug Mini WiFi Energy Monitor Alexa HomeKit 1-4Pack",
+              "url": "https://megastore76.com/product/meross-mss315-matter-smart-plug-mini-wifi-energy-monitor-alexa-homekit-1-4pack",
+              "via": "via eBay"
+            },
+            {
+              "name": "OKP Robot Vacuum Cleaner K4 3600Pa Super Strong Suction Alexa WiFi",
+              "url": "https://megastore76.com/product/okp-robot-vacuum-cleaner-k4-3600pa-super-strong-suction-alexa-wifi",
+              "via": "via eBay"
+            },
+            {
+              "name": "Philips Hue Starter Kit Review 2026: Is Smart Lighting Worth It?",
+              "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Proscenic Q8 Max+ Robot Vacuum Cleaner with Mop, 8000Pa Strong Suction",
+              "url": "https://megastore76.com/product/proscenic-q8-max-robot-vacuum-cleaner-with-mop-8000pa-strong-suction",
+              "via": "via eBay"
+            },
+            {
+              "name": "Roborock Qrevo S Pro, Robot Vacuum Cleaner 18500Pa, White, New",
+              "url": "https://megastore76.com/product/roborock-qrevo-s-pro-robot-vacuum-cleaner-18500pa-white-new",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Life Intelligent Vacuum Cleaner Robot Rechargeable Working",
+              "url": "https://megastore76.com/product/smart-life-intelligent-vacuum-cleaner-robot-rechargeable-working",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Life WiFi Plug for Google Home Amazon Alexa 20A Wireless Power Socket",
+              "url": "https://megastore76.com/product/smart-life-wifi-plug-for-google-home-amazon-alexa-20a-wireless-power-socket",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Plug Socket For Home Alexa Google WiFi UK Monitoring Timer Wireless Voice",
+              "url": "https://megastore76.com/product/smart-plug-socket-for-home-alexa-google-wifi-uk-monitoring-timer-wireless-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Tommee Tippee GroEgg2 Toddler Nightlight",
+              "url": "https://megastore76.com/product/tommee-tippee-groegg2-toddler-nightlight",
+              "via": "via Amazon"
+            },
+            {
+              "name": "UR1 Robot Vacuum Cleaner 5000Pa Mop Smart App Pet Hair Carpet Hard Floor",
+              "url": "https://megastore76.com/product/ur1-robot-vacuum-cleaner-5000pa-mop-smart-app-pet-hair-carpet-hard-floor",
+              "via": "via eBay"
+            },
+            {
+              "name": "WiFi 6 Mini Projector Review 2026: Is It Ready to Replace Your TV?",
+              "url": "https://megastore76.com/product/wifi-6-mini-projector-review-2026-is-it-ready-to-replace-your-tv",
+              "via": "via Amazon"
+            },
+            {
+              "name": "WiFi Smart Plug 4-Pack with Energy Monitoring",
+              "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+              "via": "via Amazon"
+            },
+            {
+              "name": "WiFi Smart Plug Socket Plug Works with Alexa, Google Home Smart Plug Alexa Plugs",
+              "url": "https://megastore76.com/product/wifi-smart-plug-socket-plug-works-with-alexa-google-home-smart-plug-alexa-plugs",
+              "via": "via eBay"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Chargers & Power Banks",
+        "sub": "Three listings. None of them has a picture we can stand behind, so this shelf is a list rather than a row of tiles.",
+        "count": 3,
+        "items": [],
+        "more": {
+          "heading": "Everything filed under Chargers & Power Banks",
+          "sub": "",
+          "items": [
+            {
+              "name": "1M USB Power Cable Lead Charging Adapter Wire For Amazon Fire TV Streaming Stick",
+              "url": "https://megastore76.com/product/1m-usb-power-cable-lead-charging-adapter-wire-for-amazon-fire-tv-streaming-stick",
+              "via": "via eBay"
+            },
+            {
+              "name": "Anker 8-in-1 USB-C Hub / Docking Station",
+              "url": "https://megastore76.com/product/anker-8-in-1-usb-c-hub-docking-station",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Slim Magnetic Wireless Power Bank 10000mAh",
+              "url": "https://megastore76.com/product/slim-magnetic-wireless-power-bank-10000mah",
+              "via": "via Amazon"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Ai Tools",
+        "sub": "One listing so far, and its picture prints a price we cannot stand behind.",
+        "count": 1,
+        "items": [],
+        "more": {
+          "heading": "Everything filed under Ai Tools",
+          "sub": "",
+          "items": [
+            {
+              "name": "ChatGPT Plus Review: Is the Upgrade Worth It in 2026",
+              "url": "https://megastore76.com/product/chatgpt-plus-review-is-the-upgrade-worth-it-in-2026",
+              "via": "via chatgpt.com"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Our own downloads",
+        "sub": "Three PDF guides we wrote. They sit in no department yet — that is a gap in the store rather than a decision.",
+        "count": 3,
+        "items": [
+          {
+            "id": 6851,
+            "name": "Smart Home Setup Without the Headaches (PDF)",
+            "price": 6.99,
+            "url": "https://megastore76.com/product/smart-home-setup-without-the-headaches-pdf",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Smart-Home-Set-up.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6849,
+            "name": "The Subscription Audit & Cancellation Playbook (PDF)",
+            "price": 7.99,
+            "url": "https://megastore76.com/product/the-subscription-audit-cancellation-playbook-pdf",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Audit-and-Cancellation-Tool.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6847,
+            "name": "The AI Tool Declutter Guide (PDF)",
+            "price": 6.99,
+            "url": "https://megastore76.com/product/the-ai-tool-declutter-guide-pdf",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/AI-Tool-Declutter-Guide.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          }
+        ],
+        "more": {
+          "heading": "Also unfiled",
+          "sub": "",
+          "items": []
+        }
+      },
+      {
+        "name": "Everything else in the shop",
+        "sub": "17 listings that are not filed into a department yet — home and kitchen items, car air-con kits, phone cases and supplements. They are buyable and they are in the shop; they are just not filed. Listed here so nothing is unreachable.",
+        "count": 17,
+        "items": [],
+        "more": {
+          "heading": "",
+          "sub": "",
+          "items": [
+            {
+              "name": "Amazon Basics Vacuum Compression Storage Bags Jumbo 6-Pack",
+              "url": "https://megastore76.com/product/amazon-basics-vacuum-compression-storage-bags-jumbo-6-pack",
+              "via": "via Amazon"
+            },
+            {
+              "name": "BRITA MAXTRA PRO Pure Performance Water Filter Cartridge 6-Pack",
+              "url": "https://megastore76.com/product/brita-maxtra-pro-pure-performance-water-filter-cartridge-6-pack",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Car AC Aircon R134A Top Up Refill Charging Hose Kit with Gauge",
+              "url": "https://megastore76.com/product/car-ac-aircon-r134a-top-up-refill-charging-hose-kit-with-gauge",
+              "via": "via eBay"
+            },
+            {
+              "name": "Car Air Con Recharge Kit R134a Gas Refill 525g",
+              "url": "https://megastore76.com/product/car-air-con-recharge-kit-r134a-gas-refill-525g",
+              "via": "via eBay"
+            },
+            {
+              "name": "Collagen Peptides Types I, II, III, V, X 64,000mcg Biotin Anti-Aging Skin Caps",
+              "url": "https://megastore76.com/product/collagen-peptides-types-i-ii-iii-v-x-64000mcg-biotin-anti-aging-skin-caps",
+              "via": "via eBay"
+            },
+            {
+              "name": "HIGH5 Zero Electrolyte Tablets",
+              "url": "https://megastore76.com/product/high5-zero-electrolyte-tablets",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Magnesium Citrate Capsules 1500mg with Vitamin B6 | 120 Vegan Tablets",
+              "url": "https://megastore76.com/product/magnesium-citrate-capsules-1500mg-with-vitamin-b6-120-vegan-tablets",
+              "via": "via eBay"
+            },
+            {
+              "name": "Magnesium Taurate 1800mg Capsules – High Strength Magnesium Supplement",
+              "url": "https://megastore76.com/product/magnesium-taurate-1800mg-capsules-high-strength-magnesium-supplement",
+              "via": "via eBay"
+            },
+            {
+              "name": "medicube Salmon DNA PDRN Pink Collagen Jelly Mask",
+              "url": "https://megastore76.com/product/medicube-salmon-dna-pdrn-pink-collagen-jelly-mask",
+              "via": "via Amazon"
+            },
+            {
+              "name": "medicube Toner Pads Zero Pore Pad 2.0",
+              "url": "https://megastore76.com/product/medicube-toner-pads-zero-pore-pad-2-0",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Multi Collagen Peptides 2000mg, Hydrolyzed Protein Peptides (Type I,II,III,V,X)",
+              "url": "https://megastore76.com/product/multi-collagen-peptides-2000mg-hydrolyzed-protein-peptides-type-iiiiiivx",
+              "via": "via eBay"
+            },
+            {
+              "name": "Oscillating Pedestal Fan 16 inch – 3 Speed Cooling Floor Fan",
+              "url": "https://megastore76.com/product/oscillating-pedestal-fan-16-inch-3-speed-cooling-floor-fan",
+              "via": "via eBay"
+            },
+            {
+              "name": "Owala FreeSip Insulated Stainless Steel Water Bottle 710ml",
+              "url": "https://megastore76.com/product/owala-freesip-insulated-stainless-steel-water-bottle-710ml",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Pure Creatine Monohydrate Powder 315g (90 Servings)",
+              "url": "https://megastore76.com/product/pure-creatine-monohydrate-powder-315g-90-servings",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Silent Standing Fan with Remote – Bedroom Oscillating 3 Speeds",
+              "url": "https://megastore76.com/product/silent-standing-fan-with-remote-bedroom-oscillating-3-speeds",
+              "via": "via eBay"
+            },
+            {
+              "name": "Turmeric Extract 2000mg 180 Tablets Vegan Supplement Curcumin Joint Inflammation",
+              "url": "https://megastore76.com/product/turmeric-extract-2000mg-180-tablets-vegan-supplement-curcumin-joint-inflammation",
+              "via": "via eBay"
+            },
+            {
+              "name": "Turmeric Tablets 3280mg + Ginger + Black Pepper | 120 Tablets – UK Supplement",
+              "url": "https://megastore76.com/product/turmeric-tablets-3280mg-ginger-black-pepper-120-tablets-uk-supplement",
+              "via": "via eBay"
+            }
+          ]
+        }
+      }
+    ],
+    "footnote": "Prices and pictures were read from megastore76.com on 29 September 2026. On a <b>via eBay</b> or <b>via Amazon</b> tile the price is the one this store displays on the listing; the seller's own page is the final word and it can differ. Nothing on this page is a customer review: the store has none, so none have been invented for it here."
+  }
+}

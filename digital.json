@@ -1,0 +1,307 @@
+[
+ {
+  "id": 6933,
+  "name": "Megastore76 Ministry Suite",
+  "price": 147,
+  "regular": 147,
+  "url": "https://megastore76.com/product/megastore76-ministry-suite",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+  "imgClean": true,
+  "sku": "M76-MINISTRY-SUITE-1.0",
+  "desc": "5 offline ministry tools and all 11 books by Pastor Mega Philip Mega, in one download, for one price. No internet, no account, no subscription. Everything you type stays on your own computer.",
+  "cats": [
+   "Books and Publications",
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6852,
+  "name": "Invoice Chaser — Automated Payment Reminder SaaS (Source Code)",
+  "price": 99,
+  "regular": 99,
+  "url": "https://megastore76.com/product/invoice-chaser-automated-payment-reminder-saas-source-code",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/Payment-Reinder.jpg",
+  "imgClean": true,
+  "sku": "invoice-chaser-src",
+  "desc": "Full source code for a working automated invoice-chasing SaaS: escalating payment reminder emails, client & invoice management, and a ready-to-run dashboard. Built with Next.js, TypeScript, and Prisma.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6869,
+  "name": "Shiplog — Self-Hosted Changelog & Feedback Board (Source Code)",
+  "price": 49,
+  "regular": 49,
+  "url": "https://megastore76.com/product/shiplog-self-hosted-changelog-feedback-board-source-code",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/Shiplog.jpg",
+  "imgClean": true,
+  "sku": "",
+  "desc": "The self-hosted alternative to Canny and Beamer. Public roadmap voting, a changelog with email notifications, and an embeddable widget — one-time purchase, no per-user billing, full source code included.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6876,
+  "name": "InvoiceForge — Self-Hosted Invoice Generator & Client Manager (Source Code)",
+  "price": 39,
+  "regular": 39,
+  "url": "https://megastore76.com/product/invoiceforge-self-hosted-invoice-generator-client-manager-source-code",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/InvoiceForge.jpg",
+  "imgClean": true,
+  "sku": "invoice-forge-src",
+  "desc": "A complete, self-hosted invoice generator and client manager — full source code, one-time purchase, no monthly subscription.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6224,
+  "name": "Affiliate Revenue Optimizer",
+  "price": 39,
+  "regular": 39,
+  "url": "https://megastore76.com/product/affiliate-revenue-optimizer",
+  "img": "https://megastore76.com/wp-content/uploads/2026/08/ARO-1.jpeg",
+  "imgClean": true,
+  "sku": "",
+  "desc": "Find the money your content is already earning — just not enough of it. Affiliate Revenue Optimizer scans your posts and tells you exactly why a page isn’t converting: a missing comparison table, a weak CTA, poor link placement. Self-contai",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6896,
+  "name": "LinkForge — Self-Hosted Link-in-Bio Page & Click Analytics (Source Code)",
+  "price": 29,
+  "regular": 29,
+  "url": "https://megastore76.com/product/linkforge-self-hosted-link-in-bio-page-click-analytics-source-code",
+  "img": "",
+  "imgClean": true,
+  "sku": "link-forge-src",
+  "desc": "A self-hosted link-in-bio page with per-link click analytics — the Linktree alternative you own outright. Full source code, one-time purchase, no monthly subscription.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6888,
+  "name": "QRForge — Self-Hosted Dynamic QR Code Generator & Scan Analytics (Source Code)",
+  "price": 29,
+  "regular": 29,
+  "url": "https://megastore76.com/product/qrforge-self-hosted-dynamic-qr-code-generator-scan-analytics-source-code",
+  "img": "",
+  "imgClean": true,
+  "sku": "qr-forge-src",
+  "desc": "A self-hosted dynamic QR code generator with scan analytics — edit where a printed code points, anytime, without reprinting. Full source code, one-time purchase, no monthly subscription.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6742,
+  "name": "Abandoned Cart Recovery for WooCommerce",
+  "price": 29,
+  "regular": 29,
+  "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+  "imgClean": true,
+  "sku": "mcr-plugin-v1",
+  "desc": "Captures abandoned WooCommerce carts and recovers them with a real three-email sequence and an auto-generated single-use discount coupon — running itself on WP-Cron. No third-party service required.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6711,
+  "name": "Newsletter Capture — Smart Popup & Lead Capture for WordPress",
+  "price": 29,
+  "regular": 29,
+  "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/newsletter-capture-hero.jpg",
+  "imgClean": true,
+  "sku": "mnc-plugin-v1",
+  "desc": "A non-annoying signup popup that appears at the right moment — scroll depth, exit-intent, or time-on-page — and builds you a real email list, with its own lead database, CSV export, and optional ESP webhook.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6738,
+  "name": "Urgency & Scarcity Widgets for WooCommerce",
+  "price": 27,
+  "regular": 27,
+  "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+  "imgClean": true,
+  "sku": "mus-plugin-v1",
+  "desc": "Real countdown timers, low-stock alerts, recently-sold counts, and live viewer counts for WooCommerce — every number pulled from your actual store data, never fabricated. Cache-safe, no API keys, one-time price.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6710,
+  "name": "Social Proof Badges — Real “Popular This Week” Trust Badges for WordPress",
+  "price": 24,
+  "regular": 24,
+  "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/social_proof_badges_wordpress.jpg",
+  "imgClean": true,
+  "sku": "mvp-plugin-v1",
+  "desc": "Real “👀 X views this week” and “🔥 Popular this week” badges — built from your own tracked view data, never fabricated. Shows nothing at all until a post or product genuinely earns it.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6741,
+  "name": "Live Chat / Click-to-Chat Bubble for WordPress",
+  "price": 19,
+  "regular": 19,
+  "url": "https://megastore76.com/product/live-chat-click-to-chat-bubble-for-wordpress",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-1.png",
+  "imgClean": true,
+  "sku": "mlc-plugin-v1",
+  "desc": "A floating chat bubble that opens straight into WhatsApp, email, or phone — with business-hours greetings and self-hosted click analytics. No subscriptions, no third-party accounts.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6709,
+  "name": "Reading Experience Kit — Progress Bar, Table of Contents & Read Time for WordPress",
+  "price": 19,
+  "regular": 19,
+  "url": "https://megastore76.com/product/reading-experience-kit-progress-bar-table-of-contents-read-time-for-wordpress",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/reading-kit-social-proof-hero.jpg",
+  "imgClean": true,
+  "sku": "mrx-plugin-v1",
+  "desc": "Turn long articles into an experience readers actually finish: a reading progress bar, an auto-built clickable table of contents, and a real “X min read” badge — all automatic, no manual setup per post.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6708,
+  "name": "Smart Search — Instant On-Site Search for WordPress",
+  "price": 19,
+  "regular": 19,
+  "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+  "img": "https://megastore76.com/wp-content/uploads/2026/09/Gemini_Generated_Image_ul2vz0ul2vz0ul2v-scaled.jpg",
+  "imgClean": false,
+  "sku": "mss-plugin-v1",
+  "desc": "A floating search widget that finds posts and products instantly, as visitors type — no page reload, no dead-end “0 results” screen. Install in 2 minutes, no coding required.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 6233,
+  "name": "Social Pulse – Floating Social Icons & Follow Widget",
+  "price": 19,
+  "regular": 19,
+  "url": "https://megastore76.com/product/social-pulse-floating-social-icons-follow-widget",
+  "img": "https://megastore76.com/wp-content/uploads/2026/08/sp.jpeg",
+  "imgClean": true,
+  "sku": "msaro-social-pulse-v1",
+  "desc": "A fully customizable floating social media icon widget for WordPress. Show every profile you run — Facebook, Instagram, X, Pinterest, TikTok, YouTube, LinkedIn, WhatsApp, Telegram, eBay, email, RSS, or any custom link — in one sleek, animat",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 5237,
+  "name": "Canva Pro Review: The All-in-One Design Platform",
+  "price": 10.99,
+  "regular": 10.99,
+  "url": "https://megastore76.com/product/canva-pro-review-the-all-in-one-design-platform",
+  "img": "https://megastore76.com/wp-content/uploads/2026/08/Canva-pro.png",
+  "imgClean": true,
+  "sku": "",
+  "desc": "An easy drag-and-drop design tool with premium templates, brand kits, and handy AI-powered editing extras for creators and small teams.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 5239,
+  "name": "Midjourney Review: AI Image Generation Explained",
+  "price": 8.99,
+  "regular": 8.99,
+  "url": "https://megastore76.com/product/midjourney-review-ai-image-generation-explained",
+  "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989506.png",
+  "imgClean": true,
+  "sku": "",
+  "desc": "A leading AI image generator known for striking, painterly visuals, improved realism, and an easy prompt-based workflow.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 5235,
+  "name": "NordVPN Complete Review: Secure Browsing for 2026",
+  "price": 3.99,
+  "regular": 3.99,
+  "url": "https://megastore76.com/product/nordvpn-complete-review-secure-browsing-for-2026",
+  "img": "https://megastore76.com/wp-content/uploads/2026/08/nordvpn_2026_poster.jpg",
+  "imgClean": true,
+  "sku": "",
+  "desc": "A fast, secure, no-logs VPN with global servers and built-in threat protection — a solid all-rounder for private browsing in 2026.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ },
+ {
+  "id": 3650,
+  "name": "ElevenLabs Complete Review: The AI Voice Platform Impacting The World.",
+  "price": 0,
+  "regular": 0,
+  "url": "https://megastore76.com/product/elevenlabs-complete-review-ai-voice-platform",
+  "img": "https://megastore76.com/wp-content/uploads/2026/06/elevenlabs_ai_voice_platform.webp",
+  "imgClean": true,
+  "sku": "",
+  "desc": "A detailed review of ElevenLabs, the groundbreaking AI voice platform known for realistic text-to-speech, voice cloning, multilingual dubbing, and content creation tools that are transforming the future of digital communication.",
+  "cats": [
+   "Digital Services"
+  ],
+  "inStock": true,
+  "onSale": false
+ }
+]

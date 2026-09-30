@@ -1,0 +1,3352 @@
+{
+ "Books and Publications": {
+  "name": "Books and Publications",
+  "slug": "books-and-publications",
+  "link": "https://megastore76.com/product-category/books-and-publications",
+  "items": [
+   {
+    "id": 6933,
+    "name": "Megastore76 Ministry Suite",
+    "price": 147,
+    "regular": 147,
+    "url": "https://megastore76.com/product/megastore76-ministry-suite",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+    "imgClean": true,
+    "sku": "M76-MINISTRY-SUITE-1.0",
+    "desc": "5 offline ministry tools and all 11 books by Pastor Mega Philip Mega, in one download, for one price. No internet, no account, no subscription. Everything you type stays on your own computer.",
+    "cats": [
+     "Books and Publications",
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6908,
+    "name": "Forgiving Forward: A Christian’s Guide to Releasing Resentment and Finding Freedom",
+    "price": 4.99,
+    "regular": 4.99,
+    "url": "https://megastore76.com/product/forgiving-forward-a-christians-guide-to-releasing-resentment-and-finding-freedom",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Forgiving-Forward-cover-original-subtitle.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "An honest, scripturally-grounded guide to closing the ledger of resentment for good.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6907,
+    "name": "Undivided: A One-Year Devotional for Christian Couples Pursuing Their Calling and Their Family",
+    "price": 6.99,
+    "regular": 6.99,
+    "url": "https://megastore76.com/product/undivided-a-one-year-devotional-for-christian-couples-pursuing-their-calling-and-their-family",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A 365-day devotional for Christian couples pursuing demanding careers, a thriving marriage, and children who know the Lord — undivided.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6906,
+    "name": "Dating on Purpose: Courtship, Boundaries, and Discerning God’s Will Before Marriage",
+    "price": 4.99,
+    "regular": 4.99,
+    "url": "https://megastore76.com/product/dating-on-purpose-courtship-boundaries-and-discerning-gods-will-before-marriage",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-dating-on-purpose.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Intentional, honest, boundaried dating that treats courtship as a foundation for marriage, not just a path to a wedding.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6905,
+    "name": "Waiting Well: A Christian’s Guide to Singleness Without Settling",
+    "price": 4.99,
+    "regular": 4.99,
+    "url": "https://megastore76.com/product/waiting-well-a-christians-guide-to-singleness-without-settling",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-waiting-well.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A grace-filled guide that refuses to treat singleness as a waiting room — permission to build a full, purposeful life now.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6904,
+    "name": "The Christian Journey: Walking in Uncompromising Holiness and Integrity",
+    "price": 3.99,
+    "regular": 3.99,
+    "url": "https://megastore76.com/product/the-christian-journey-walking-in-uncompromising-holiness-and-integrity",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-christian-journey.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A bold, practical call to walk with God in uncompromising holiness and integrity, even when the world around you settles for less.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6903,
+    "name": "Stories That Build Faith: Bible Accounts That Draw You Closer to God",
+    "price": 4.99,
+    "regular": 4.99,
+    "url": "https://megastore76.com/product/stories-that-build-faith-bible-accounts-that-draw-you-closer-to-god",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-stories-that-build-faith.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Thirteen timeless Bible stories, retold to speak directly to the struggles, doubts, and hopes of everyday life today.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6448,
+    "name": "Unusual Obedience: When God Asks the Unexpected",
+    "price": 4.99,
+    "regular": 4.99,
+    "url": "https://megastore76.com/product/unusual-obedience-when-god-asks-the-unexpected",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Unusual-Obedience-cover.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "When God asks the unexpected, will you obey? Pastor Mega Philip Mega explores biblical moments of costly, countercultural obedience — and challenges readers to trust God fully, even when His instructions don’t make sense.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6447,
+    "name": "God’s Blueprint for a Strong Christian Marriage: A Biblical Guide to Building Love, Trust & Unity That Lasts",
+    "price": 3.99,
+    "regular": 3.99,
+    "url": "https://megastore76.com/product/gods-blueprint-for-a-strong-christian-marriage-a-biblical-guide-to-building-love-trust-unity-that-lasts",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A biblical guide to building love, trust and unity that lasts. Pastor Mega Philip Mega unpacks marriage as God’s sacred covenant — not a contract — and shows couples how to build a Christ-centred home through prayer, Scripture and selfless ",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6446,
+    "name": "Loving Like Jesus: Living Out the Gospel in Every Relationship",
+    "price": 4.89,
+    "regular": 4.89,
+    "url": "https://megastore76.com/product/loving-like-jesus-living-out-the-gospel-in-every-relationship",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Lovin-like-Jesus.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Discover the heart of Christ — and live it every day. Pastor Mega Philip Mega challenges believers to move beyond feelings and into sacrificial, Christ-like love that transforms marriages, families, churches and communities.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6445,
+    "name": "Bringing Up God-Fearing Children: Raising Children Who Love God in a Confused World",
+    "price": 3.99,
+    "regular": 3.99,
+    "url": "https://megastore76.com/product/bringing-up-god-fearing-children-raising-children-who-love-god-in-a-confused-world",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Bringing-Up-God-Fearing-Children-scaled.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Raise children who love God — even in a confused world. Pastor Mega Philip Mega offers biblical, practical guidance for parents who want to build lasting faith at home, from prayer and discipleship to navigating today’s cultural pressures.",
+    "cats": [
+     "Books and Publications"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Digital Services": {
+  "name": "Digital Services",
+  "slug": "digital-services",
+  "link": "https://megastore76.com/product-category/digital-services",
+  "items": [
+   {
+    "id": 6933,
+    "name": "Megastore76 Ministry Suite",
+    "price": 147,
+    "regular": 147,
+    "url": "https://megastore76.com/product/megastore76-ministry-suite",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+    "imgClean": true,
+    "sku": "M76-MINISTRY-SUITE-1.0",
+    "desc": "5 offline ministry tools and all 11 books by Pastor Mega Philip Mega, in one download, for one price. No internet, no account, no subscription. Everything you type stays on your own computer.",
+    "cats": [
+     "Books and Publications",
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6896,
+    "name": "LinkForge — Self-Hosted Link-in-Bio Page & Click Analytics (Source Code)",
+    "price": 29,
+    "regular": 29,
+    "url": "https://megastore76.com/product/linkforge-self-hosted-link-in-bio-page-click-analytics-source-code",
+    "img": "",
+    "imgClean": true,
+    "sku": "link-forge-src",
+    "desc": "A self-hosted link-in-bio page with per-link click analytics — the Linktree alternative you own outright. Full source code, one-time purchase, no monthly subscription.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6888,
+    "name": "QRForge — Self-Hosted Dynamic QR Code Generator & Scan Analytics (Source Code)",
+    "price": 29,
+    "regular": 29,
+    "url": "https://megastore76.com/product/qrforge-self-hosted-dynamic-qr-code-generator-scan-analytics-source-code",
+    "img": "",
+    "imgClean": true,
+    "sku": "qr-forge-src",
+    "desc": "A self-hosted dynamic QR code generator with scan analytics — edit where a printed code points, anytime, without reprinting. Full source code, one-time purchase, no monthly subscription.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6876,
+    "name": "InvoiceForge — Self-Hosted Invoice Generator & Client Manager (Source Code)",
+    "price": 39,
+    "regular": 39,
+    "url": "https://megastore76.com/product/invoiceforge-self-hosted-invoice-generator-client-manager-source-code",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/InvoiceForge.jpg",
+    "imgClean": true,
+    "sku": "invoice-forge-src",
+    "desc": "A complete, self-hosted invoice generator and client manager — full source code, one-time purchase, no monthly subscription.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6869,
+    "name": "Shiplog — Self-Hosted Changelog & Feedback Board (Source Code)",
+    "price": 49,
+    "regular": 49,
+    "url": "https://megastore76.com/product/shiplog-self-hosted-changelog-feedback-board-source-code",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Shiplog.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "The self-hosted alternative to Canny and Beamer. Public roadmap voting, a changelog with email notifications, and an embeddable widget — one-time purchase, no per-user billing, full source code included.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6852,
+    "name": "Invoice Chaser — Automated Payment Reminder SaaS (Source Code)",
+    "price": 99,
+    "regular": 99,
+    "url": "https://megastore76.com/product/invoice-chaser-automated-payment-reminder-saas-source-code",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Payment-Reinder.jpg",
+    "imgClean": true,
+    "sku": "invoice-chaser-src",
+    "desc": "Full source code for a working automated invoice-chasing SaaS: escalating payment reminder emails, client & invoice management, and a ready-to-run dashboard. Built with Next.js, TypeScript, and Prisma.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6742,
+    "name": "Abandoned Cart Recovery for WooCommerce",
+    "price": 29,
+    "regular": 29,
+    "url": "https://megastore76.com/product/abandoned-cart-recovery-for-woocommerce",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-2.png",
+    "imgClean": true,
+    "sku": "mcr-plugin-v1",
+    "desc": "Captures abandoned WooCommerce carts and recovers them with a real three-email sequence and an auto-generated single-use discount coupon — running itself on WP-Cron. No third-party service required.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6741,
+    "name": "Live Chat / Click-to-Chat Bubble for WordPress",
+    "price": 19,
+    "regular": 19,
+    "url": "https://megastore76.com/product/live-chat-click-to-chat-bubble-for-wordpress",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image-1.png",
+    "imgClean": true,
+    "sku": "mlc-plugin-v1",
+    "desc": "A floating chat bubble that opens straight into WhatsApp, email, or phone — with business-hours greetings and self-hosted click analytics. No subscriptions, no third-party accounts.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6738,
+    "name": "Urgency & Scarcity Widgets for WooCommerce",
+    "price": 27,
+    "regular": 27,
+    "url": "https://megastore76.com/product/urgency-scarcity-widgets-for-woocommerce",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/product-image.png",
+    "imgClean": true,
+    "sku": "mus-plugin-v1",
+    "desc": "Real countdown timers, low-stock alerts, recently-sold counts, and live viewer counts for WooCommerce — every number pulled from your actual store data, never fabricated. Cache-safe, no API keys, one-time price.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6711,
+    "name": "Newsletter Capture — Smart Popup & Lead Capture for WordPress",
+    "price": 29,
+    "regular": 29,
+    "url": "https://megastore76.com/product/newsletter-capture-smart-popup-lead-capture-for-wordpress",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/newsletter-capture-hero.jpg",
+    "imgClean": true,
+    "sku": "mnc-plugin-v1",
+    "desc": "A non-annoying signup popup that appears at the right moment — scroll depth, exit-intent, or time-on-page — and builds you a real email list, with its own lead database, CSV export, and optional ESP webhook.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6710,
+    "name": "Social Proof Badges — Real “Popular This Week” Trust Badges for WordPress",
+    "price": 24,
+    "regular": 24,
+    "url": "https://megastore76.com/product/social-proof-badges-real-popular-this-week-trust-badges-for-wordpress",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/social_proof_badges_wordpress.jpg",
+    "imgClean": true,
+    "sku": "mvp-plugin-v1",
+    "desc": "Real “👀 X views this week” and “🔥 Popular this week” badges — built from your own tracked view data, never fabricated. Shows nothing at all until a post or product genuinely earns it.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6709,
+    "name": "Reading Experience Kit — Progress Bar, Table of Contents & Read Time for WordPress",
+    "price": 19,
+    "regular": 19,
+    "url": "https://megastore76.com/product/reading-experience-kit-progress-bar-table-of-contents-read-time-for-wordpress",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/reading-kit-social-proof-hero.jpg",
+    "imgClean": true,
+    "sku": "mrx-plugin-v1",
+    "desc": "Turn long articles into an experience readers actually finish: a reading progress bar, an auto-built clickable table of contents, and a real “X min read” badge — all automatic, no manual setup per post.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6708,
+    "name": "Smart Search — Instant On-Site Search for WordPress",
+    "price": 19,
+    "regular": 19,
+    "url": "https://megastore76.com/product/smart-search-instant-on-site-search-for-wordpress",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Gemini_Generated_Image_ul2vz0ul2vz0ul2v-scaled.jpg",
+    "imgClean": false,
+    "sku": "mss-plugin-v1",
+    "desc": "A floating search widget that finds posts and products instantly, as visitors type — no page reload, no dead-end “0 results” screen. Install in 2 minutes, no coding required.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6233,
+    "name": "Social Pulse – Floating Social Icons & Follow Widget",
+    "price": 19,
+    "regular": 19,
+    "url": "https://megastore76.com/product/social-pulse-floating-social-icons-follow-widget",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/sp.jpeg",
+    "imgClean": true,
+    "sku": "msaro-social-pulse-v1",
+    "desc": "A fully customizable floating social media icon widget for WordPress. Show every profile you run — Facebook, Instagram, X, Pinterest, TikTok, YouTube, LinkedIn, WhatsApp, Telegram, eBay, email, RSS, or any custom link — in one sleek, animat",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6224,
+    "name": "Affiliate Revenue Optimizer",
+    "price": 39,
+    "regular": 39,
+    "url": "https://megastore76.com/product/affiliate-revenue-optimizer",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/ARO-1.jpeg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Find the money your content is already earning — just not enough of it. Affiliate Revenue Optimizer scans your posts and tells you exactly why a page isn’t converting: a missing comparison table, a weak CTA, poor link placement. Self-contai",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5239,
+    "name": "Midjourney Review: AI Image Generation Explained",
+    "price": 8.99,
+    "regular": 8.99,
+    "url": "https://megastore76.com/product/midjourney-review-ai-image-generation-explained",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989506.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A leading AI image generator known for striking, painterly visuals, improved realism, and an easy prompt-based workflow.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5237,
+    "name": "Canva Pro Review: The All-in-One Design Platform",
+    "price": 10.99,
+    "regular": 10.99,
+    "url": "https://megastore76.com/product/canva-pro-review-the-all-in-one-design-platform",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Canva-pro.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "An easy drag-and-drop design tool with premium templates, brand kits, and handy AI-powered editing extras for creators and small teams.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5235,
+    "name": "NordVPN Complete Review: Secure Browsing for 2026",
+    "price": 3.99,
+    "regular": 3.99,
+    "url": "https://megastore76.com/product/nordvpn-complete-review-secure-browsing-for-2026",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/nordvpn_2026_poster.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A fast, secure, no-logs VPN with global servers and built-in threat protection — a solid all-rounder for private browsing in 2026.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3650,
+    "name": "ElevenLabs Complete Review: The AI Voice Platform Impacting The World.",
+    "price": 0,
+    "regular": 0,
+    "url": "https://megastore76.com/product/elevenlabs-complete-review-ai-voice-platform",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/elevenlabs_ai_voice_platform.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A detailed review of ElevenLabs, the groundbreaking AI voice platform known for realistic text-to-speech, voice cloning, multilingual dubbing, and content creation tools that are transforming the future of digital communication.",
+    "cats": [
+     "Digital Services"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Audio & Headphones": {
+  "name": "Audio & Headphones",
+  "slug": "audio-headphones",
+  "link": "https://megastore76.com/product-category/audio-headphones",
+  "items": [
+   {
+    "id": 6665,
+    "name": "Lenovo LE209 Wireless Earbuds",
+    "price": 10.48,
+    "regular": 22.76,
+    "url": "https://megastore76.com/product/lenovo-le209-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/to_lenovo_earbuds_product_image.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Ultra-budget wireless earbuds with Bluetooth 6.0, dual 12mm drivers, and call noise reduction.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6664,
+    "name": "Edifier Comfo Flex Open-Ear Wireless Earbuds",
+    "price": 37.06,
+    "regular": 94.19,
+    "url": "https://megastore76.com/product/edifier-comfo-flex-open-ear-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/4782f89e-655e-41c1-bb7b-7f4786e86337.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Open-ear Hi-Res earbuds with secure ear hooks, IP55 rating, and 40H total battery life (no ANC).",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6663,
+    "name": "Edifier W280NB Pro Wireless Neckband Earphones",
+    "price": 30.67,
+    "regular": 47.08,
+    "url": "https://megastore76.com/product/edifier-w280nb-pro-wireless-neckband-earphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Edifier.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "ANC neckband earphones with Hi-Res LDAC audio, Bluetooth 5.4, and an IP55 waterproof rating.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6662,
+    "name": "Edifier X3 Pro ANC Wireless Earbuds",
+    "price": 20.76,
+    "regular": 47.08,
+    "url": "https://megastore76.com/product/edifier-x3-pro-anc-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/edifier_x3_pro_studio.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "ANC earbuds with Bluetooth 5.4 multipoint connection, IP54 rating, and a lightweight 38.3g build.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6661,
+    "name": "Edifier X5 Pro ANC Wireless Earbuds",
+    "price": 26.89,
+    "regular": 63.62,
+    "url": "https://megastore76.com/product/edifier-x5-pro-anc-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/edifier_x5_pro_earbuds.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "ANC earbuds with IP55 waterproofing, gaming mode for lower latency, and 48H total battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6660,
+    "name": "Baseus EP10 Pro ANC Wireless Earbuds",
+    "price": 23.2,
+    "regular": 37.67,
+    "url": "https://megastore76.com/product/baseus-ep10-pro-anc-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/baseus_earbuds_studio.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "50dB Adaptive ANC earbuds with Bluetooth 6.0, Hi-Res LDAC, IP55 rating, and 55H total battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6659,
+    "name": "QCY MeloBuds Pro ANC Wireless Earbuds",
+    "price": 27.59,
+    "regular": 75.07,
+    "url": "https://megastore76.com/product/qcy-melobuds-pro-anc-wireless-earbuds",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/qcy_melobuds_pro_case.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Budget ANC earbuds with 46dB Hybrid ANC, Hi-Res LDAC audio, 6-mic calling, and 34H battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6652,
+    "name": "Shoumi Wireless Headphones with Display Screen (TF-Card MP3)",
+    "price": 19.73,
+    "regular": 43.88,
+    "url": "https://megastore76.com/product/shoumi-wireless-headphones-with-display-screen-tf-card-mp3",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/shoumi_headphones_product_poster.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A budget over-ear headset with a built-in display screen, microphone, and TF-card MP3 playback for use without a phone.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6651,
+    "name": "BINNUNE BW06 Wireless Gaming Headset (PS5, PS4, PC, Mac)",
+    "price": 24.07,
+    "regular": 51.22,
+    "url": "https://megastore76.com/product/binnune-bw06-wireless-gaming-headset-ps5-ps4-pc-mac",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Gemini_Generated_Image_uc4tsjuc4tsjuc4t-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "2.4GHz wireless gaming headset with microphone, compatible across PS5, PS4, PC, and Mac.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6650,
+    "name": "MCHOSE V9 Pro Wireless Gaming Headset (Three-Mode, PC)",
+    "price": 36.06,
+    "regular": 36.06,
+    "url": "https://megastore76.com/product/mchose-v9-pro-wireless-gaming-headset-three-mode-pc",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/mchose_v9_pro_headset.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A three-mode wireless gaming headset with microphone, built for PC gamers.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6649,
+    "name": "UGREEN Max5c Wireless Headphones (43dB ANC, Spatial Audio)",
+    "price": 33.03,
+    "regular": 52.44,
+    "url": "https://megastore76.com/product/ugreen-max5c-wireless-headphones-43db-anc-spatial-audio",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/ugreen_headphones_product.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Wireless headphones with 43dB active noise cancellation, Hi-Res LDAC, and a claimed 75-hour spatial audio battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6648,
+    "name": "Baseus EH10 NC ANC Wireless Headphones (Hi-Res LDAC, 80Hrs)",
+    "price": 30.42,
+    "regular": 30.42,
+    "url": "https://megastore76.com/product/baseus-eh10-nc-anc-wireless-headphones-hi-res-ldac-80hrs",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Baseus.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Over-ear headphones with 45dB adaptive hybrid ANC, Hi-Res LDAC audio, and a claimed 80-hour battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6647,
+    "name": "HAYLOU S40 ANC Wireless Headphones (50dB Noise Cancelling)",
+    "price": 42.77,
+    "regular": 80.72,
+    "url": "https://megastore76.com/product/haylou-s40-anc-wireless-headphones-50db-noise-cancelling",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/haylou_s40_headphones.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Over-ear headphones with 50dB noise cancellation, 3D spatial audio, LDAC support, and Bluetooth 6.0.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6646,
+    "name": "QCY H3S Adaptive ANC Wireless Headphones (Bluetooth 6.0)",
+    "price": 37.41,
+    "regular": 37.41,
+    "url": "https://megastore76.com/product/qcy-h3s-adaptive-anc-wireless-headphones-bluetooth-6-0",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/qcy_h3s_headphones.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Over-ear headphones with -56dB adaptive ANC, dual driver sound, Bluetooth 6.0, and a claimed 102-hour battery life.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6645,
+    "name": "UGREEN Studio Pro Wireless Headphones (48dB ANC, Hi-Res LDAC)",
+    "price": 35.45,
+    "regular": 35.45,
+    "url": "https://megastore76.com/product/ugreen-studio-pro-wireless-headphones-48db-anc-hi-res-ldac",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/ugreen_studio_pro_headphones.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Over-ear wireless headphones with 48dB active noise cancellation, Hi-Res LDAC audio, and 120 hours of playtime.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6540,
+    "name": "New Bee Bluetooth Headset V5.3",
+    "price": 25.95,
+    "regular": 25.95,
+    "url": "https://megastore76.com/product/new-bee-bluetooth-headset-v5-3",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/new_bee_headset_poster.jpg",
+    "imgClean": true,
+    "sku": "NEWBEE-BT-V5.3",
+    "desc": "Single-ear Bluetooth 5.3 hands-free earpiece with dual mics and a 500mAh charging case for up to 72 hours of total playtime. Built for driving and calls, not music.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6539,
+    "name": "KVIDIO Bluetooth Headphones Over Ear",
+    "price": 19.99,
+    "regular": 19.99,
+    "url": "https://megastore76.com/product/kvidio-bluetooth-headphones-over-ear",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/KVIDIO.jpg",
+    "imgClean": true,
+    "sku": "KVIDIO-BT-OVEREAR",
+    "desc": "Ultra-budget foldable over-ear Bluetooth 6.0 headphones with a 40mm driver, built-in mic and up to 65-hour claimed battery life. One of Amazon UK’s best-selling wireless headsets.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6538,
+    "name": "Sumvision Wave BX Wireless Bluetooth Headphones",
+    "price": 19.99,
+    "regular": 19.99,
+    "url": "https://megastore76.com/product/sumvision-wave-bx-wireless-bluetooth-headphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/sumvision_wave_bx_hero.jpg",
+    "imgClean": true,
+    "sku": "SUMVISION-WAVE-BX",
+    "desc": "Budget wireless-and-wired over-ear headphones with a noise-cancelling mic, USB-C charging and up to 40 hours of playtime, from UK audio brand Sumvision.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6537,
+    "name": "AOC 3-in-1 Wireless Headset with Microphone",
+    "price": 39.98,
+    "regular": 39.98,
+    "url": "https://megastore76.com/product/aoc-3-in-1-wireless-headset-with-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/AOC.jpg",
+    "imgClean": true,
+    "sku": "AOC-3IN1-HEADSET",
+    "desc": "Tri-mode (Bluetooth 5.3 / 2.4GHz dongle / wired) wireless headset with an AI noise-cancelling mic, built for remote work calls and video meetings.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6536,
+    "name": "Logitech G G321 LIGHTSPEED Wireless Gaming Headset",
+    "price": 32.99,
+    "regular": 32.99,
+    "url": "https://megastore76.com/product/logitech-g-g321-lightspeed-wireless-gaming-headset",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/logitech_g321_hero.jpg",
+    "imgClean": true,
+    "sku": "LOGI-G321-LIGHTSPEED",
+    "desc": "Wireless gaming headset with real Bluetooth plus Logitech’s low-latency connection, a clear boom mic, and cross-platform support for PC, PlayStation, Switch and mobile.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6535,
+    "name": "JBL Tune 520 BT Wireless On-Ear Headphones",
+    "price": 23.95,
+    "regular": 23.95,
+    "url": "https://megastore76.com/product/jbl-tune-520-bt-wireless-on-ear-headphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/JBL.jpg",
+    "imgClean": true,
+    "sku": "JBL-TUNE520BT",
+    "desc": "On-ear Bluetooth 5.3 headphones with JBL Pure Bass sound, up to 57-hour battery life and hands-free calling. Amazon’s Choice bestseller.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6480,
+    "name": "Amazon Basics USB Condenser Microphone",
+    "price": 18.89,
+    "regular": 18.89,
+    "url": "https://megastore76.com/product/amazon-basics-usb-condenser-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/amazon-basic-usb.jpg",
+    "imgClean": true,
+    "sku": "AMZBASICS-USBMIC",
+    "desc": "No-frills plug-and-play USB condenser mic with a desktop stand — a simple, budget upgrade from a laptop mic.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6479,
+    "name": "Movo VXR10 Shotgun Microphone",
+    "price": 27.95,
+    "regular": 27.95,
+    "url": "https://megastore76.com/product/movo-vxr10-shotgun-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/movo_microphone_hero.jpg",
+    "imgClean": true,
+    "sku": "MOVO-VXR10",
+    "desc": "Camera-mount shotgun microphone with shock mount and windscreen — for cleaner on-camera video audio.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6478,
+    "name": "MAONO DGM20 USB Microphone",
+    "price": 29.99,
+    "regular": 29.99,
+    "url": "https://megastore76.com/product/maono-dgm20-usb-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/maono_dgm20_gaming_microphone.jpg",
+    "imgClean": true,
+    "sku": "MAONO-DGM20",
+    "desc": "USB cardioid condenser mic with mute button and headphone monitoring — built for streaming and podcasting.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6477,
+    "name": "BOYA BY-M1 Lavalier Microphone",
+    "price": 14.98,
+    "regular": 14.98,
+    "url": "https://megastore76.com/product/boya-by-m1-lavalier-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/Boya.jpg",
+    "imgClean": true,
+    "sku": "BOYA-BY-M1",
+    "desc": "Clip-on omnidirectional lavalier mic with a long cable and universal 3.5mm output — built for interviews and vlogging.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6476,
+    "name": "TONOR TC30 RGB USB Microphone",
+    "price": 25.99,
+    "regular": 25.99,
+    "url": "https://megastore76.com/product/tonor-tc30-rgb-usb-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/tonor_tc30_rgb_microphone.jpg",
+    "imgClean": true,
+    "sku": "TONOR-TC30-RGB",
+    "desc": "Cardioid USB condenser with adjustable RGB lighting, pop filter and shock mount included — best pick for streaming and gaming desks. See our full budget microphone guide .",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6475,
+    "name": "FIFINE K669B USB Microphone",
+    "price": 29.99,
+    "regular": 29.99,
+    "url": "https://megastore76.com/product/fifine-k669b-usb-microphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/fifine_k669b_microphone.jpg",
+    "imgClean": true,
+    "sku": "FIFINE-K669B",
+    "desc": "Cardioid USB condenser mic with metal build, volume knob and headphone monitoring — plug-and-play for PC, Mac, PS4/PS5.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6009,
+    "name": "Mini Bluetooth 5.3 Invisible Earbuds Wireless TWS Headphones w/ Mic Noise Cancel",
+    "price": 13.99,
+    "regular": 13.99,
+    "url": "https://megastore76.com/product/mini-bluetooth-5-3-invisible-earbuds-wireless-tws-headphones-w-mic-noise-cancel",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_etndluetndluetnd-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-invisible-mini-1399",
+    "desc": "Mini invisible Bluetooth 5.3 earbuds with mic and noise cancelling.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6008,
+    "name": "TOZO T10 Wireless Earbuds Blue, Bluetooth IPX8 Waterproof Wireless Charging Case",
+    "price": 19.99,
+    "regular": 19.99,
+    "url": "https://megastore76.com/product/tozo-t10-wireless-earbuds-blue-bluetooth-ipx8-waterproof-wireless-charging-case",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_72zl7f72zl7f72zl-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-tozo-t10-1999",
+    "desc": "TOZO T10 wireless earbuds, IPX8 waterproof, wireless charging case, in Blue.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6007,
+    "name": "TWS Bluetooth 5.3 Earphones Mini Wireless Headphones InEar Buds For SONY Android",
+    "price": 14.25,
+    "regular": 14.25,
+    "url": "https://megastore76.com/product/tws-bluetooth-5-3-earphones-mini-wireless-headphones-inear-buds-for-sony-android",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/tws_earphones_poster.webp",
+    "imgClean": true,
+    "sku": "we-tws-sony-1425",
+    "desc": "Mini TWS Bluetooth 5.3 earphones for SONY and Android devices.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6006,
+    "name": "Wireless Earbuds Bluetooth 5.3 ENC Mic 40H Playtime Deep Bass IP7 Waterproof",
+    "price": 16.49,
+    "regular": 16.49,
+    "url": "https://megastore76.com/product/wireless-earbuds-bluetooth-5-3-enc-mic-40h-playtime-deep-bass-ip7-waterproof",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_npj2o5npj2o5npj2-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-40h-ip7-1649",
+    "desc": "Bluetooth 5.3 earbuds, ENC mic, 40H playtime, IP7 waterproof.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6005,
+    "name": "Btootos Wireless Earbuds, Bluetooth 5.3 Headphones In Ear with 4 ENC Noise Cancel",
+    "price": 18.49,
+    "regular": 18.49,
+    "url": "https://megastore76.com/product/btootos-wireless-earbuds-bluetooth-5-3-headphones-in-ear-with-4-enc-noise-cancel",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/btootos_earbuds_ad.jpg",
+    "imgClean": true,
+    "sku": "we-btootos-1849",
+    "desc": "Btootos Bluetooth 5.3 earbuds with 4-mic ENC noise cancelling.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6004,
+    "name": "Samsung Galaxy Buds 4 Pro Wireless Earbuds ANC Bluetooth Noise Cancelling – Black",
+    "price": 164.99,
+    "regular": 164.99,
+    "url": "https://megastore76.com/product/samsung-galaxy-buds-4-pro-wireless-earbuds-anc-bluetooth-noise-cancelling-black",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3o44tn3o44tn3o44-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-galaxybuds4pro-16499",
+    "desc": "Samsung Galaxy Buds 4 Pro with ANC, in black.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6003,
+    "name": "Open-Ear Sport Earbuds Bluetooth 5.4 Wireless Headphones Air Conduction",
+    "price": 18.99,
+    "regular": 18.99,
+    "url": "https://megastore76.com/product/open-ear-sport-earbuds-bluetooth-5-4-wireless-headphones-air-conduction",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_yr2g5qyr2g5qyr2g-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-openear-sport-1899",
+    "desc": "Open-ear air conduction sport earbuds, Bluetooth 5.4.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6002,
+    "name": "Skullcandy Sesh Evo True Wireless Earphones Bluetooth Earbuds – IP55 – Mint",
+    "price": 11.95,
+    "regular": 11.95,
+    "url": "https://megastore76.com/product/skullcandy-sesh-evo-true-wireless-earphones-bluetooth-earbuds-ip55-mint",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_4yzyv64yzyv64yzy-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-skullcandy-seshevo-1195",
+    "desc": "Skullcandy Sesh Evo true wireless earbuds, IP55, in Mint.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6001,
+    "name": "TWS Bluetooth Wireless Earbuds Dual Mic ENC Earphones For Android & iPhone",
+    "price": 14.79,
+    "regular": 14.79,
+    "url": "https://megastore76.com/product/tws-bluetooth-wireless-earbuds-dual-mic-enc-earphones-for-android-iphone",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/tws_earbuds_dual_mic_enc.webp",
+    "imgClean": true,
+    "sku": "we-dualmic-enc-1479",
+    "desc": "TWS earbuds with dual mic ENC for clearer calls, Android & iPhone.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6000,
+    "name": "Deep Beats Wireless Earbuds Bluetooth Noise Cancelling – New",
+    "price": 13.99,
+    "regular": 13.99,
+    "url": "https://megastore76.com/product/deep-beats-wireless-earbuds-bluetooth-noise-cancelling-new",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/deep_beats_earbuds_ad.webp",
+    "imgClean": true,
+    "sku": "we-deepbeats-1399",
+    "desc": "Deep Beats wireless earbuds with noise cancelling, brand new.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5999,
+    "name": "Lenovo LP5 Pro Bluetooth 5.4 Wireless Earbuds ENC Noise Cancelling HiFi Stereo",
+    "price": 16.99,
+    "regular": 16.99,
+    "url": "https://megastore76.com/product/lenovo-lp5-pro-bluetooth-5-4-wireless-earbuds-enc-noise-cancelling-hifi-stereo",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_noaaz7noaaz7noaa-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-lenovo-lp5pro-1699",
+    "desc": "Lenovo LP5 Pro, Bluetooth 5.4, ENC noise cancelling, HiFi stereo.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5998,
+    "name": "Lenovo Xt80 Sports Wireless Earphones",
+    "price": 12.98,
+    "regular": 12.98,
+    "url": "https://megastore76.com/product/lenovo-xt80-sports-wireless-earphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_sgx6dbsgx6dbsgx6-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-lenovo-xt80-1298",
+    "desc": "Lenovo Xt80 sports wireless earphones.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5997,
+    "name": "Wireless Earbuds Ear Buds Bluetooth 5.3 Charging Case iPhone Samsung Android TWS (£8.79)",
+    "price": 8.79,
+    "regular": 8.79,
+    "url": "https://megastore76.com/product/wireless-earbuds-ear-buds-bluetooth-5-3-charging-case-iphone-samsung-android-tws-8-79",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_earbuds_poster_1-1.webp",
+    "imgClean": true,
+    "sku": "we-bt53-case-879",
+    "desc": "Bluetooth 5.3 wireless earbuds with charging case, iPhone/Samsung/Android.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5996,
+    "name": "TWS BX17 Wireless Earbuds Bluetooth 5.3 48H Playtime LED IPX7 Sport Mic Bass",
+    "price": 14.99,
+    "regular": 14.99,
+    "url": "https://megastore76.com/product/tws-bx17-wireless-earbuds-bluetooth-5-3-48h-playtime-led-ipx7-sport-mic-bass",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ake6ylake6ylake6-scaled.jpg",
+    "imgClean": false,
+    "sku": "we-bx17-1499",
+    "desc": "TWS BX17 earbuds, 48H playtime, LED display, IPX7 waterproof.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5995,
+    "name": "Wireless Earbuds Ear Buds Bluetooth 5.3 Charging Case iPhone Samsung Android TWS (£8.50)",
+    "price": 8.5,
+    "regular": 8.5,
+    "url": "https://megastore76.com/product/wireless-earbuds-ear-buds-bluetooth-5-3-charging-case-iphone-samsung-android-tws-8-50",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_earbuds_poster.jpg",
+    "imgClean": true,
+    "sku": "we-bt53-case-850",
+    "desc": "Bluetooth 5.3 wireless earbuds with charging case, iPhone/Samsung/Android.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5994,
+    "name": "Bluetooth Earphones TWS Mini Wireless Headphones In-Ear Buds For iPhone Android",
+    "price": 5.99,
+    "regular": 5.99,
+    "url": "https://megastore76.com/product/bluetooth-earphones-tws-mini-wireless-headphones-in-ear-buds-for-iphone-android",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/tws_mini_earphones.jpg",
+    "imgClean": true,
+    "sku": "we-tws-mini-599",
+    "desc": "Mini TWS Bluetooth earphones for iPhone and Android.",
+    "cats": [
+     "Audio & Headphones"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3642,
+    "name": "Maxmate MPV 90H",
+    "price": 49.99,
+    "regular": 49.99,
+    "url": "https://megastore76.com/product/maxmate-mpv-90h-wireless-noise-cancelling-headphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/image-40.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Enjoy immersive sound, Active Noise Cancellation, Bluetooth 5.3 connectivity, and up to 60 hours of battery life with the Maxmate MPV 90H Wireless Headphones—designed for all-day comfort and exceptional value.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3633,
+    "name": "Samsung Galaxy Bud FE",
+    "price": 60.99,
+    "regular": 60.99,
+    "url": "https://megastore76.com/product/samsung-galaxy-bud-fe",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_1c4k581c4k581c4k-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Enjoy rich immersive sound with the Samsung Galaxy Bud FE. Designed for ALL-DAY comfort.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3626,
+    "name": "Soundcore by Anker Space A40",
+    "price": 42.49,
+    "regular": 42.49,
+    "url": "https://megastore76.com/product/soundcore-space-a40",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_otidiqotidiqotid-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Enjoy immersive Hi-Res audio, adaptive noise cancellation, crystal-clear calls, and up to 50 hours of battery life with the compact and powerful Soundcore by Anker Space A40 wireless earbuds.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Smart Devices": {
+  "name": "Smart Devices",
+  "slug": "smart-devices",
+  "link": "https://megastore76.com/product-category/smart-devices",
+  "items": [
+   {
+    "id": 6644,
+    "name": "Xteink Magnetic Portable E Ink Reader (Ultra-Thin, 4.3-Inch)",
+    "price": 48.39,
+    "regular": 96.81,
+    "url": "https://megastore76.com/product/xteink-magnetic-portable-e-ink-reader-ultra-thin-4-3-inch",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/xteink_magnetic_ereader.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "An ultra-thin, magnetic-mount e-paper reader (~4.3in) built for quick daily reading anywhere in the house.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6643,
+    "name": "8BitDo SN30 2.4G Wireless Gamepad (Retro SNES/SFC Style)",
+    "price": 20.11,
+    "regular": 54.86,
+    "url": "https://megastore76.com/product/8bitdo-sn30-2-4g-wireless-gamepad-retro-snes-sfc-style",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/snes_controller_studio.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A 2.4G wireless gamepad styled after the classic SNES/SFC controller — a favorite for retro emulation and mini-console setups.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6642,
+    "name": "GameSir Nova Lite Wireless Gamepad (Hall Effect, Multi-Platform)",
+    "price": 16.9,
+    "regular": 38.68,
+    "url": "https://megastore76.com/product/gamesir-nova-lite-wireless-gamepad-hall-effect-multi-platform",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/mchose_v9_pro_headset-1.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A Bluetooth wireless gamepad with drift-resistant Hall Effect sticks, working across Switch, Android, iOS, PC and Steam.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6641,
+    "name": "P70 Cordless Air Duster (110,000 RPM Turbo Blower)",
+    "price": 11.28,
+    "regular": 28.5,
+    "url": "https://megastore76.com/product/p70-cordless-air-duster-110000-rpm-turbo-blower",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/p70_cordless_air_duster.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A cordless, rechargeable air duster that replaces canned air — 110,000 RPM across 4 adjustable power settings, with a built-in LED light and battery display.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": true
+   },
+   {
+    "id": 6512,
+    "name": "Plaud Note Pro AI Voice Recorder",
+    "price": 169,
+    "regular": 169,
+    "url": "https://megastore76.com/product/plaud-note-pro-ai-voice-recorder",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/plaud_note_pro_hero.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A slim AI voice recorder that transcribes and summarizes lectures, meetings, and calls automatically, with a choice of AI model for the summary.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6511,
+    "name": "reMarkable 2 Paper Tablet",
+    "price": 365.28,
+    "regular": 365.28,
+    "url": "https://megastore76.com/product/remarkable-2-paper-tablet",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/remarkable2_paper_tablet.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A distraction-free E Ink writing tablet with no app store or notifications, built to replace paper notebooks with a device that feels like one.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6510,
+    "name": "Viwoods AiPaper 10.65″ AI E Ink Tablet with Pen",
+    "price": 465.99,
+    "regular": 465.99,
+    "url": "https://megastore76.com/product/viwoods-aipaper-10-65-ai-e-ink-tablet-with-pen",
+    "img": "https://megastore76.com/wp-content/uploads/2026/09/viwoods_aipaper_product_shot.jpg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A full-featured E Ink writing tablet with a bundled stylus, built-in AI note assistance, and a glare-free 10.65″ display for handwriting-first students.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6414,
+    "name": "JOTO Reusable Cable Management Sleeve Kit (6-Pack)",
+    "price": 16.99,
+    "regular": 16.99,
+    "url": "https://megastore76.com/product/joto-reusable-cable-management-sleeve-kit-6-pack",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_7soit7soit7soit7-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Reusable cable management sleeves (6-pack) — tidy away desk and dorm cable clutter in minutes.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6413,
+    "name": "ProtoArc XK01 Foldable Bluetooth Keyboard with Trackpad",
+    "price": 47.42,
+    "regular": 47.42,
+    "url": "https://megastore76.com/product/protoarc-xk01-foldable-bluetooth-keyboard-with-trackpad",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_9b5vwn9b5vwn9b5v-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Foldable Bluetooth keyboard with trackpad and phone stand — fast, accurate typing on a tablet or phone, folds flat for a backpack.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5963,
+    "name": "Windows 11 Cheap Laptop Mini 11″ 1.2Ghz 4GB RAM 128GB Storage",
+    "price": 79.99,
+    "regular": 79.99,
+    "url": "https://megastore76.com/product/windows-11-cheap-laptop-mini-11-1-2ghz-4gb-ram-128gb-storage",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/windows_11_mini_laptop.jpg",
+    "imgClean": true,
+    "sku": "lt-mini-11in-128-7999",
+    "desc": "Cheap Windows 11 mini 11″ laptop, 4GB RAM, 128GB storage.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5962,
+    "name": "Dell Latitude 5300 Laptop, 13.3″ I5-8365U 16GB RAM 512GB SSD Win 11 Pro",
+    "price": 192.99,
+    "regular": 192.99,
+    "url": "https://megastore76.com/product/dell-latitude-5300-laptop-13-3-i5-8365u-16gb-ram-512gb-ssd-win-11-pro",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_5bv14d5bv14d5bv1-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-dell-5300-19299",
+    "desc": "Refurbished Dell Latitude 5300, 13.3″, i5, 16GB RAM, 512GB SSD.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5961,
+    "name": "HP 250 G7 15.6 Laptop i5-8265U 4GB DDR4 256GB NVMe",
+    "price": 64.5,
+    "regular": 64.5,
+    "url": "https://megastore76.com/product/hp-250-g7-15-6-laptop-i5-8265u-4gb-ddr4-256gb-nvme",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ar3ojfar3ojfar3o-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-hp-250g7-nvme-6450",
+    "desc": "HP 250 G7, 15.6″, i5-8265U, 4GB RAM, 256GB NVMe SSD.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5960,
+    "name": "Dell Vostro 14 5468 Laptop Core i5 7th Gen 8GB RAM 256GB SSD Win 11 Pro HDMI",
+    "price": 84.9,
+    "regular": 84.9,
+    "url": "https://megastore76.com/product/dell-vostro-14-5468-laptop-core-i5-7th-gen-8gb-ram-256gb-ssd-win-11-pro-hdmi",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_lsw9rslsw9rslsw9-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-dell-vostro14-8490",
+    "desc": "Dell Vostro 14 5468, i5 7th gen, 8GB RAM, 256GB SSD.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5959,
+    "name": "Laptop Dell Latitude 5410 Core i5 10th Gen 16GB Ram 512GB SSD NVME Win 11 Pro",
+    "price": 225,
+    "regular": 225,
+    "url": "https://megastore76.com/product/laptop-dell-latitude-5410-core-i5-10th-gen-16gb-ram-512gb-ssd-nvme-win-11-pro",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_sae7b2sae7b2sae7-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-dell-5410-22500",
+    "desc": "Refurbished Dell Latitude 5410, i5 10th gen, 16GB RAM, 512GB NVMe.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5958,
+    "name": "Dell Latitude 7490 14″ Laptop Intel i5 8GB RAM 128GB SSD Linux OS",
+    "price": 189.95,
+    "regular": 189.95,
+    "url": "https://megastore76.com/product/dell-latitude-7490-14-laptop-intel-i5-8gb-ram-128gb-ssd-linux-os",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_yicpqpyicpqpyicp-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-dell-7490-18995",
+    "desc": "Refurbished Dell Latitude 7490, 14″, i5, 8GB RAM, Linux OS.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5957,
+    "name": "Dell Latitude 3390 2-in-1 i5 8GB RAM 128GB SSD Touchscreen Win 11 Pro (Used)",
+    "price": 89,
+    "regular": 89,
+    "url": "https://megastore76.com/product/dell-latitude-3390-2-in-1-i5-8gb-ram-128gb-ssd-touchscreen-win-11-pro-used",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_e8ack1e8ack1e8ac-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-dell-3390-used-8900",
+    "desc": "Used Dell Latitude 3390 2-in-1 touchscreen, i5, 8GB RAM.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5956,
+    "name": "Lenovo MT 81AX BU Laptop Intel i5 8GB Ram 256GB SSD Win 11 Pro",
+    "price": 104.99,
+    "regular": 104.99,
+    "url": "https://megastore76.com/product/lenovo-mt-81ax-bu-laptop-intel-i5-8gb-ram-256gb-ssd-win-11-pro",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_8oaa0s8oaa0s8oaa-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-lenovo-81ax-10499",
+    "desc": "Lenovo MT 81AX laptop, i5, 8GB RAM, 256GB SSD, Windows 11 Pro.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5955,
+    "name": "Lenovo 300e 2nd Gen Touch Screen Fast Laptop",
+    "price": 98,
+    "regular": 98,
+    "url": "https://megastore76.com/product/lenovo-300e-2nd-gen-touch-screen-fast-laptop",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_t2fkmft2fkmft2fk-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-lenovo-300e-9800",
+    "desc": "Lenovo 300e 2nd Gen touchscreen laptop, fast and reliable.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5954,
+    "name": "Toshiba C850 Windows 11 Laptop Intel I3 8GB RAM 500GB Storage 15″ HD Webcam",
+    "price": 143.99,
+    "regular": 143.99,
+    "url": "https://megastore76.com/product/toshiba-c850-windows-11-laptop-intel-i3-8gb-ram-500gb-storage-15-hd-webcam",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/toshiba_c850_poster.webp",
+    "imgClean": true,
+    "sku": "lt-toshiba-c850-14399",
+    "desc": "Refurbished Toshiba C850, i3, 8GB RAM, 500GB storage, webcam.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5953,
+    "name": "Acer Aspire A114-33-po39 Brand New Boxed Silver 14″ Intel N6000 4GB 128GB",
+    "price": 139,
+    "regular": 139,
+    "url": "https://megastore76.com/product/acer-aspire-a114-33-po39-brand-new-boxed-silver-14-intel-n6000-4gb-128gb",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_z4923uz4923uz492-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-acer-aspire-a114-13900",
+    "desc": "Brand new boxed Acer Aspire A114, 14″ Intel N6000, 4GB RAM, 128GB.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5952,
+    "name": "Toshiba Tecra A50-C Windows 11 Laptop Intel i7 16GB RAM 256GB SSD 15″ BT WiFi",
+    "price": 238.99,
+    "regular": 238.99,
+    "url": "https://megastore76.com/product/toshiba-tecra-a50-c-windows-11-laptop-intel-i7-16gb-ram-256gb-ssd-15-bt-wifi",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_utcrr3utcrr3utcr-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-toshiba-tecra-23899",
+    "desc": "Refurbished Toshiba Tecra A50-C, i7, 16GB RAM, 256GB SSD, 15″.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5951,
+    "name": "Dell Latitude 3390 2-in-1 i5 8GB RAM 128GB SSD Touchscreen Win 11 Pro (Good)",
+    "price": 109,
+    "regular": 109,
+    "url": "https://megastore76.com/product/dell-latitude-3390-2-in-1-i5-8gb-ram-128gb-ssd-touchscreen-win-11-pro-good",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/dell_latitude_2in1_luxury.webp",
+    "imgClean": true,
+    "sku": "lt-dell-3390-good-10900",
+    "desc": "Refurbished Dell Latitude 3390 2-in-1 touchscreen, i5, 8GB RAM.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5950,
+    "name": "Dell Chromebook 11 3120 Laptop Intel Celeron 16GB Chrome OS WebCAM HDMI",
+    "price": 25.28,
+    "regular": 25.28,
+    "url": "https://megastore76.com/product/dell-chromebook-11-3120-laptop-intel-celeron-16gb-chrome-os-webcam-hdmi",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/dell_chromebook_luxury_ad.webp",
+    "imgClean": true,
+    "sku": "lt-dell-cb-3120-2528",
+    "desc": "Budget Dell Chromebook 11 3120 with Intel Celeron and webcam.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5949,
+    "name": "Lenovo ThinkBook 13 IML Laptop i7 10th gen 16GB RAM 512GB NVME Win 11 V.Good",
+    "price": 225,
+    "regular": 225,
+    "url": "https://megastore76.com/product/lenovo-thinkbook-13-iml-laptop-i7-10th-gen-16gb-ram-512gb-nvme-win-11-v-good",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_irju52irju52irju-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-lenovo-thinkbook13-22500",
+    "desc": "Refurbished Lenovo ThinkBook 13 with i7 10th gen, 16GB RAM, 512GB NVMe.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5948,
+    "name": "15.6″ Windows 11 Laptop 16GB RAM 512GB SSD FHD Intel N100 Fusion5 S15 N2 UK",
+    "price": 249.99,
+    "regular": 249.99,
+    "url": "https://megastore76.com/product/15-6-windows-11-laptop-16gb-ram-512gb-ssd-fhd-intel-n100-fusion5-s15-n2-uk",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_hxiy7fhxiy7fhxiy-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-fusion5-s15n2-24999",
+    "desc": "Fusion5 S15 N2, 15.6″ Windows 11 laptop, 16GB RAM, 512GB SSD.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5947,
+    "name": "14.1″ Windows 11 Laptop 4GB RAM 128GB FHD USB-C Fusion5 A90B+ Pro 2025",
+    "price": 117.99,
+    "regular": 117.99,
+    "url": "https://megastore76.com/product/14-1-windows-11-laptop-4gb-ram-128gb-fhd-usb-c-fusion5-a90b-pro-2025",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_7bz2j47bz2j47bz2.jpg",
+    "imgClean": false,
+    "sku": "lt-fusion5-a90b-11799",
+    "desc": "Fusion5 A90B+ Pro 2025, 14.1″ Windows 11 laptop with USB-C.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5946,
+    "name": "Dell Latitude 3301 Laptop – 13″ FHD i5-8265u CPU 8GB Ram 256GB SSD Windows 11",
+    "price": 149.85,
+    "regular": 149.85,
+    "url": "https://megastore76.com/product/dell-latitude-3301-laptop-13-fhd-i5-8265u-cpu-8gb-ram-256gb-ssd-windows-11",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/dell_latitude_luxury_ad.webp",
+    "imgClean": true,
+    "sku": "lt-dell-3301-14985",
+    "desc": "Refurbished Dell Latitude 3301, 13″ FHD, i5, 8GB RAM, 256GB SSD.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5945,
+    "name": "Cheap Laptop Mini Windows 10 11″ Laptop 1.2Ghz 4GB RAM 64GB Storage",
+    "price": 59.99,
+    "regular": 59.99,
+    "url": "https://megastore76.com/product/cheap-laptop-mini-windows-10-11-laptop-1-2ghz-4gb-ram-64gb-storage",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/mini_laptop_rose_gold_workspace.jpg",
+    "imgClean": true,
+    "sku": "lt-mini-11in-5999",
+    "desc": "Budget 11″ mini laptop with 4GB RAM and 64GB storage.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5944,
+    "name": "Lenovo 100e 2nd Gen Windows 10 Laptop, 11.6″ screen, 64gb eMMC/Webcam",
+    "price": 50,
+    "regular": 50,
+    "url": "https://megastore76.com/product/lenovo-100e-2nd-gen-windows-10-laptop-11-6-screen-64gb-emmc-webcam",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jp634zjp634zjp63-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-lenovo-100e-5000",
+    "desc": "Lenovo 100e 2nd Gen, 11.6″ laptop with webcam, budget-friendly.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5943,
+    "name": "Acer 14in Lightweight Compact Laptop Windows 10 for Basic Everyday Use",
+    "price": 160,
+    "regular": 160,
+    "url": "https://megastore76.com/product/acer-14in-lightweight-compact-laptop-windows-10-for-basic-everyday-use",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_kxqztskxqztskxqz-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-acer-14in-16000",
+    "desc": "Lightweight compact 14″ Acer laptop running Windows 10.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5942,
+    "name": "HP Laptop 15s-fq5020na – Perfect for Students, Work & Everyday Use",
+    "price": 200,
+    "regular": 200,
+    "url": "https://megastore76.com/product/hp-laptop-15s-fq5020na-perfect-for-students-work-everyday-use",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ojmej7ojmej7ojme-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-hp-15s-fq5020-20000",
+    "desc": "HP 15s laptop, well suited for students, work and everyday use.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5941,
+    "name": "Asus C202S Chromebook 11.6″ Laptop notebook (Good for everyday use)",
+    "price": 170,
+    "regular": 170,
+    "url": "https://megastore76.com/product/asus-c202s-chromebook-11-6-laptop-notebook-good-for-everyday-use",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/asus_chromebook_studio.jpg",
+    "imgClean": true,
+    "sku": "lt-asus-c202s-17000",
+    "desc": "Asus C202S 11.6″ Chromebook, ideal for everyday use.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5940,
+    "name": "Microsoft Surface Pro 12-Inch Keyboard | Compatible with Surface Pro Copilot+",
+    "price": 138.93,
+    "regular": 138.93,
+    "url": "https://megastore76.com/product/microsoft-surface-pro-12-inch-keyboard-compatible-with-surface-pro-copilot",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_m52hrkm52hrkm52h-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-surface-kb-13893",
+    "desc": "12-inch keyboard compatible with Surface Pro Copilot+ devices.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5939,
+    "name": "HP 14s-dq0518sa Laptop – Compact, Reliable, and Ready for Everyday Use",
+    "price": 235,
+    "regular": 235,
+    "url": "https://megastore76.com/product/hp-14s-dq0518sa-laptop-compact-reliable-and-ready-for-everyday-use",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_6tr39a6tr39a6tr3-scaled.jpg",
+    "imgClean": false,
+    "sku": "lt-hp-14s-23500",
+    "desc": "Compact and reliable HP 14s laptop, ready for everyday use.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5928,
+    "name": "ZL02 Smart Watch with Heart Rate, Blood Pressure and Sleep Monitoring Bluetooth",
+    "price": 19.99,
+    "regular": 19.99,
+    "url": "https://megastore76.com/product/zl02-smart-watch-with-heart-rate-blood-pressure-and-sleep-monitoring-bluetooth",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/zl02_smart_watch.jpg",
+    "imgClean": true,
+    "sku": "sw-zl02-1999",
+    "desc": "ZL02 smartwatch with heart rate, blood pressure and sleep monitoring.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5927,
+    "name": "Samsung Galaxy Watch 6 40mm – LTE – SM-R935 – Smartwatch – Graphite",
+    "price": 54.95,
+    "regular": 54.95,
+    "url": "https://megastore76.com/product/samsung-galaxy-watch-6-40mm-lte-sm-r935-smartwatch-graphite",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_fn039kfn039kfn03-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-galaxy-w6-lte-5495",
+    "desc": "Refurbished Samsung Galaxy Watch 6, 40mm LTE, in Graphite.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5926,
+    "name": "UK 2026 New Medical Grade Smart Watch Blood Pressure Oxygen Heart Rate Bluetooth (£18.40)",
+    "price": 18.4,
+    "regular": 18.4,
+    "url": "https://megastore76.com/product/uk-2026-new-medical-grade-smart-watch-blood-pressure-oxygen-heart-rate-bluetooth-18-40",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ohq8kwohq8kwohq8-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-medical-1840",
+    "desc": "Medical-grade smartwatch tracking blood pressure, oxygen and heart rate.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5925,
+    "name": "AMOLED Smartwatch – Always Show Time – for Android iOS Men Ladies",
+    "price": 35.99,
+    "regular": 35.99,
+    "url": "https://megastore76.com/product/amoled-smartwatch-always-show-time-for-android-ios-men-ladies",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/amoled_smartwatch_always_on.jpg",
+    "imgClean": true,
+    "sku": "sw-amoled-always-3599",
+    "desc": "Always-on AMOLED display smartwatch for Android and iOS.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5924,
+    "name": "Google Pixel Watch 2 Smartwatch – Wi-Fi & LTE – 41mm – Various Colours",
+    "price": 64.95,
+    "regular": 64.95,
+    "url": "https://megastore76.com/product/google-pixel-watch-2-smartwatch-wi-fi-lte-41mm-various-colours",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_yisprzyisprzyisp-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-pixel-w2-6495",
+    "desc": "Refurbished Google Pixel Watch 2 with Wi-Fi & LTE, 41mm.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5923,
+    "name": "Nothing Watch Pro 2 Smartwatch – Bluetooth – 11 Days Battery – Multiple Colours",
+    "price": 49.95,
+    "regular": 49.95,
+    "url": "https://megastore76.com/product/nothing-watch-pro-2-smartwatch-bluetooth-11-days-battery-multiple-colours",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_rmrws5rmrws5rmrw-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-nothing-pro2-4995",
+    "desc": "Nothing Watch Pro 2 with up to 11 days battery life, multiple colours.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5922,
+    "name": "Samsung Galaxy Watch 46mm 41mm SM-R840 Bluetooth GPS Smartwatch – Excellent",
+    "price": 44.95,
+    "regular": 44.95,
+    "url": "https://megastore76.com/product/samsung-galaxy-watch-46mm-41mm-sm-r840-bluetooth-gps-smartwatch-excellent",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ze3iraze3iraze3i-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-galaxy-r840-4495",
+    "desc": "Excellent-condition Samsung Galaxy Watch with Bluetooth and GPS.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5921,
+    "name": "Smart watch Men Women with Answer/Make Call/Heart Rate/Sleep/Sports/Step Counter",
+    "price": 14.99,
+    "regular": 14.99,
+    "url": "https://megastore76.com/product/smart-watch-men-women-with-answer-make-call-heart-rate-sleep-sports-step-counter",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/smart_watch_marketing.webp",
+    "imgClean": true,
+    "sku": "sw-stepcounter-1499",
+    "desc": "All-round smartwatch with calling, heart rate, sleep and step tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5920,
+    "name": "UK 2026 New Medical Grade Smart Watch Blood Pressure Oxygen Heart Rate Bluetooth (£7.99)",
+    "price": 7.99,
+    "regular": 7.99,
+    "url": "https://megastore76.com/product/uk-2026-new-medical-grade-smart-watch-blood-pressure-oxygen-heart-rate-bluetooth-7-99",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_37a1z737a1z737a1-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-medical-799",
+    "desc": "Medical-grade smartwatch tracking blood pressure, oxygen and heart rate.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5919,
+    "name": "V69 1.85″ Smart Watch with Bluetooth Call – Health, Fitness & IP68 Waterproof",
+    "price": 22.99,
+    "regular": 22.99,
+    "url": "https://megastore76.com/product/v69-1-85-smart-watch-with-bluetooth-call-health-fitness-ip68-waterproof",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/v69_smartwatch_waterproof.jpg",
+    "imgClean": true,
+    "sku": "sw-v69-ip68-2299",
+    "desc": "IP68 waterproof V69 smartwatch with Bluetooth calling and health tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5918,
+    "name": "CZ Smart PQ2 Hybrid Smartwatch Citizen Heart Rate Activity Tracker JX2005-55E",
+    "price": 110,
+    "regular": 110,
+    "url": "https://megastore76.com/product/cz-smart-pq2-hybrid-smartwatch-citizen-heart-rate-activity-tracker-jx2005-55e",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/citizen_smartwatch_luxury.jpg",
+    "imgClean": true,
+    "sku": "sw-cz-pq2-11000",
+    "desc": "CZ Smart hybrid smartwatch by Citizen with heart rate and activity tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5917,
+    "name": "2026 Smart Watch Women Smartwatch Bluetooth",
+    "price": 9.53,
+    "regular": 9.53,
+    "url": "https://megastore76.com/product/2026-smart-watch-women-smartwatch-bluetooth",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_vbbfvavbbfvavbbf-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-2026-women-953",
+    "desc": "Latest 2026 women’s Bluetooth smartwatch at a budget-friendly price.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5916,
+    "name": "Smart Watch V69 1.85″ HD Bluetooth Call Fitness Tracker Heart Rate Sports Men UK",
+    "price": 22.99,
+    "regular": 22.99,
+    "url": "https://megastore76.com/product/smart-watch-v69-1-85-hd-bluetooth-call-fitness-tracker-heart-rate-sports-men-uk",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/v69_smartwatch_poster.jpg",
+    "imgClean": true,
+    "sku": "sw-v69-2299",
+    "desc": "V69 HD smartwatch with Bluetooth calling and heart rate tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5915,
+    "name": "Smart Watch Women Android Ladies Fitness Bluetooth Call Watch for iPhone Samsung",
+    "price": 12.99,
+    "regular": 12.99,
+    "url": "https://megastore76.com/product/smart-watch-women-android-ladies-fitness-bluetooth-call-watch-for-iphone-samsung",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_g6lq1wg6lq1wg6lq-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-ladies-android-1299",
+    "desc": "Women’s Bluetooth call smartwatch, compatible with iPhone and Samsung.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5914,
+    "name": "Smart Watch Men Women Answer/Make Calls 1.85” Smartwatch Fitness Watch Pink Red",
+    "price": 15.99,
+    "regular": 15.99,
+    "url": "https://megastore76.com/product/smart-watch-men-women-answer-make-calls-1-85-smartwatch-fitness-watch-pink-red",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_orcloforcloforcl-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-calls-185-1599",
+    "desc": "1.85″ call-enabled smartwatch, available in pink and red.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5913,
+    "name": "Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK (£24.99)",
+    "price": 24.99,
+    "regular": 24.99,
+    "url": "https://megastore76.com/product/smart-watch-men-women-fitness-tracker-blood-pressure-heart-rate-sport-watches-uk-24-99",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_r8d1qqr8d1qqr8d1-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-fitness-uk-2499",
+    "desc": "Fitness smartwatch with blood pressure and heart rate tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5912,
+    "name": "Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK (£5.67)",
+    "price": 5.67,
+    "regular": 5.67,
+    "url": "https://megastore76.com/product/smart-watch-men-women-fitness-tracker-blood-pressure-heart-rate-sport-watches-uk-5-67",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_owr2u5owr2u5owr2-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-fitness-uk-567",
+    "desc": "Budget fitness smartwatch with blood pressure and heart rate tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5911,
+    "name": "Apple Watch SE Smartwatch – Various Colours – 40&44mm",
+    "price": 64.95,
+    "regular": 64.95,
+    "url": "https://megastore76.com/product/apple-watch-se-smartwatch-various-colours-4044mm",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ca06v8ca06v8ca06-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-apple-se-6495",
+    "desc": "Refurbished Apple Watch SE, available in various colours, 40mm and 44mm.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5910,
+    "name": "Samsung Galaxy Watch 6 40mm – Bluetooth – SM-R930 – Smartwatch – Black",
+    "price": 59.95,
+    "regular": 59.95,
+    "url": "https://megastore76.com/product/samsung-galaxy-watch-6-40mm-bluetooth-sm-r930-smartwatch-black",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_lqmg0slqmg0slqmg-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-galaxy-w6-40-5995",
+    "desc": "Refurbished Samsung Galaxy Watch 6, 40mm Bluetooth, in Black.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5909,
+    "name": "AMOLED Smart Watch Fitness Tracker Video Player 4GB Large Memory For Men Women",
+    "price": 29.99,
+    "regular": 29.99,
+    "url": "https://megastore76.com/product/amoled-smart-watch-fitness-tracker-video-player-4gb-large-memory-for-men-women",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_92kbcs92kbcs92kb-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-amoled-video-2999",
+    "desc": "AMOLED smartwatch with 4GB storage and built-in video player.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5908,
+    "name": "4G Smart Watch for Men Women 5MP Camera Touch Screen 2.86″ Screen Android",
+    "price": 113.48,
+    "regular": 113.48,
+    "url": "https://megastore76.com/product/4g-smart-watch-for-men-women-5mp-camera-touch-screen-2-86-screen-android",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_cd53aqcd53aqcd53-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-4g-cam-11348",
+    "desc": "4G Android smartwatch with 5MP camera and large 2.86″ touch screen.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5907,
+    "name": "Samsung Galaxy Fit3 Smart Watch Fitness Tracker Health Monitoring New Sealed",
+    "price": 33.95,
+    "regular": 33.95,
+    "url": "https://megastore76.com/product/samsung-galaxy-fit3-smart-watch-fitness-tracker-health-monitoring-new-sealed",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_z9vhypz9vhypz9vh-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-galaxy-fit3-3395",
+    "desc": "Brand new sealed Samsung Galaxy Fit3 fitness tracker with health monitoring.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5906,
+    "name": "Apple Watch Series 6 Smartwatch – Various Colours – 40&44mm",
+    "price": 72.95,
+    "regular": 72.95,
+    "url": "https://megastore76.com/product/apple-watch-series-6-smartwatch-various-colours-4044mm",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3nf3u03nf3u03nf3-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-apple-s6-7295",
+    "desc": "Refurbished Apple Watch Series 6, available in various colours, 40mm and 44mm.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5905,
+    "name": "Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure",
+    "price": 11.95,
+    "regular": 11.95,
+    "url": "https://megastore76.com/product/bluetooth-smart-watch-call-fitness-tracker-men-women-heart-rate-blood-pressure",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_l0yim6l0yim6l0yi-scaled.jpg",
+    "imgClean": false,
+    "sku": "sw-bt-fitness-1195",
+    "desc": "Budget Bluetooth smartwatch with call function, heart rate and blood pressure tracking.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5886,
+    "name": "MagSafe Case Liquid Silicone Premium Finish for iPhone 17",
+    "price": 6.99,
+    "regular": 6.99,
+    "url": "https://megastore76.com/product/magsafe-case-liquid-silicone-premium-finish-for-iphone-17",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jdrjaljdrjaljdrj-scaled.jpg",
+    "imgClean": false,
+    "sku": "MS76-IP17-CASE-05",
+    "desc": "Premium colourway liquid silicone MagSafe case for iPhone 17.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5885,
+    "name": "Air Protective Shockproof TPU Case for iPhone 17",
+    "price": 3.52,
+    "regular": 3.52,
+    "url": "https://megastore76.com/product/air-protective-shockproof-tpu-case-for-iphone-17",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ck7ux3ck7ux3ck7u-scaled.jpg",
+    "imgClean": false,
+    "sku": "MS76-IP17-CASE-04",
+    "desc": "Lightweight, patterned TPU case for iPhone 17 (no MagSafe).",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5884,
+    "name": "MagSafe Case Liquid Silicone (Shockproof) for iPhone 17",
+    "price": 6.05,
+    "regular": 6.05,
+    "url": "https://megastore76.com/product/magsafe-case-liquid-silicone-shockproof-for-iphone-17",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ditbmfditbmfditb-scaled.jpg",
+    "imgClean": false,
+    "sku": "MS76-IP17-CASE-03",
+    "desc": "Premium liquid silicone MagSafe case with a matte finish for iPhone 17.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5883,
+    "name": "Shockproof Magnetic MagSafe Case (Clear) for iPhone 17",
+    "price": 5.99,
+    "regular": 5.99,
+    "url": "https://megastore76.com/product/shockproof-magnetic-magsafe-case-clear-for-iphone-17",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_qw6dewqw6dewqw6d-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "MS76-IP17-CASE-02",
+    "desc": "Clear, shockproof MagSafe case that shows off your iPhone 17’s colour.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5882,
+    "name": "Magnetic MagSafe Silicone Phone Case for iPhone 17",
+    "price": 1.99,
+    "regular": 1.99,
+    "url": "https://megastore76.com/product/magnetic-magsafe-silicone-phone-case-for-iphone-17",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jhkp2djhkp2djhkp-scaled.jpg",
+    "imgClean": false,
+    "sku": "MS76-IP17-CASE-01",
+    "desc": "Budget-friendly MagSafe-compatible silicone case for iPhone 17.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5759,
+    "name": "UGREEN 4K Webcam Review 2026: Sharp Video Without Breaking the Bank",
+    "price": 29.95,
+    "regular": 29.95,
+    "url": "https://megastore76.com/product/ugreen-4k-webcam-review-2026-sharp-video-without-breaking-the-bank",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/ugreen_webcam_hero.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A budget-friendly 8MP webcam with true 4K video, auto light balancing, dual noise-cancelling mics and a privacy cover – a sharp upgrade for video calls and streaming without the premium price tag.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5757,
+    "name": "Anker Soundcore Work AI Voice Recorder Review 2026: A Pocket-Sized Meeting Assistant",
+    "price": 79.99,
+    "regular": 79.99,
+    "url": "https://megastore76.com/product/anker-soundcore-work-ai-voice-recorder-review-2026-a-pocket-sized-meeting-assistant",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990584.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A coin-sized AI recorder that transcribes meetings, separates speakers and generates summaries automatically – a genuinely useful shortcut for anyone who hates manual note-taking.",
+    "cats": [
+     "Smart Devices",
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5756,
+    "name": "UFO Magnetic Levitation Bluetooth Speaker Review 2026: Cool Gadget or Gimmick?",
+    "price": 106.44,
+    "regular": 106.44,
+    "url": "https://megastore76.com/product/ufo-magnetic-levitation-bluetooth-speaker-review-2026-cool-gadget-or-gimmick",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/UFO.jpeg",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A floating, colour-changing speaker puck that doubles as a mood light – a fun conversation-starter gadget you buy for the wow factor first and sound quality second.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5753,
+    "name": "Oura Ring 4 Review 2026: The Smart Ring That Tracks Your Health 24/7",
+    "price": 244,
+    "regular": 244,
+    "url": "https://megastore76.com/product/oura-ring-4-review-2026-the-smart-ring-that-tracks-your-health-24-7",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989079.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A discreet titanium smart ring that tracks sleep, heart health, stress and blood oxygen 24/7 with up to 8 days of battery – just factor in the required paid membership for full insights.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5241,
+    "name": "20000mAh Solar Power Bank with Fast Charging",
+    "price": 39.99,
+    "regular": 39.99,
+    "url": "https://megastore76.com/product/20000mah-solar-power-bank-with-fast-charging",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786988370.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A rugged 20,000mAh power bank with fast charging, dual outputs, and a fold-out solar panel for backup power on the go.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5240,
+    "name": "65W GaN Fast Charger with Dual USB-C Ports",
+    "price": 29.99,
+    "regular": 29.99,
+    "url": "https://megastore76.com/product/65w-gan-fast-charger-with-dual-usb-c-ports",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786988865.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A compact 65W GaN charger with dual USB-C ports and smart power sharing — small enough to replace a laptop charger on the go.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 4427,
+    "name": "Wireless Earbuds with Active Noise Cancellation",
+    "price": 49.99,
+    "regular": 49.99,
+    "url": "https://megastore76.com/product/wireless-earbuds-active-noise-cancellation",
+    "img": "https://megastore76.com/wp-content/uploads/2026/07/wireless_earbuds_anc_cutout.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Everyday wireless earbuds with real ANC, all-day battery life, and comfortable secure fit — smart value audio for commutes, workouts, and calls.",
+    "cats": [
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3642,
+    "name": "Maxmate MPV 90H",
+    "price": 49.99,
+    "regular": 49.99,
+    "url": "https://megastore76.com/product/maxmate-mpv-90h-wireless-noise-cancelling-headphones",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/image-40.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Enjoy immersive sound, Active Noise Cancellation, Bluetooth 5.3 connectivity, and up to 60 hours of battery life with the Maxmate MPV 90H Wireless Headphones—designed for all-day comfort and exceptional value.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3633,
+    "name": "Samsung Galaxy Bud FE",
+    "price": 60.99,
+    "regular": 60.99,
+    "url": "https://megastore76.com/product/samsung-galaxy-bud-fe",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_1c4k581c4k581c4k-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Enjoy rich immersive sound with the Samsung Galaxy Bud FE. Designed for ALL-DAY comfort.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3626,
+    "name": "Soundcore by Anker Space A40",
+    "price": 42.49,
+    "regular": 42.49,
+    "url": "https://megastore76.com/product/soundcore-space-a40",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_otidiqotidiqotid-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Enjoy immersive Hi-Res audio, adaptive noise cancellation, crystal-clear calls, and up to 50 hours of battery life with the compact and powerful Soundcore by Anker Space A40 wireless earbuds.",
+    "cats": [
+     "Audio & Headphones",
+     "Smart Devices"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3613,
+    "name": "LG C5 OLED",
+    "price": 1499,
+    "regular": 1499,
+    "url": "https://megastore76.com/product/lg-c5-oled-tv",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_qrxxfoqrxxfoqrxx-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Experience breathtaking OLED picture quality, perfect blacks, vibrant colors, and ultra smooth gaming performance.",
+    "cats": [
+     "Smart Devices",
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3609,
+    "name": "Samsung S95D OLED",
+    "price": 1799,
+    "regular": 1799,
+    "url": "https://megastore76.com/product/samsung-s95d-oled",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_ct33o5ct33o5ct33-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Experience Breathtaking OLED 4k picture quality, glare-free viewing, Ai-powered upscaling, and ultra smooth 144HZ Gaming performance.",
+    "cats": [
+     "Smart Devices",
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Chargers & Power Banks": {
+  "name": "Chargers & Power Banks",
+  "slug": "chargers-power-banks",
+  "link": "https://megastore76.com/product-category/chargers-power-banks",
+  "items": [
+   {
+    "id": 6412,
+    "name": "Anker 8-in-1 USB-C Hub / Docking Station",
+    "price": 32.99,
+    "regular": 32.99,
+    "url": "https://megastore76.com/product/anker-8-in-1-usb-c-hub-docking-station",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h7ovush7ovush7ov-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "8-in-1 USB-C hub from Anker — dual 4K HDMI, Ethernet, SD card reader, and 85W pass-through charging for laptops with limited ports.",
+    "cats": [
+     "Chargers & Power Banks"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5934,
+    "name": "1M USB Power Cable Lead Charging Adapter Wire For Amazon Fire TV Streaming Stick",
+    "price": 3.98,
+    "regular": 3.98,
+    "url": "https://megastore76.com/product/1m-usb-power-cable-lead-charging-adapter-wire-for-amazon-fire-tv-streaming-stick",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_r4kbz8r4kbz8r4kb-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-usb-cable-398",
+    "desc": "1M USB power cable and charging adapter for Fire TV Streaming Stick.",
+    "cats": [
+     "Chargers & Power Banks"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 4426,
+    "name": "Slim Magnetic Wireless Power Bank 10000mAh",
+    "price": 34.99,
+    "regular": 34.99,
+    "url": "https://megastore76.com/product/slim-magnetic-wireless-power-bank-10000mah",
+    "img": "https://megastore76.com/wp-content/uploads/2026/07/slim.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Ultra-thin magnetic wireless power bank with 10000mAh capacity — smart value charging for iPhone, Android, and everyday carry.",
+    "cats": [
+     "Chargers & Power Banks"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Smart Home": {
+  "name": "Smart Home",
+  "slug": "smart-home",
+  "link": "https://megastore76.com/product-category/smart-home",
+  "items": [
+   {
+    "id": 6411,
+    "name": "LED Desk Lamp with Wireless Charging Base",
+    "price": 23.78,
+    "regular": 23.78,
+    "url": "https://megastore76.com/product/led-desk-lamp-with-wireless-charging-base",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_vmj1mvvmj1mvvmj1-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Wireless-charging LED desk lamp — dimmable lighting and phone charging in one device, ideal for a dorm or study desk.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6021,
+    "name": "Tommee Tippee GroEgg2 Toddler Nightlight",
+    "price": 19.98,
+    "regular": 19.98,
+    "url": "https://megastore76.com/product/tommee-tippee-groegg2-toddler-nightlight",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/tommee_tippee_groegg2_nursery.webp",
+    "imgClean": true,
+    "sku": "AMZ-TOMMEE-GROEGG2",
+    "desc": "A colour-changing nightlight and room thermometer in one, letting parents check room temperature at a glance – a trending nursery favourite.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6015,
+    "name": "Gritin Under Cabinet Kitchen Lights Rechargeable 2-Pack",
+    "price": 12.72,
+    "regular": 12.72,
+    "url": "https://megastore76.com/product/gritin-under-cabinet-kitchen-lights-rechargeable-2-pack",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3izi893izi893izi-scaled.jpg",
+    "imgClean": false,
+    "sku": "AMZ-GRITIN-CABLIGHT-2PK",
+    "desc": "Rechargeable, motion-sensing under-cabinet lights that stick anywhere – a trending kitchen and closet lighting upgrade with no wiring required.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 6013,
+    "name": "KSIPZE 30m LED Strip Lights RGB Music Sync",
+    "price": 15.97,
+    "regular": 15.97,
+    "url": "https://megastore76.com/product/ksipze-30m-led-strip-lights-rgb-music-sync",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_1ms29z1ms29z1ms2-scaled.jpg",
+    "imgClean": false,
+    "sku": "AMZ-KSIPZE-LEDSTRIP-30M",
+    "desc": "A massive 30-metre RGB LED strip with music sync and app/remote control – a favourite for room makeovers and gaming setups trending across social media.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5993,
+    "name": "Smart Plug Socket For Home Alexa Google WiFi UK Monitoring Timer Wireless Voice",
+    "price": 10.99,
+    "regular": 10.99,
+    "url": "https://megastore76.com/product/smart-plug-socket-for-home-alexa-google-wifi-uk-monitoring-timer-wireless-voice",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_s7q9sfs7q9sfs7q9-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-home-voice-1099",
+    "desc": "Home smart plug with WiFi monitoring, timer, and voice control.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5992,
+    "name": "Amazon Basics Single Outlet Indoor Wi-Fi Smart Plug, Works with Alexa 4 Pack",
+    "price": 20,
+    "regular": 20,
+    "url": "https://megastore76.com/product/amazon-basics-single-outlet-indoor-wi-fi-smart-plug-works-with-alexa-4-pack",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_dxf3lidxf3lidxf3-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-amazonbasics-4pack-2000",
+    "desc": "Amazon Basics single-outlet Wi-Fi smart plug, 4-pack, works with Alexa.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5991,
+    "name": "Tuya Smart WiFi UK Plug Alexa Voice Control, Energy Monitoring & Timer Function",
+    "price": 5.49,
+    "regular": 5.49,
+    "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+    "imgClean": true,
+    "sku": "sp-tuya-single-549",
+    "desc": "Tuya Smart WiFi UK plug with energy monitoring and timer function.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5990,
+    "name": "20A Smart WiFi Plug Socket Energy Monitoring Alexa Google Home 4400W High Power",
+    "price": 5.99,
+    "regular": 5.99,
+    "url": "https://megastore76.com/product/20a-smart-wifi-plug-socket-energy-monitoring-alexa-google-home-4400w-high-power",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_1ec3ct1ec3ct1ec3-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-20a-4400w-599",
+    "desc": "High-power 20A smart WiFi plug with energy monitoring, up to 4400W.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5989,
+    "name": "Meross MSS315 Matter Smart Plug Mini WiFi Energy Monitor Alexa HomeKit 1-4Pack",
+    "price": 11.99,
+    "regular": 11.99,
+    "url": "https://megastore76.com/product/meross-mss315-matter-smart-plug-mini-wifi-energy-monitor-alexa-homekit-1-4pack",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ufewl6ufewl6ufew-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-meross-mss315-1199",
+    "desc": "Meross MSS315 Matter smart plug with energy monitoring, Alexa & HomeKit.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5988,
+    "name": "WiFi Smart Plug Socket Plug Works with Alexa, Google Home Smart Plug Alexa Plugs",
+    "price": 9.89,
+    "regular": 9.89,
+    "url": "https://megastore76.com/product/wifi-smart-plug-socket-plug-works-with-alexa-google-home-smart-plug-alexa-plugs",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_7gipxv7gipxv7gip-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-alexa-google-989",
+    "desc": "WiFi smart plug socket compatible with Alexa and Google Home.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5987,
+    "name": "Smart Plug GNCC WiFi Plugs Works with Google Home Smart Socket Wireless",
+    "price": 4.69,
+    "regular": 4.69,
+    "url": "https://megastore76.com/product/smart-plug-gncc-wifi-plugs-works-with-google-home-smart-socket-wireless",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_nqieh5nqieh5nqie-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-gncc-469",
+    "desc": "Budget GNCC WiFi smart plug compatible with Google Home.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5986,
+    "name": "Wireless WiFi Smart Plug Power Socket For Amazon Alexa Google Home UK",
+    "price": 6.49,
+    "regular": 6.49,
+    "url": "https://megastore76.com/product/wireless-wifi-smart-plug-power-socket-for-amazon-alexa-google-home-uk",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_wifi_smart_plug.jpg",
+    "imgClean": true,
+    "sku": "sp-wireless-uk-649",
+    "desc": "Wireless WiFi smart plug for Amazon Alexa and Google Home.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5985,
+    "name": "4pack Tuya Smart Life Wifi Smart Plugs with Power Monitor UK Plug Alexa Voice",
+    "price": 23.36,
+    "regular": 23.36,
+    "url": "https://megastore76.com/product/4pack-tuya-smart-life-wifi-smart-plugs-with-power-monitor-uk-plug-alexa-voice",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_bu7y19bu7y19bu7y.jpg",
+    "imgClean": false,
+    "sku": "sp-tuya-4pack-2336",
+    "desc": "4-pack Tuya Smart Life WiFi plugs with power monitoring.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5983,
+    "name": "2 Smart Heavy Duty Outdoor Plug IP44 WiFi Plug Alexa Voice Control Google Apple",
+    "price": 24.99,
+    "regular": 24.99,
+    "url": "https://megastore76.com/product/2-smart-heavy-duty-outdoor-plug-ip44-wifi-plug-alexa-voice-control-google-apple",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_q6odhdq6odhdq6od-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-outdoor-ip44-2499",
+    "desc": "Pack of 2 heavy duty outdoor IP44 WiFi smart plugs.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5982,
+    "name": "Smart Life WiFi Plug for Google Home Amazon Alexa 20A Wireless Power Socket",
+    "price": 6.95,
+    "regular": 6.95,
+    "url": "https://megastore76.com/product/smart-life-wifi-plug-for-google-home-amazon-alexa-20a-wireless-power-socket",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_ltzd99ltzd99ltzd-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-smartlife-20a-695",
+    "desc": "20A Smart Life WiFi plug compatible with Google Home and Alexa.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5981,
+    "name": "Amazon Alexa Smart Plug – Make Your Home Smart – Simple to Set up and Use",
+    "price": 11.95,
+    "regular": 11.95,
+    "url": "https://megastore76.com/product/amazon-alexa-smart-plug-make-your-home-smart-simple-to-set-up-and-use",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_x4v91rx4v91rx4v9-scaled.jpg",
+    "imgClean": false,
+    "sku": "sp-alexa-basic-1195",
+    "desc": "Simple-to-use Amazon Alexa compatible smart plug.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5980,
+    "name": "OKP Robot Vacuum Cleaner K4 3600Pa Super Strong Suction Alexa WiFi",
+    "price": 74.68,
+    "regular": 74.68,
+    "url": "https://megastore76.com/product/okp-robot-vacuum-cleaner-k4-3600pa-super-strong-suction-alexa-wifi",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h55paeh55paeh55p-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-okp-k4-7468",
+    "desc": "Refurbished OKP K4 robot vacuum, 3600Pa suction, Alexa and WiFi.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5979,
+    "name": "Proscenic Q8 Max+ Robot Vacuum Cleaner with Mop, 8000Pa Strong Suction",
+    "price": 85,
+    "regular": 85,
+    "url": "https://megastore76.com/product/proscenic-q8-max-robot-vacuum-cleaner-with-mop-8000pa-strong-suction",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_z89curz89curz89c-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-proscenic-q8max-8500",
+    "desc": "Proscenic Q8 Max+ robot vacuum with mop, 8000Pa strong suction.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5978,
+    "name": "Hoover Robot Vacuum Cleaner Dry – HG410D – Brand New Sealed UK Warranty",
+    "price": 129.99,
+    "regular": 129.99,
+    "url": "https://megastore76.com/product/hoover-robot-vacuum-cleaner-dry-hg410d-brand-new-sealed-uk-warranty",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_yzm1o4yzm1o4yzm1-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-hoover-hg410d-12999",
+    "desc": "Hoover HG410D robot vacuum, brand new sealed with UK warranty.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5977,
+    "name": "Lefant M1 Robot Vacuum Cleaner and Mop",
+    "price": 40,
+    "regular": 40,
+    "url": "https://megastore76.com/product/lefant-m1-robot-vacuum-cleaner-and-mop",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_dxaqtddxaqtddxaq-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-lefant-m1-4000",
+    "desc": "Lefant M1 robot vacuum cleaner and mop.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5976,
+    "name": "Roborock Qrevo S Pro, Robot Vacuum Cleaner 18500Pa, White, New",
+    "price": 384.61,
+    "regular": 384.61,
+    "url": "https://megastore76.com/product/roborock-qrevo-s-pro-robot-vacuum-cleaner-18500pa-white-new",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_5v8qy75v8qy75v8q-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-roborock-qrevo-38461",
+    "desc": "Roborock Qrevo S Pro with powerful 18500Pa suction, brand new, white.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5975,
+    "name": "Laresar Robot Vacuum Cleaner and Mop",
+    "price": 49,
+    "regular": 49,
+    "url": "https://megastore76.com/product/laresar-robot-vacuum-cleaner-and-mop",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jna0t0jna0t0jna0-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-laresar-4900",
+    "desc": "Laresar robot vacuum cleaner with mop function.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5972,
+    "name": "Innovate Further S2 Max Robot Vacuum Cleaner Smart Mopping",
+    "price": 50,
+    "regular": 50,
+    "url": "https://megastore76.com/product/innovate-further-s2-max-robot-vacuum-cleaner-smart-mopping",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_wjsloiwjsloiwjsl-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-innovate-s2max-5000",
+    "desc": "Innovate Further S2 Max robot vacuum with smart mopping.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5971,
+    "name": "Smart Life Intelligent Vacuum Cleaner Robot Rechargeable Working",
+    "price": 14.99,
+    "regular": 14.99,
+    "url": "https://megastore76.com/product/smart-life-intelligent-vacuum-cleaner-robot-rechargeable-working",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_a1mtgua1mtgua1mt-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-smartlife-1499",
+    "desc": "Budget rechargeable intelligent robot vacuum cleaner.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5970,
+    "name": "Ecovacs DEEBOT OZMO T8 AIVI Robot Vacuum Cleaner with Mop",
+    "price": 29.99,
+    "regular": 29.99,
+    "url": "https://megastore76.com/product/ecovacs-deebot-ozmo-t8-aivi-robot-vacuum-cleaner-with-mop",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2slk6n2slk6n2slk-1-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-ecovacs-t8-2999",
+    "desc": "Ecovacs DEEBOT OZMO T8 AIVI robot vacuum with mop function.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5969,
+    "name": "eufy L60 Hybrid Robot Vacuum Cleaner with Mop and Self-Empty Station",
+    "price": 200,
+    "regular": 200,
+    "url": "https://megastore76.com/product/eufy-l60-hybrid-robot-vacuum-cleaner-with-mop-and-self-empty-station",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_bpp52dbpp52dbpp5-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-eufy-l60-20000",
+    "desc": "Eufy L60 hybrid robot vacuum and mop with self-empty station.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5968,
+    "name": "7KPa MS1-MAX Robot Vacuum Cleaner Smart Mapping 3.5L Hoover 180mins APP/Remote",
+    "price": 169.99,
+    "regular": 169.99,
+    "url": "https://megastore76.com/product/7kpa-ms1-max-robot-vacuum-cleaner-smart-mapping-3-5l-hoover-180mins-app-remote",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_wsrmnmwsrmnmwsrm-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-ms1max-b-16999",
+    "desc": "7KPa MS1-MAX robot vacuum with smart mapping and 3.5L dust bin.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5967,
+    "name": "MONSGA MS1 Robot Vacuum Mop 7000Pa Lidar Navigation App 180min Maps UK",
+    "price": 64.99,
+    "regular": 64.99,
+    "url": "https://megastore76.com/product/monsga-ms1-robot-vacuum-mop-7000pa-lidar-navigation-app-180min-maps-uk",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_u943csu943csu943-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-monsga-ms1-6499",
+    "desc": "MONSGA MS1 robot vacuum with 7000Pa suction, LiDAR navigation and mop.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5965,
+    "name": "Intelligent Robot Vacuum Cleaner – Automatic Hoover – White – New/Unused",
+    "price": 0.99,
+    "regular": 0.99,
+    "url": "https://megastore76.com/product/intelligent-robot-vacuum-cleaner-automatic-hoover-white-new-unused",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_uohmg9uohmg9uohm-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-intelligent-white-099",
+    "desc": "Ultra-budget intelligent automatic robot vacuum, white, new/unused.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5964,
+    "name": "UR1 Robot Vacuum Cleaner 5000Pa Mop Smart App Pet Hair Carpet Hard Floor",
+    "price": 59.99,
+    "regular": 59.99,
+    "url": "https://megastore76.com/product/ur1-robot-vacuum-cleaner-5000pa-mop-smart-app-pet-hair-carpet-hard-floor",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_g5juswg5juswg5ju-scaled.jpg",
+    "imgClean": false,
+    "sku": "rv-ur1-5000pa-5999",
+    "desc": "UR1 robot vacuum with 5000Pa suction, mop function, smart app control.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5760,
+    "name": "KPON 3-in-1 Wireless Charging Station Review 2026: One Stand, Three Devices",
+    "price": 23.99,
+    "regular": 23.99,
+    "url": "https://megastore76.com/product/kpon-3-in-1-wireless-charging-station-review-2026-one-stand-three-devices",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989855.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Charge your phone, earbuds and smartwatch from one foldable pad – a tidy, travel-friendly fix for desk clutter, though it tops out around 15W so it suits overnight charging more than a fast top-up.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5758,
+    "name": "WiFi 6 Mini Projector Review 2026: Is It Ready to Replace Your TV?",
+    "price": 41.99,
+    "regular": 41.99,
+    "url": "https://megastore76.com/product/wifi-6-mini-projector-review-2026-is-it-ready-to-replace-your-tv",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/wifi6_mini_projector_review.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A compact, wireless-first mini projector with WiFi 6 and Bluetooth 5.4 for screen mirroring and movie nights anywhere – best after dark, since it can’t match a TV for daylight brightness.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5757,
+    "name": "Anker Soundcore Work AI Voice Recorder Review 2026: A Pocket-Sized Meeting Assistant",
+    "price": 79.99,
+    "regular": 79.99,
+    "url": "https://megastore76.com/product/anker-soundcore-work-ai-voice-recorder-review-2026-a-pocket-sized-meeting-assistant",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990584.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A coin-sized AI recorder that transcribes meetings, separates speakers and generates summaries automatically – a genuinely useful shortcut for anyone who hates manual note-taking.",
+    "cats": [
+     "Smart Devices",
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5755,
+    "name": "Amazon Echo Dot Review 2026: Still the Best Budget Smart Speaker?",
+    "price": 54.99,
+    "regular": 54.99,
+    "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990347.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "The go-to budget smart speaker for Alexa voice control, smart home hub duties and multi-room audio – still one of the easiest, cheapest ways to add voice control to any room.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5754,
+    "name": "Philips Hue Starter Kit Review 2026: Is Smart Lighting Worth It?",
+    "price": 67.85,
+    "regular": 67.85,
+    "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "The category-leading smart lighting starter kit with a Hue Bridge and two colour-changing bulbs – full voice assistant support, room scheduling, and an ecosystem that grows bulb by bulb.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5242,
+    "name": "WiFi Smart Plug 4-Pack with Energy Monitoring",
+    "price": 24.99,
+    "regular": 24.99,
+    "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/wifi_smart_plug_hero.webp",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Four WiFi smart plugs with app control, scheduling, voice assistant support, and real-time energy monitoring for everyday appliances.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5236,
+    "name": "Smart Video Doorbell with 2K HDR Night Vision",
+    "price": 59.99,
+    "regular": 59.99,
+    "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "A 2K HDR smart doorbell with color night vision, AI person detection, and two-way talk — easy to install and packed with features.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 4428,
+    "name": "Compact Robot Vacuum with App Control",
+    "price": 149.99,
+    "regular": 149.99,
+    "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+    "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012129960.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Compact app-controlled robot vacuum with auto-charging dock — smart, everyday home cleaning at a smart value price.",
+    "cats": [
+     "Smart Home"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "TVs & Displays": {
+  "name": "TVs & Displays",
+  "slug": "tvs-displays",
+  "link": "https://megastore76.com/product-category/tvs-displays",
+  "items": [
+   {
+    "id": 5938,
+    "name": "Amazon Fire Stick TV 4K Ultra HD Firestick Streaming Voice Control Remote",
+    "price": 9.95,
+    "regular": 9.95,
+    "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2ji4hf2ji4hf2ji4-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-basic-995",
+    "desc": "Budget Amazon Fire Stick TV 4K Ultra HD with voice control remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5937,
+    "name": "Fire TV Stick F3 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote",
+    "price": 23.5,
+    "regular": 23.5,
+    "url": "https://megastore76.com/product/fire-tv-stick-f3-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_c3u9ggc3u9ggc3u9-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-f3-2350",
+    "desc": "Fire TV Stick F3 4K Ultra HD with Bluetooth voice remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5936,
+    "name": "Amazon Fire TV Stick 4K Plus streaming device 8gb Wi-Fi 6 Dolby Vision Brand New",
+    "price": 34.89,
+    "regular": 34.89,
+    "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-plus-streaming-device-8gb-wi-fi-6-dolby-vision-brand-new",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2bwala2bwala2bwa-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-4kplus-3489",
+    "desc": "Fire TV Stick 4K Plus, 8GB, Wi-Fi 6, Dolby Vision, brand new.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5935,
+    "name": "Amazon Fire TV Stick 4K Select Latest Gen Alexa 4K UHD Streaming Media Player",
+    "price": 39.99,
+    "regular": 39.99,
+    "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-select-latest-gen-alexa-4k-uhd-streaming-media-player",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_aesg9uaesg9uaesg-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-select-3999",
+    "desc": "Latest-gen Fire TV Stick 4K Select with Alexa and 4K UHD streaming.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5933,
+    "name": "Android TV Stick 4K S02 – Smart Streaming Device | 4K Ultra HD | Android TV",
+    "price": 19.99,
+    "regular": 19.99,
+    "url": "https://megastore76.com/product/android-tv-stick-4k-s02-smart-streaming-device-4k-ultra-hd-android-tv",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_g9gootg9gootg9go-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-android-s02-1999",
+    "desc": "Android TV streaming stick with 4K Ultra HD support.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5932,
+    "name": "Fire TV Stick 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote F3",
+    "price": 25.99,
+    "regular": 25.99,
+    "url": "https://megastore76.com/product/fire-tv-stick-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote-f3",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_cwla6fcwla6fcwla-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-f3-2599",
+    "desc": "Fire TV Stick 4K Ultra HD with Bluetooth voice remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5931,
+    "name": "Amazon Fire TV Stick 4K Max Gen 2 | Streaming Device | Wi-Fi 6 Alexa Voice",
+    "price": 59.95,
+    "regular": 59.95,
+    "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_oupzxqoupzxqoupz-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-4kmax-5995",
+    "desc": "Fire TV Stick 4K Max Gen 2 with Wi-Fi 6 and Alexa Voice Remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5930,
+    "name": "Amazon Fire Stick TV 4K Ultra HD Firestick Streaming + Remote – 1st Gen UNBOXED",
+    "price": 38.5,
+    "regular": 38.5,
+    "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-remote-1st-gen-unboxed",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h38zfuh38zfuh38z-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-firestick-1stgen-3850",
+    "desc": "Amazon Fire TV Stick 4K Ultra HD, 1st Gen, unboxed with remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 5929,
+    "name": "Roku Streaming Stick 2025 HD Streaming Device For TV With Roku Voice Remote",
+    "price": 28.99,
+    "regular": 28.99,
+    "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_v9bom3v9bom3v9bo-scaled.jpg",
+    "imgClean": false,
+    "sku": "ss-roku-2025-2899",
+    "desc": "2025 Roku Streaming Stick HD with voice remote.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 4429,
+    "name": "4K Streaming Stick with Voice Remote",
+    "price": 39.99,
+    "regular": 39.99,
+    "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+    "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Plug-and-play 4K streaming stick with voice remote — instant smart TV upgrade at a smart value price.",
+    "cats": [
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3613,
+    "name": "LG C5 OLED",
+    "price": 1499,
+    "regular": 1499,
+    "url": "https://megastore76.com/product/lg-c5-oled-tv",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_qrxxfoqrxxfoqrxx-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Experience breathtaking OLED picture quality, perfect blacks, vibrant colors, and ultra smooth gaming performance.",
+    "cats": [
+     "Smart Devices",
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   },
+   {
+    "id": 3609,
+    "name": "Samsung S95D OLED",
+    "price": 1799,
+    "regular": 1799,
+    "url": "https://megastore76.com/product/samsung-s95d-oled",
+    "img": "https://megastore76.com/wp-content/uploads/2026/06/Gemini_Generated_Image_ct33o5ct33o5ct33-scaled.jpg",
+    "imgClean": false,
+    "sku": "",
+    "desc": "Experience Breathtaking OLED 4k picture quality, glare-free viewing, Ai-powered upscaling, and ultra smooth 144HZ Gaming performance.",
+    "cats": [
+     "Smart Devices",
+     "TVs & Displays"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ },
+ "Ai Tools": {
+  "name": "Ai Tools",
+  "slug": "ai-tools",
+  "link": "https://megastore76.com/product-category/ai-tools",
+  "items": [
+   {
+    "id": 5238,
+    "name": "ChatGPT Plus Review: Is the Upgrade Worth It in 2026",
+    "price": 20,
+    "regular": 20,
+    "url": "https://megastore76.com/product/chatgpt-plus-review-is-the-upgrade-worth-it-in-2026",
+    "img": "https://megastore76.com/wp-content/uploads/2026/08/ChatGPT-plus.png",
+    "imgClean": true,
+    "sku": "",
+    "desc": "Faster responses, the latest models, and expanded tools like data analysis and image generation — built for daily power users.",
+    "cats": [
+     "Ai Tools"
+    ],
+    "inStock": true,
+    "onSale": false
+   }
+  ]
+ }
+}

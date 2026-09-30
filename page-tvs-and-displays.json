@@ -1,0 +1,632 @@
+{
+  "slug": "tvs-and-displays",
+  "kind": "Category page",
+  "title": "Streaming Sticks and OLED TVs 2026: What to Buy, From £9.95 | Megastore76",
+  "metaDescription": "A £9.95 streaming stick will make an old TV feel new. Ten sticks from £9.95 to £59.95 compared, plus the two OLEDs — and honest notes on the listings whose pictures print a price the store does not charge.",
+  "eyebrow": "TVs & Displays · £9.95 to £1,799",
+  "h1": "Your TV is probably fine — the £9.95 stick is what makes it feel new",
+  "intro": "Most people shopping for a television do not need a television. They need the £9.95 stick that gives the one they already own 4K streaming, a voice remote and every app — without a new screen, a new wall bracket, or a new delivery to arrange. This page compares ten streaming sticks from £9.95 to £59.95 and the two OLEDs at the top of the range, with the catch on each one stated rather than buried.",
+  "updated": "Every price on this page was checked against the Megastore76 store on 29 September 2026.",
+  "chips": [
+    "12 products compared",
+    "Sticks from £9.95",
+    "4K and HD clearly separated",
+    "Wi-Fi 6 flagged where it matters",
+    "Honest note on the listing pictures"
+  ],
+  "nav": [
+    {
+      "label": "The picks",
+      "href": "#verdict"
+    },
+    {
+      "label": "Compare",
+      "href": "#compare"
+    },
+    {
+      "label": "In detail",
+      "href": "#picks"
+    },
+    {
+      "label": "The range",
+      "href": "#shelves"
+    },
+    {
+      "label": "Buying guide",
+      "href": "#guide"
+    },
+    {
+      "label": "Questions",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "ctaUrl": "#verdict",
+    "ctaLabel": "See the three picks",
+    "secondaryUrl": "https://megastore76.com/product-category/tvs-displays",
+    "secondaryLabel": "Browse TVs & Displays"
+  },
+  "verdict": {
+    "kicker": "The short answer",
+    "heading": "Three answers, depending on the question you are actually asking",
+    "intro": "If the screen is fine and you just want the apps, spend £9.95 and stop reading. If you want the one that lasts and handles a busy home network, go to the Wi-Fi 6 stick at £59.95. If you are genuinely replacing the television, that is a different purchase entirely and it starts at £1,499.",
+    "picks": [
+      {
+        "label": "The £9.95 answer",
+        "primary": true,
+        "name": "Amazon Fire Stick TV 4K",
+        "price": 9.95,
+        "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+        "why": "Under a tenner for 4K streaming and a voice control remote on a television you already own. If your set is a few years old and the smart menu has become slow, this is the cheapest possible fix and it is not a compromise on resolution. For most people asking this question, this is the whole answer.",
+        "points": [
+          "4K Ultra HD streaming",
+          "Voice control remote included",
+          "Works on any TV with an HDMI port",
+          "The cheapest product on this page"
+        ],
+        "ctaLabel": "See the £9.95 stick"
+      },
+      {
+        "label": "The one that lasts",
+        "name": "Fire TV Stick 4K Max, Gen 2",
+        "price": 59.95,
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+        "why": "Wi-Fi 6 and Alexa voice control in the fastest stick here. Wi-Fi 6 is the part that matters: on a home network with phones, laptops, consoles and doorbells all competing, an older stick will buffer on 4K while a Wi-Fi 6 one will not. If the TV is in a busy house or far from the router, this is where the extra money goes.",
+        "points": [
+          "Wi-Fi 6 for smoother 4K on a busy network",
+          "Alexa voice remote",
+          "The fastest stick on this page",
+          "Six times the price of the £9.95 pick"
+        ],
+        "ctaLabel": "See the 4K Max"
+      },
+      {
+        "label": "If you are replacing the TV",
+        "name": "LG C5 OLED",
+        "price": 1499,
+        "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+        "url": "https://megastore76.com/product/lg-c5-oled-tv",
+        "why": "A different purchase with a different budget. OLED means self-lit pixels, so blacks are genuinely black rather than dark grey, and the 144Hz panel with FreeSync Premium is aimed squarely at gaming. Buy this because you want a better television, not because you want the apps — the £9.95 stick does the apps.",
+        "points": [
+          "Self-lit OLED pixels, true blacks",
+          "144Hz with FreeSync Premium for gaming",
+          "α11 AI processor with 4K upscaling",
+          "This is a £1,499 television, not a £9.95 fix"
+        ],
+        "ctaLabel": "See the LG C5"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "Compare",
+    "heading": "All twelve, cheapest first",
+    "intro": "The ten streaming sticks in price order, then the two OLED televisions. Read the resolution column carefully — one stick here is HD only.",
+    "rows": [
+      {
+        "name": "Amazon Fire Stick TV 4K",
+        "note": "The cheapest way in",
+        "spec": "4K · voice remote",
+        "price": 9.95,
+        "bestFor": "Making an old TV smart for under a tenner",
+        "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+        "pick": true,
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2ji4hf2ji4hf2ji4-scaled.jpg"
+      },
+      {
+        "name": "Android TV Stick 4K S02",
+        "spec": "4K · Android TV platform",
+        "price": 19.99,
+        "bestFor": "Android users who want the Google interface",
+        "url": "https://megastore76.com/product/android-tv-stick-4k-s02-smart-streaming-device-4k-ultra-hd-android-tv"
+      },
+      {
+        "name": "Fire TV Stick F3 4K",
+        "note": "Bluetooth voice remote",
+        "spec": "4K · Bluetooth remote",
+        "price": 23.5,
+        "bestFor": "A Fire TV stick with a better remote",
+        "url": "https://megastore76.com/product/fire-tv-stick-f3-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote"
+      },
+      {
+        "name": "Fire TV Stick 4K (F3)",
+        "note": "Very close to the one above",
+        "spec": "4K · Bluetooth remote",
+        "price": 25.99,
+        "bestFor": "Same job — compare it against the £23.50",
+        "url": "https://megastore76.com/product/fire-tv-stick-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote-f3"
+      },
+      {
+        "name": "Roku Streaming Stick 2025",
+        "note": "⚠ HD only — not 4K",
+        "spec": "HD · Roku voice remote",
+        "price": 28.99,
+        "bestFor": "A 1080p TV, or Roku's interface specifically",
+        "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote"
+      },
+      {
+        "name": "Fire TV Stick 4K Plus",
+        "note": "8GB · Dolby Vision",
+        "spec": "4K · Wi-Fi 6 · Dolby Vision",
+        "price": 34.89,
+        "bestFor": "Dolby Vision on a mid budget",
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-plus-streaming-device-8gb-wi-fi-6-dolby-vision-brand-new"
+      },
+      {
+        "name": "Fire Stick TV 4K, 1st Gen",
+        "note": "⚠ Unboxed, first generation",
+        "spec": "4K · unboxed, older hardware",
+        "price": 38.5,
+        "bestFor": "Only if the saving matters more than the generation",
+        "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-remote-1st-gen-unboxed",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h38zfuh38zfuh38z-scaled.jpg"
+      },
+      {
+        "name": "Fire TV Stick 4K Select",
+        "note": "Latest generation",
+        "spec": "4K UHD · Alexa",
+        "price": 39.99,
+        "bestFor": "Current-generation Fire TV at £39.99",
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-select-latest-gen-alexa-4k-uhd-streaming-media-player",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_aesg9uaesg9uaesg-scaled.jpg"
+      },
+      {
+        "name": "4K Streaming Stick with Voice Remote",
+        "note": "The one with a clean product picture",
+        "spec": "4K · plug and play",
+        "price": 39.99,
+        "bestFor": "The same money, a simpler listing",
+        "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+        "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png"
+      },
+      {
+        "name": "Fire TV Stick 4K Max, Gen 2",
+        "note": "Fastest stick here",
+        "spec": "4K · Wi-Fi 6 · Alexa",
+        "price": 59.95,
+        "bestFor": "Busy home networks and buffer-free 4K",
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+        "pick": true
+      },
+      {
+        "name": "LG C5 OLED",
+        "note": "A television, not a stick",
+        "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+        "spec": "OLED · 144Hz · FreeSync Premium",
+        "price": 1499,
+        "bestFor": "Replacing the screen properly",
+        "url": "https://megastore76.com/product/lg-c5-oled-tv",
+        "pick": true
+      },
+      {
+        "name": "Samsung S95D OLED",
+        "note": "The other flagship",
+        "img": "https://megastore76.com/wp-content/uploads/2026/06/image-31.png",
+        "spec": "OLED 4K · glare-free · 144Hz",
+        "price": 1799,
+        "bestFor": "A bright room where glare is the problem",
+        "url": "https://megastore76.com/product/samsung-s95d-oled"
+      }
+    ],
+    "footnote": "Prices checked against megastore76.com on 29 September 2026. Stock and price can change — the store page is always the final word."
+  },
+  "dives": {
+    "kicker": "In detail",
+    "heading": "The five worth reading about properly",
+    "intro": "Each with what is genuinely good about it, and the catch you would rather know now."
+  },
+  "products": [
+    {
+      "name": "Amazon Fire Stick TV 4K",
+      "badge": "The £9.95 answer",
+      "price": 9.95,
+      "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+      "stock": "In stock",
+      "summary": "This is the product that makes the rest of the page unnecessary for most people. £9.95 buys 4K Ultra HD streaming and a voice control remote, and it plugs into any television with an HDMI port. If your existing TV works perfectly well but its built-in smart menu has become slow, this replaces that menu entirely for the price of a takeaway. There is no clever catch here — it is simply the cheapest way to modernise a screen you already own.",
+      "specs": [
+        "4K Ultra HD streaming",
+        "Voice control remote included",
+        "Standard HDMI connection",
+        "Cheapest product on this page"
+      ],
+      "pros": [
+        "£9.95 for 4K streaming is genuinely the cheapest fix available here",
+        "Works with any TV that has an HDMI port, however old",
+        "Voice remote included at the base price",
+        "No installation, no bracket, no delivery of a large item"
+      ],
+      "cons": [
+        "Standard Wi-Fi, not Wi-Fi 6 — can struggle on a very busy network",
+        "This listing’s own picture is a generated graphic we have not vouched for, so you are buying on description alone",
+        "Budget-tier hardware: expect it to feel slower than a Max over several years",
+        "You are tied into Amazon's Fire TV interface and its app store"
+      ],
+      "forWho": "Anyone whose television works fine but whose smart features do not.",
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2ji4hf2ji4hf2ji4-scaled.jpg"
+    },
+    {
+      "name": "Roku Streaming Stick 2025",
+      "badge": "Read this one carefully",
+      "price": 28.99,
+      "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote",
+      "stock": "In stock",
+      "imgNote": "We have not put this listing’s image on this page — see the note on listing pictures at the foot of this page.",
+      "summary": "Roku's interface is the one people tend to prefer once they have used it — simpler, less pushy about Amazon content, and good at putting your own apps first. This is the 2025 stick with a Roku voice remote. The reason it gets its own section is the one specification that matters: it is HD, not 4K. At £28.99 it costs more than the £9.95 4K stick, so buying it for a 4K television means paying more for less resolution.",
+      "specs": [
+        "HD streaming — not 4K",
+        "Roku voice remote",
+        "Roku's own interface and app store",
+        "2025 model"
+      ],
+      "pros": [
+        "Roku's interface is the least cluttered of the platforms here",
+        "Voice remote included",
+        "A genuinely good choice if your television is 1080p",
+        "Roku is not built to sell you one company's content"
+      ],
+      "cons": [
+        "HD only — on a 4K television you would be wasting the screen",
+        "More expensive than the 4K stick in the same range",
+        "Listing picture not used here — see the note on listing pictures",
+        "It is the worst value pick here if your TV is 4K"
+      ],
+      "forWho": "Someone with a 1080p television, or someone who specifically wants Roku's interface rather than Amazon's."
+    },
+    {
+      "name": "4K Streaming Stick with Voice Remote",
+      "badge": "The straightforward one",
+      "price": 39.99,
+      "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png",
+      "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+      "stock": "In stock",
+      "summary": "A plug-and-play 4K stick with a voice remote at £39.99 — the same price as the Fire TV 4K Select, but on a listing whose own product image is clean and whose description is plainer. If the £9.95 stick feels too cheap to trust and the £59.95 one is more than you want to spend, this sits in the middle with nothing complicated about it.",
+      "specs": [
+        "4K streaming",
+        "Voice remote included",
+        "Plug and play — no setup beyond the app",
+        "Same £39.99 as the Fire TV 4K Select"
+      ],
+      "pros": [
+        "One of three listings on this page whose own product image we could show",
+        "4K with a voice remote at a mid-range price",
+        "Genuinely plug and play — nothing to configure",
+        "A plain, honest listing rather than a spec sheet"
+      ],
+      "cons": [
+        "At £39.99 it is four times the £9.95 stick for the same 4K streaming",
+        "No Wi-Fi 6, so it will not match the 4K Max on a crowded network",
+        "The listing is thin on detail — no platform is named",
+        "For the same money the Fire TV 4K Select tells you more about what you are buying"
+      ],
+      "forWho": "Someone who wants a mid-priced 4K stick and would rather buy from a listing they can actually see."
+    },
+    {
+      "name": "Fire TV Stick 4K Max, Gen 2",
+      "badge": "The one that lasts",
+      "price": 59.95,
+      "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+      "stock": "In stock",
+      "imgNote": "We have not put this listing’s image on this page — see the note on listing pictures at the foot of this page.",
+      "summary": "The fastest stick here, and the only reason to pay six times the £9.95 price is Wi-Fi 6. On a home network where several people are streaming, gaming and on video calls at once, an older stick will drop to a lower resolution or buffer while a Wi-Fi 6 one holds its 4K. If your television is far from the router, or your house is busy, this is the stick that stops being a problem.",
+      "specs": [
+        "Wi-Fi 6 — the key difference at this price",
+        "4K streaming",
+        "Alexa voice remote",
+        "Second generation hardware"
+      ],
+      "pros": [
+        "Wi-Fi 6 handles a busy home network far better than standard Wi-Fi",
+        "The fastest and most future-proof stick on this page",
+        "Alexa voice remote included",
+        "It will still be current long after a budget stick has been replaced"
+      ],
+      "cons": [
+        "£59.95 is six times the £9.95 stick for the same 4K picture",
+        "Wi-Fi 6 will not help at all if your broadband is the bottleneck",
+        "Listing picture not used here — see the note on listing pictures",
+        "Overkill if you live alone with one television near the router"
+      ],
+      "forWho": "A busy household, or a television a long way from the router, where buffering is the actual complaint."
+    },
+    {
+      "name": "LG C5 OLED",
+      "badge": "The actual television",
+      "price": 1499,
+      "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+      "url": "https://megastore76.com/product/lg-c5-oled-tv",
+      "stock": "In stock",
+      "summary": "Everything above this point is a way of avoiding buying a television. This is buying a television. OLED uses self-lit pixels rather than a backlight, so black is genuinely black instead of dark grey, and the difference is most obvious in a dark room watching something with letterboxed bars. The 144Hz panel with FreeSync Premium is aimed at gaming, and LG's α11 processor handles upscaling of older content — which matters, because most of what people watch is not native 4K.",
+      "specs": [
+        "OLED — self-lit pixels, true blacks",
+        "144Hz refresh rate with FreeSync Premium",
+        "α11 AI processor with 4K upscaling",
+        "Dynamic Tone Mapping Pro"
+      ],
+      "pros": [
+        "True black is the single biggest visible jump from any LED television",
+        "144Hz and FreeSync Premium make it a serious gaming screen",
+        "4K upscaling stops older content looking soft",
+        "One of three listings here whose own product image we could show"
+      ],
+      "cons": [
+        "£1,499 — this is a hundred and fifty times the price of the £9.95 stick",
+        "OLED panels are more susceptible to permanent burn-in from static content shown for long periods",
+        "It will not make your broadband any faster; streaming quality still depends on your connection",
+        "The store’s own listing for this product carries a generated marketing graphic with a placeholder price on it that does not match the store — the image on this card is the product’s other image, and it prints no price at all"
+      ],
+      "forWho": "Someone replacing a television properly, in a room where they watch films or game, and who wants blacks that are actually black."
+    }
+  ],
+  "guide": {
+    "kicker": "Buying guide",
+    "heading": "Five things that decide whether you will be happy with it",
+    "intro": "A streaming stick is a simple purchase, but there are two specifications that people get wrong and one that costs them money for nothing.",
+    "points": [
+      {
+        "h": "Check the resolution before the price",
+        "p": "This is the mistake on this page. The Roku Streaming Stick 2025 is <b>HD only</b>, and it costs £28.99 — nearly three times the £9.95 stick, which does 4K. If your television is 4K, buying an HD stick means paying more to use less of your screen. Read the resolution column in the table above before you look at any price."
+      },
+      {
+        "h": "Wi-Fi 6 is the only spec worth paying a premium for",
+        "p": "Everything a streaming stick does happens over your network, so the network is the real bottleneck. On a crowded home network an older stick will quietly drop resolution or buffer, and no amount of processor speed fixes that. Wi-Fi 6 — the 4K Plus at £34.89 and the 4K Max at £59.95 — is what actually prevents it."
+      },
+      {
+        "h": "You are choosing an interface, and a shop",
+        "p": "Fire TV puts Amazon's content in front of you and comes from Amazon's app store. Roku is neutral and puts your apps first. Android TV is Google's. None is wrong, but you will look at this every day, so pick the one that suits how you watch rather than the one that is cheapest by a pound."
+      },
+      {
+        "h": "A stick is not an upgrade to your picture",
+        "p": "It is worth being clear about what you are buying. A stick changes what your television can play, and how easily you find it. It does not improve contrast, brightness or motion. If your complaint is that the picture looks flat or grey, no stick will fix it — that is a new panel, which is the £1,499 conversation at the bottom of this page."
+      },
+      {
+        "h": "Ask why there are two picks at £39.99",
+        "p": "There are two products at exactly £39.99 here — the Fire TV 4K Select, which is the current generation, and a plain 4K Streaming Stick. They are not the same product and we have not pretended they are: the Fire TV listing tells you more about what you are getting, and the other one has a clean product image. Pick on which of those matters more to you."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "Before you buy",
+    "heading": "Three things you should know about this page",
+    "intro": "Including one that is not flattering to us, but that you would notice within a minute of looking at the listings.",
+    "cards": [
+      {
+        "ic": "📷",
+        "b": "Most listing pictures here print a price that is wrong",
+        "p": "Nine of the twelve products in this department use a generated marketing graphic, and several of those graphics print a placeholder price that does not match what the store charges. A customer who reads a price inside the picture and then sees a different one at checkout is a refund waiting to happen, so we have left those images off this page entirely. The three we could show are below."
+      },
+      {
+        "ic": "💷",
+        "b": "Prices move, so we give you the date",
+        "p": "These were checked against the store on 29 September 2026 and are what the store was charging. Electronics prices change often, and the store page is always the final word on what you will pay."
+      },
+      {
+        "ic": "🔍",
+        "b": "We are the seller, not an independent reviewer",
+        "p": "Megastore76 sells these products. Treat this as a shop's own guide. Every drawback listed above is there because it is true — including the ones about our own listings."
+      }
+    ],
+    "slotNote": "There are no customer testimonials on this page. The store has no customer reviews yet, so there is nothing real to quote here, and we have not invented any. See README.md for how to add them when they exist."
+  },
+  "faqHeading": "Common questions about streaming sticks and TVs",
+  "faq": [
+    {
+      "q": "Do I actually need a new TV, or just a streaming stick?",
+      "a": "If your screen works and you simply want the apps, a stick. The <b>£9.95</b> Fire Stick adds 4K streaming and a voice remote to any television with an HDMI port. Replace the television only when the picture itself is the complaint — contrast, brightness, motion — because a stick cannot change any of those."
+    },
+    {
+      "q": "What is the difference between HD and 4K on a streaming stick?",
+      "a": "4K is roughly four times the resolution of HD. If you own a 4K television you need a 4K stick to use it, otherwise you are paying for a screen you are not filling. One product on this page — the <b>Roku Streaming Stick 2025 at £28.99</b> — is HD only, and it is more expensive than the 4K stick at £9.95."
+    },
+    {
+      "q": "Is Wi-Fi 6 worth the extra money on a Fire TV Stick?",
+      "a": "It is worth it if your home network is busy or your television is far from the router. Wi-Fi 6 handles many connected devices at once far better than standard Wi-Fi, which is what stops 4K buffering when other people in the house are streaming or gaming. If you live alone with the TV near the router, standard Wi-Fi is fine."
+    },
+    {
+      "q": "Why is one of these products unboxed?",
+      "a": "The <b>Fire Stick TV 4K 1st Gen at £38.50</b> is listed as unboxed and first generation. That means older hardware than the £39.99 current-generation stick — which is a penny more. Unless that specific saving matters to you, the current generation at the same price is the better buy."
+    },
+    {
+      "q": "Why are most of the listing pictures missing from this page?",
+      "a": "Because several of them print a price the store does not charge — some advertise a figure well below what the product actually costs. Putting an image like that next to the real price invites a customer to read one number, pay another, and feel misled. So those images are left off the page and the products are described in full instead. Where a listing has a second image with no price on it at all, that is the one we use."
+    },
+    {
+      "q": "Is an OLED television worth £1,499?",
+      "a": "That depends entirely on what you are comparing it to. Against a mid-range LED television, OLED's self-lit pixels give you true black, which is the single most visible improvement in picture quality available. Against the £9.95 stick on a television you already own, it is a completely different purchase. Buy it because you want a better screen, not because you want the apps."
+    },
+    {
+      "q": "Will a streaming stick work with an old TV?",
+      "a": "Yes, as long as the television has an HDMI port — which covers essentially anything made in the last fifteen years. The stick does the work; the television is just the display. This is why a stick is normally the better buy than replacing a working screen."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Final word",
+    "heading": "Which one, for which person",
+    "intro": "Find yourself below and go straight there.",
+    "rows": [
+      {
+        "who": "My TV works, the apps are slow",
+        "why": "The cheapest fix there is",
+        "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+        "label": "The £9.95 stick"
+      },
+      {
+        "who": "My house is busy and 4K buffers",
+        "why": "Wi-Fi 6 is what stops it",
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+        "label": "The 4K Max"
+      },
+      {
+        "who": "My TV is 1080p, not 4K",
+        "why": "Do not pay for 4K you cannot use",
+        "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote",
+        "label": "The Roku stick"
+      },
+      {
+        "who": "I want a mid-priced 4K stick I can actually see",
+        "why": "One of the three we could show",
+        "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+        "label": "The 4K stick"
+      },
+      {
+        "who": "I want Dolby Vision without paying Max money",
+        "why": "4K, Wi-Fi 6 and Dolby Vision at £34.89",
+        "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-plus-streaming-device-8gb-wi-fi-6-dolby-vision-brand-new",
+        "label": "The 4K Plus"
+      },
+      {
+        "who": "I am replacing the television",
+        "why": "True blacks, 144Hz, a real upgrade",
+        "url": "https://megastore76.com/product/lg-c5-oled-tv",
+        "label": "The LG C5 OLED"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Start with the £9.95 stick",
+    "text": "If you came here thinking you needed a new television, spend £9.95 first. A streaming stick adds 4K, a voice remote and every app to the screen you already own — and if that turns out to be enough, you have just saved yourself the price of a television.",
+    "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+    "label": "See the £9.95 stick",
+    "secondaryUrl": "https://megastore76.com/product-category/tvs-displays",
+    "secondaryLabel": "Browse TVs & Displays"
+  },
+  "sticky": {
+    "top": "Sticks from £9.95",
+    "sub": "Make your old TV feel new",
+    "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+    "label": "See it"
+  },
+  "schemaProducts": [
+    {
+      "name": "Amazon Fire Stick TV 4K",
+      "price": 9.95,
+      "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+      "summary": "Budget Amazon Fire Stick TV 4K Ultra HD with voice control remote."
+    },
+    {
+      "name": "Fire TV Stick 4K Max, Gen 2",
+      "price": 59.95,
+      "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+      "summary": "Fire TV Stick 4K Max Gen 2 with Wi-Fi 6 and Alexa Voice Remote."
+    },
+    {
+      "name": "4K Streaming Stick with Voice Remote",
+      "price": 39.99,
+      "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png",
+      "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+      "summary": "Plug-and-play 4K streaming stick with voice remote."
+    },
+    {
+      "name": "LG C5 OLED",
+      "price": 1499,
+      "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+      "url": "https://megastore76.com/product/lg-c5-oled-tv",
+      "summary": "LG C5 OLED television with self-lit pixels, 144Hz refresh rate and FreeSync Premium."
+    }
+  ],
+  "disclosure": "<b>Disclosure:</b> Megastore76 sells every product on this page, so this is a shop's own guide, not an independent review. Most listings in this department use a generated marketing graphic rather than a photograph, and several of those graphics contain placeholder prices that do not match the store’s real prices — so this page carries only the three images that print no misleading price. We publish no ratings or review counts, because the store has no customer reviews yet. Prices were checked on 29 September 2026.",
+  "shelves": {
+    "kicker": "The range",
+    "heading": "The three we could show",
+    "intro": "Most listings in this department use a generated marketing graphic rather than a photograph, and several of those graphics print a price the store does not charge — which is the sort of thing that turns a sale into a complaint. So the pictures here are only the ones that print no misleading price and make no claim the store cannot support. Six of the twelve in the table are described and priced above instead of pictured.",
+    "legend": "<b>What the badge means.</b> Every tile carries the listing’s own picture, its own price and its own link. The badge says where the button takes you, because in this shop that varies: <b>Bought here</b> means we sell it and you check out on this site, and <b>via eBay</b>, <b>via Amazon</b> or <b>via Google Play</b> means the listing hands you to that seller and we earn a commission on the sale. Of the 6 above, 0 are ours and 6 hand you elsewhere (3 to Amazon, 3 to eBay).",
+    "groups": [
+      {
+        "name": "TVs & Displays",
+        "count": 12,
+        "sub": "The panels this page compares, plus the streaming sticks most people actually buy. The two OLEDs are the same listings the TV section discusses in full.",
+        "items": [
+          {
+            "id": 4429,
+            "name": "4K Streaming Stick with Voice Remote",
+            "price": 39.99,
+            "url": "https://megastore76.com/product/4k-streaming-stick-voice-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/07/image_2026-07-20_012551793.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 3613,
+            "name": "LG C5 OLED",
+            "price": 1499,
+            "url": "https://megastore76.com/product/lg-c5-oled-tv",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/LG1.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 3609,
+            "name": "Samsung S95D OLED",
+            "price": 1799,
+            "url": "https://megastore76.com/product/samsung-s95d-oled",
+            "img": "https://megastore76.com/wp-content/uploads/2026/06/image-31.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5938,
+            "name": "Amazon Fire Stick TV 4K",
+            "price": 9.95,
+            "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-voice-control-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2ji4hf2ji4hf2ji4-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5930,
+            "name": "Fire Stick TV 4K, 1st Gen",
+            "price": 38.5,
+            "url": "https://megastore76.com/product/amazon-fire-stick-tv-4k-ultra-hd-firestick-streaming-remote-1st-gen-unboxed",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_h38zfuh38zfuh38z-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5935,
+            "name": "Fire TV Stick 4K Select",
+            "price": 39.99,
+            "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-select-latest-gen-alexa-4k-uhd-streaming-media-player",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_aesg9uaesg9uaesg-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "The other 6 listings in TVs & Displays",
+          "sub": "Not pictured — either the listing’s own image prints a claim we cannot stand behind, or it is a picture we have not opened and looked at. The listings are live in the shop all the same.",
+          "items": [
+            {
+              "name": "Amazon Fire TV Stick 4K Max Gen 2 | Streaming Device | Wi-Fi 6 Alexa Voice",
+              "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-max-gen-2-streaming-device-wi-fi-6-alexa-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Fire TV Stick 4K Plus streaming device 8gb Wi-Fi 6 Dolby Vision Brand New",
+              "url": "https://megastore76.com/product/amazon-fire-tv-stick-4k-plus-streaming-device-8gb-wi-fi-6-dolby-vision-brand-new",
+              "via": "via eBay"
+            },
+            {
+              "name": "Android TV Stick 4K S02 – Smart Streaming Device | 4K Ultra HD | Android TV",
+              "url": "https://megastore76.com/product/android-tv-stick-4k-s02-smart-streaming-device-4k-ultra-hd-android-tv",
+              "via": "via eBay"
+            },
+            {
+              "name": "Fire TV Stick 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote F3",
+              "url": "https://megastore76.com/product/fire-tv-stick-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote-f3",
+              "via": "via eBay"
+            },
+            {
+              "name": "Fire TV Stick F3 4K Ultra HD Streaming Media Player with Bluetooth Voice Remote",
+              "url": "https://megastore76.com/product/fire-tv-stick-f3-4k-ultra-hd-streaming-media-player-with-bluetooth-voice-remote",
+              "via": "via eBay"
+            },
+            {
+              "name": "Roku Streaming Stick 2025 HD Streaming Device For TV With Roku Voice Remote",
+              "url": "https://megastore76.com/product/roku-streaming-stick-2025-hd-streaming-device-for-tv-with-roku-voice-remote",
+              "via": "via eBay"
+            }
+          ]
+        }
+      }
+    ],
+    "footnote": "Six products in the table are not pictured. Their listing graphics print a price the store does not charge — or, on the Roku stick, a claim to be an authorised retailer — so we have left them described and priced rather than show you a picture we cannot stand behind."
+  }
+}

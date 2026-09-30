@@ -1,0 +1,653 @@
+{
+  "slug": "ministry-suite",
+  "kind": "Product page",
+  "title": "Megastore76 Ministry Suite — 5 Offline Ministry Tools + 11 Books | £147",
+  "metaDescription": "Five offline ministry tools and all eleven books by Pastor Mega Philip Mega in one download. No account, no subscription, no internet. Everything you type stays on your own computer.",
+  "eyebrow": "One ZIP · 5 tools · 11 books · £147 once",
+  "h1": "Everything you need for ministry, in one folder that never phones home",
+  "intro": "Five working ministry tools and all eleven books by Pastor Mega Philip Mega. Download it once, open START-HERE.html, and every tool and every book is one click away. No account. No subscription. No internet connection required — ever.",
+  "chips": [
+    "Works offline",
+    "One payment of £147",
+    "Windows · Mac · Linux",
+    "Nothing you type leaves your computer"
+  ],
+  "updated": "Version 1.0.0 · Price checked against megastore76.com on 29 September 2026.",
+  "nav": [
+    {
+      "label": "What's inside",
+      "href": "#inside"
+    },
+    {
+      "label": "The 5 tools",
+      "href": "#tools"
+    },
+    {
+      "label": "The 11 books",
+      "href": "#books"
+    },
+    {
+      "label": "Privacy",
+      "href": "#privacy"
+    },
+    {
+      "label": "Questions",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "ctaLabel": "Get the Ministry Suite — £147",
+    "ctaUrl": "https://megastore76.com/product/megastore76-ministry-suite",
+    "secondaryLabel": "See what's inside",
+    "secondaryUrl": "#inside"
+  },
+  "verdict": {
+    "kicker": "The short version",
+    "heading": "What this actually is",
+    "intro": "Not a course, not an app you log into, not a monthly plan. It is a single ZIP file you own. Extract it, open one HTML page, and five ministry tools and eleven books work on your computer whether or not you have a connection — and whether or not we are still trading in five years.",
+    "picks": [
+      {
+        "label": "What you get",
+        "name": "Five ministry tools",
+        "price": 147,
+        "why": "FaithSteps, Daily Grace Planner, Bible Study with a journal that keeps your answers, a Sermon Outline Builder, and a Pastor's Assistant covering prayer centre, visit log and ministry admin.",
+        "points": [
+          "FaithSteps guided pathways",
+          "Daily Grace Planner",
+          "Bible Study + journal",
+          "Sermon Outline Builder",
+          "Pastor's Assistant"
+        ],
+        "url": "#tools",
+        "ctaLabel": "See the tools",
+        "primary": true
+      },
+      {
+        "label": "Also included",
+        "name": "All 11 books",
+        "price": 147,
+        "why": "The complete library by Pastor Mega Philip Mega as EPUB files, including The Driver, Undivided, Forgiving Forward, Waiting Well and Dating on Purpose. They open in any e-reader you already use.",
+        "points": [
+          "11 EPUB files",
+          "Any e-reader app",
+          "Yours to keep",
+          "Includes The Driver"
+        ],
+        "url": "#books",
+        "ctaLabel": "See the books"
+      },
+      {
+        "label": "The bit that matters most",
+        "name": "It stays on your computer",
+        "price": 147,
+        "why": "Prayer requests and visit notes about the people you shepherd are the most sensitive notes a pastor keeps. Nothing you type is uploaded anywhere, because there is nowhere for it to go.",
+        "points": [
+          "No account or sign-in",
+          "No password to lose",
+          "Nothing uploaded",
+          "Saves as you type"
+        ],
+        "url": "#privacy",
+        "ctaLabel": "How privacy works"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "What's inside",
+    "heading": "The whole suite at a glance",
+    "intro": "Everything in the download, what it does, and who it is for. If you only want one of these, the books are also sold individually in our store — links are in the table.",
+    "footnote": "Books sold individually in the store can be bought one at a time. The five tools are only available inside the suite.",
+    "rows": [
+      {
+        "name": "FaithSteps",
+        "note": "Tool",
+        "spec": "Guided spiritual journeys and faith-building pathways",
+        "bestFor": "Helping someone walk through a season",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      },
+      {
+        "name": "Daily Grace Planner",
+        "note": "Tool",
+        "spec": "Plan your day around prayer, not the other way round",
+        "bestFor": "Personal daily rhythm",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      },
+      {
+        "name": "Bible Study",
+        "note": "Tool",
+        "spec": "Ready-to-run studies with a journal that keeps your answers",
+        "bestFor": "Small groups and personal study",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      },
+      {
+        "name": "Sermon Outline Builder",
+        "note": "Tool",
+        "spec": "Build a preachable outline, offline, in minutes",
+        "bestFor": "Weekly preaching prep",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      },
+      {
+        "name": "Pastor's Assistant",
+        "note": "Tool",
+        "spec": "Prayer centre, visit log and ministry admin in one place",
+        "bestFor": "Keeping track of the people you shepherd",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      },
+      {
+        "name": "Undivided",
+        "note": "Book · EPUB",
+        "spec": "A one-year devotional for Christian couples pursuing their calling and their family",
+        "price": 6.99,
+        "bestFor": "Couples",
+        "url": "https://megastore76.com/product/undivided-a-one-year-devotional-for-christian-couples-pursuing-their-calling-and-their-family",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png"
+      },
+      {
+        "name": "Forgiving Forward",
+        "note": "Book · EPUB",
+        "spec": "Releasing resentment and finding freedom",
+        "price": 4.99,
+        "bestFor": "Anyone carrying a grudge",
+        "url": "https://megastore76.com/product/forgiving-forward-a-christians-guide-to-releasing-resentment-and-finding-freedom",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/Forgiving-Forward-cover-original-subtitle.jpg"
+      },
+      {
+        "name": "Dating on Purpose",
+        "note": "Book · EPUB",
+        "spec": "Courtship, boundaries, and discerning God's will before marriage",
+        "price": 4.99,
+        "bestFor": "Courting couples",
+        "url": "https://megastore76.com/product/dating-on-purpose-courtship-boundaries-and-discerning-gods-will-before-marriage",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-dating-on-purpose.jpg"
+      },
+      {
+        "name": "Waiting Well",
+        "note": "Book · EPUB",
+        "spec": "A Christian's guide to singleness without settling",
+        "price": 4.99,
+        "bestFor": "Single believers",
+        "url": "https://megastore76.com/product/waiting-well-a-christians-guide-to-singleness-without-settling",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-waiting-well.png"
+      },
+      {
+        "name": "Stories That Build Faith",
+        "note": "Book · EPUB",
+        "spec": "Bible accounts that draw you closer to God",
+        "price": 4.99,
+        "bestFor": "New believers",
+        "url": "https://megastore76.com/product/stories-that-build-faith-bible-accounts-that-draw-you-closer-to-god",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-stories-that-build-faith.png"
+      },
+      {
+        "name": "Unusual Obedience",
+        "note": "Book · EPUB",
+        "spec": "When God asks the unexpected",
+        "price": 4.99,
+        "bestFor": "Anyone at a crossroads",
+        "url": "https://megastore76.com/product/unusual-obedience-when-god-asks-the-unexpected"
+      },
+      {
+        "name": "Loving Like Jesus",
+        "note": "Book · EPUB",
+        "spec": "Living out the Gospel in every relationship",
+        "price": 4.89,
+        "bestFor": "Everyday discipleship",
+        "url": "https://megastore76.com/product/loving-like-jesus-living-out-the-gospel-in-every-relationship",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Lovin-like-Jesus.jpg"
+      },
+      {
+        "name": "The Christian Journey",
+        "note": "Book · EPUB",
+        "spec": "Walking in uncompromising holiness and integrity",
+        "price": 3.99,
+        "bestFor": "Discipleship foundations",
+        "url": "https://megastore76.com/product/the-christian-journey-walking-in-uncompromising-holiness-and-integrity",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-christian-journey.png"
+      },
+      {
+        "name": "God's Blueprint for a Strong Christian Marriage",
+        "note": "Book · EPUB",
+        "spec": "A biblical guide to building love, trust and unity that lasts",
+        "price": 3.99,
+        "bestFor": "Married couples",
+        "url": "https://megastore76.com/product/gods-blueprint-for-a-strong-christian-marriage-a-biblical-guide-to-building-love-trust-unity-that-lasts",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg"
+      },
+      {
+        "name": "Bringing Up God-Fearing Children",
+        "note": "Book · EPUB",
+        "spec": "Raising children who love God in a confused world",
+        "price": 3.99,
+        "bestFor": "Parents",
+        "url": "https://megastore76.com/product/bringing-up-god-fearing-children-raising-children-who-love-god-in-a-confused-world",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Bringing-Up-God-Fearing-Children-scaled.jpg"
+      },
+      {
+        "name": "The Driver",
+        "note": "Book · EPUB",
+        "spec": "Trusting a Driver You Cannot See — included in the suite only",
+        "bestFor": "Trusting God in uncertainty",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite"
+      }
+    ]
+  },
+  "dives": {
+    "kicker": "The five tools",
+    "heading": "What each tool does",
+    "intro": "These are working tools, not demos. Each one saves as you type, and each has Save a copy and Load a copy so you can back your work up or move it to another computer."
+  },
+  "products": [
+    {
+      "name": "FaithSteps",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "Tool",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "Get the suite",
+      "summary": "Guided spiritual journeys and faith-building pathways. This is the tool you reach for when someone in your care is walking through a hard season and you want to give them something structured to work through, rather than a well-meant sentence and a hug.",
+      "specs": [
+        "Guided journey pathways",
+        "Works offline",
+        "Saves as you type",
+        "Save a copy / Load a copy"
+      ],
+      "pros": [
+        "Gives you something concrete to hand to someone struggling",
+        "Structured enough to use without preparation",
+        "No printing, no internet, no accounts"
+      ],
+      "cons": [
+        "It is a guide, not a replacement for pastoral conversation",
+        "Plain, functional interface rather than a polished app"
+      ],
+      "forWho": "Pastors and ministry leaders discipling someone through a specific season."
+    },
+    {
+      "name": "Daily Grace Planner",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "Tool",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "Get the suite",
+      "summary": "Plan your day around prayer, rather than fitting prayer into whatever is left of your day. For anyone in ministry, the second version is how the first version quietly stops happening.",
+      "specs": [
+        "Daily planning around prayer",
+        "Works offline",
+        "Saves as you type",
+        "Windows, Mac or Linux"
+      ],
+      "pros": [
+        "Addresses the real failure mode of ministry schedules",
+        "Takes seconds to use each morning",
+        "Nothing to sync or sign into"
+      ],
+      "cons": [
+        "Deliberately simple — no calendar integration",
+        "You still have to open it"
+      ],
+      "forWho": "Anyone in ministry whose prayer life has been squeezed out by their to-do list."
+    },
+    {
+      "name": "Bible Study",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "Tool",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "Get the suite",
+      "summary": "Ready-to-run studies with a journal that keeps your answers. Lead a small group without spending your week building the material first, and keep what people said so you can follow up on it.",
+      "specs": [
+        "Ready-made studies",
+        "Built-in journal",
+        "Answers kept, not lost",
+        "Works offline"
+      ],
+      "pros": [
+        "Removes the prep work of running a group",
+        "The journal makes follow-up possible",
+        "Answers stay private on your machine"
+      ],
+      "cons": [
+        "Studies are written for Christian small groups, so they are not neutral material",
+        "You will want to adapt some questions to your own congregation"
+      ],
+      "forWho": "Anyone leading a Bible study, small group or discipleship class."
+    },
+    {
+      "name": "Sermon Outline Builder",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "Tool",
+      "badgeAlt": true,
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "Get the suite",
+      "summary": "Build a preachable outline, offline, in minutes. Structure your points, order them, and get to a shape you can actually preach from — without a word processor or a distraction one tab away.",
+      "specs": [
+        "Outline structure",
+        "Offline, distraction-free",
+        "Saves as you type",
+        "Any modern browser"
+      ],
+      "pros": [
+        "Offline means no browser tabs pulling you away",
+        "Fast route from idea to preachable shape",
+        "Reusable for a weekly rhythm"
+      ],
+      "cons": [
+        "An outline builder, not a full manuscript editor",
+        "Your theology still has to come from you"
+      ],
+      "forWho": "Pastors and preachers preparing weekly sermons."
+    },
+    {
+      "name": "Pastor's Assistant",
+      "price": 147,
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "badge": "The private one",
+      "url": "https://megastore76.com/product/megastore76-ministry-suite",
+      "ctaLabel": "Get the suite",
+      "summary": "A prayer centre, a visit log and ministry admin in one place. This is the tool that holds the most sensitive notes you keep — who you visited, what they asked you to pray for, what is happening in their family — and none of it leaves your computer.",
+      "specs": [
+        "Prayer centre",
+        "Visit log",
+        "Ministry admin",
+        "Entirely offline"
+      ],
+      "pros": [
+        "Prayer requests and pastoral notes stay on your own machine",
+        "One place instead of a notebook, a phone and a spreadsheet",
+        "No cloud service holding your congregation's confidences"
+      ],
+      "cons": [
+        "Because it is offline by design, it will not sync between your devices — use Save a copy to move it",
+        "Losing the file without a backup loses the records"
+      ],
+      "forWho": "Pastors who keep pastoral notes and take the confidentiality of them seriously."
+    }
+  ],
+  "guide": {
+    "kicker": "The books",
+    "heading": "All eleven, and what each is for",
+    "intro": "Every book is included as an EPUB. They open in any e-reader app — Apple Books, Google Play Books, Kobo, Calibre, Adobe Digital Editions or the Kindle app — and they are yours to keep.",
+    "points": [
+      {
+        "h": "The Driver — Trusting a Driver You Cannot See",
+        "p": "Included in the suite only, and not sold separately in our store. On trusting God through circumstances you cannot see the shape of."
+      },
+      {
+        "h": "Undivided — A One-Year Devotional for Christian Couples",
+        "p": "A year of daily readings for couples pursuing their calling and their family together. The longest book in the library, and the one to start with if you are married."
+      },
+      {
+        "h": "Dating on Purpose — Courtship, Boundaries, and Discerning God's Will",
+        "p": "For couples working out what a relationship looks like before marriage, and for the people advising them."
+      },
+      {
+        "h": "Waiting Well — Singleness Without Settling",
+        "p": "Written for single believers under pressure to settle, or to treat singleness as a waiting room rather than a season."
+      },
+      {
+        "h": "Forgiving Forward — Releasing Resentment and Finding Freedom",
+        "p": "On what to do with a grudge you have decided you are entitled to keep."
+      },
+      {
+        "h": "Loving Like Jesus — Living Out the Gospel in Every Relationship",
+        "p": "Everyday discipleship in ordinary relationships, which is where most of it is actually tested."
+      },
+      {
+        "h": "God's Blueprint for a Strong Christian Marriage",
+        "p": "A biblical guide to building love, trust and unity that lasts. Pairs naturally with Undivided."
+      },
+      {
+        "h": "Bringing Up God-Fearing Children",
+        "p": "For parents raising children to love God in a culture that is not helping."
+      },
+      {
+        "h": "Stories That Build Faith",
+        "p": "Bible accounts that draw you closer to God — a good starting point for newer believers."
+      },
+      {
+        "h": "Unusual Obedience — When God Asks the Unexpected",
+        "p": "For anyone at a crossroads where the instruction does not match the plan they had."
+      },
+      {
+        "h": "The Christian Journey — Holiness and Integrity",
+        "p": "Foundational teaching on walking in holiness and integrity when it costs something."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "Why this, why us",
+    "heading": "Read this before you buy",
+    "intro": "£147 is a real amount of money and you should know exactly what you are and are not getting. Here is the honest version.",
+    "cards": [
+      {
+        "ic": "📚",
+        "b": "A real body of work",
+        "p": "The eleven books are written by Pastor Mega Philip Mega and most are also sold individually in our store. You are buying a library that exists, not a bundle assembled to look like one."
+      },
+      {
+        "ic": "📴",
+        "b": "Genuinely offline",
+        "p": "One ZIP file, about 7.5 MB. Extract it and double-click START-HERE.html. There is no server to go down, no account to expire and no subscription to cancel."
+      },
+      {
+        "ic": "🔒",
+        "b": "Your notes stay yours",
+        "p": "Prayer requests and visit notes never leave your computer. That is a privacy design decision, not a marketing line — there is genuinely nowhere for the data to be sent."
+      }
+    ],
+    "slotNote": "This is where reviews from pastors and ministry leaders go. We have none to quote yet, so rather than invent them the space stays empty. Send me real ones and they drop straight in — for a £147 product, a single honest quote does more than any headline."
+  },
+  "faqHeading": "Questions before you buy",
+  "faq": [
+    {
+      "q": "Is £147 a one-off payment, or a subscription?",
+      "a": "A one-off payment. There is no subscription, no renewal, no account and no seat count. You pay once, you download the ZIP, and it keeps working. Version 1.0.0 is what you get today; future editions with new books and tools are released separately rather than pushed to you automatically."
+    },
+    {
+      "q": "Does it really work with no internet?",
+      "a": "Yes. Everything is inside the ZIP file — the tools, the books and the page that opens them. Once it is on your computer you do not need a connection to use any of it, and nothing stops working if a connection is unavailable."
+    },
+    {
+      "q": "What do I actually need to run it?",
+      "a": "Any modern browser on Windows, Mac or Linux. There is nothing to install. Extract the ZIP, double-click START-HERE.html, and every tool and book is one click away. A plain-English README is included that covers the one Windows step and explains how your work is kept."
+    },
+    {
+      "q": "Where do my notes and prayer requests go?",
+      "a": "Nowhere. Nothing you type leaves your computer. There is no account, no sign-in and no cloud service, so prayer requests and visit notes about the people you shepherd stay with you. Every tool saves as you type, and each has Save a copy and Load a copy so you can back up your work or move it to another computer."
+    },
+    {
+      "q": "Can I read the books on my Kindle?",
+      "a": "The books are EPUB files, which open in Apple Books, Google Play Books, Kobo, Calibre, Adobe Digital Editions and the Kindle app. They are yours to keep and read on whichever you already use."
+    },
+    {
+      "q": "Can I buy the books on their own instead?",
+      "a": "Yes. Ten of the eleven books are sold individually in our store, from £3.99, if you want to read one before committing to the suite. The five tools and the book The Driver are only available inside the suite. Buying the ten individual books separately adds up to £48.80 — so the suite is £147 for those books, the eleventh, and the five tools together."
+    },
+    {
+      "q": "What if it is not right for me?",
+      "a": "Message us at <a href=\"mailto:megaphilip76@gmail.com\">megaphilip76@gmail.com</a> or on <a href=\"tel:+447869160958\">+44 7869 160958</a> and tell us what you need. If the suite is not it, we would rather tell you honestly than take £147 for something that sits unused."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Final word",
+    "heading": "Who this is for, and who it is not",
+    "intro": "Being straight about this saves us both time. If you recognise yourself in the left column, buy it. If you recognise yourself on the right, do not.",
+    "rows": [
+      {
+        "who": "You are a pastor or ministry leader",
+        "why": "Five tools covering preaching prep, study, planning and pastoral admin",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite",
+        "label": "Get the Ministry Suite · £147"
+      },
+      {
+        "who": "You keep pastoral notes and prayer requests",
+        "why": "The Pastor's Assistant is built so none of it leaves your computer",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite",
+        "label": "Get the Ministry Suite · £147"
+      },
+      {
+        "who": "You want the whole book library at once",
+        "why": "Eleven EPUBs including The Driver, which is not sold separately",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite",
+        "label": "Get the Ministry Suite · £147"
+      },
+      {
+        "who": "You only want one book",
+        "why": "Ten of the eleven are sold separately from £3.99 — start there instead",
+        "url": "https://megastore76.com/product-category/books-and-publications",
+        "label": "Browse the books · from £3.99"
+      },
+      {
+        "who": "You want a phone app that syncs everywhere",
+        "why": "This is deliberately offline and does not sync — it is the wrong product for you",
+        "url": "https://megastore76.com/contact",
+        "label": "Ask us what would suit"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "One folder. Five tools. Eleven books.",
+    "text": "Download it once, open START-HERE.html, and everything is one click away on your own computer. If you are not sure whether it fits your ministry, message us first — we will tell you honestly.",
+    "label": "Get the Ministry Suite — £147",
+    "url": "https://megastore76.com/product/megastore76-ministry-suite",
+    "secondaryLabel": "Ask a question first",
+    "secondaryUrl": "mailto:megaphilip76@gmail.com"
+  },
+  "sticky": {
+    "top": "Ministry Suite · £147",
+    "sub": "5 tools · 11 books · offline",
+    "label": "View",
+    "url": "https://megastore76.com/product/megastore76-ministry-suite"
+  },
+  "disclosure": "Megastore76 Ministry Suite is our own product, sold on megastore76.com. We wrote the tools and the books, so this page is our own description rather than an independent review. Price checked 29 September 2026. Version 1.0.0.",
+  "schemaProducts": [
+    {
+      "name": "Megastore76 Ministry Suite",
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+      "summary": "Five offline ministry tools and all eleven books by Pastor Mega Philip Mega in one download. No account, no subscription, works without an internet connection.",
+      "price": 147,
+      "url": "https://megastore76.com/product/megastore76-ministry-suite"
+    }
+  ],
+  "shelves": {
+    "kicker": "In the box",
+    "heading": "The books, with the covers the store shows for them",
+    "intro": "<p>Eleven books and five tools, one price. Each book is also sold on its own at £3.99–£6.99, so the covers below are the same ones you would see on its own listing.</p>",
+    "legend": "<b>What the badge means.</b> Every tile carries the listing’s own picture, its own price and its own link. The badge says where the button takes you, because in this shop that varies: <b>Bought here</b> means we sell it and you check out on this site, and <b>via eBay</b>, <b>via Amazon</b> or <b>via Google Play</b> means the listing hands you to that seller and we earn a commission on the sale. Of the 10 above, 1 is ours and 9 hand you elsewhere (9 to Google Play).",
+    "groups": [
+      {
+        "name": "Books and Publications",
+        "count": 11,
+        "sub": "The eleven books by Pastor Mega Philip Mega, which are bought on Google Play, and the £147 Ministry Suite, which is ours — the whole library plus the five offline ministry tools in one download you own outright.",
+        "items": [
+          {
+            "id": 6933,
+            "name": "Megastore76 Ministry Suite",
+            "price": 147,
+            "url": "https://megastore76.com/product/megastore76-ministry-suite",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Megastore76-Ministry-Suite-product-image.jpg",
+            "badge": "Bought here",
+            "kind": "ours"
+          },
+          {
+            "id": 6907,
+            "name": "Undivided",
+            "price": 6.99,
+            "url": "https://megastore76.com/product/undivided-a-one-year-devotional-for-christian-couples-pursuing-their-calling-and-their-family",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6908,
+            "name": "Forgiving Forward",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/forgiving-forward-a-christians-guide-to-releasing-resentment-and-finding-freedom",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/Forgiving-Forward-cover-original-subtitle.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6906,
+            "name": "Dating on Purpose",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/dating-on-purpose-courtship-boundaries-and-discerning-gods-will-before-marriage",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-dating-on-purpose.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6905,
+            "name": "Waiting Well",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/waiting-well-a-christians-guide-to-singleness-without-settling",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-waiting-well.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6903,
+            "name": "Stories That Build Faith",
+            "price": 4.99,
+            "url": "https://megastore76.com/product/stories-that-build-faith-bible-accounts-that-draw-you-closer-to-god",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-stories-that-build-faith.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6446,
+            "name": "Loving Like Jesus",
+            "price": 4.89,
+            "url": "https://megastore76.com/product/loving-like-jesus-living-out-the-gospel-in-every-relationship",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Lovin-like-Jesus.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6904,
+            "name": "The Christian Journey",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/the-christian-journey-walking-in-uncompromising-holiness-and-integrity",
+            "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-christian-journey.png",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6447,
+            "name": "God's Blueprint for a Strong Christian Marriage",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/gods-blueprint-for-a-strong-christian-marriage-a-biblical-guide-to-building-love-trust-unity-that-lasts",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          },
+          {
+            "id": 6445,
+            "name": "Bringing Up God-Fearing Children",
+            "price": 3.99,
+            "url": "https://megastore76.com/product/bringing-up-god-fearing-children-raising-children-who-love-god-in-a-confused-world",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Bringing-Up-God-Fearing-Children-scaled.jpg",
+            "badge": "via Google Play",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "The other 1 listings in Books and Publications",
+          "sub": "Not pictured — either the listing’s own image prints a claim we cannot stand behind, or it is a picture we have not opened and looked at. The listings are live in the shop all the same.",
+          "items": [
+            {
+              "name": "Unusual Obedience: When God Asks the Unexpected",
+              "url": "https://megastore76.com/product/unusual-obedience-when-god-asks-the-unexpected",
+              "via": "via Google Play"
+            }
+          ]
+        }
+      }
+    ],
+    "footnote": "One book is left out of this grid: Unusual Obedience. Its listing graphic prints £1 and £1.99, and the book costs £4.99 — so rather than show you a picture that argues with the checkout, we have left it described in the table above. The five tools in the suite are listed there too."
+  }
+}

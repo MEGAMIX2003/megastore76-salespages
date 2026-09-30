@@ -1,0 +1,271 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sales pages — review hub</title><style>
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ color:#0f172a;background:#fff;line-height:1.6;font-size:17px;-webkit-font-smoothing:antialiased}
+img{max-width:100%;height:auto;display:block}
+a{color:#14305e}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.narrow{max-width:760px}
+
+/* ---------- sticky header ---------- */
+.bar{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);
+ border-bottom:1px solid #e2e8f0}
+.bar .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:62px}
+.brand{font-weight:900;letter-spacing:-.02em;font-size:1.06em;color:#0b1c3d;text-decoration:none;white-space:nowrap}
+.brand b{color:#e0a406}
+.bar nav{display:none;gap:22px;font-size:.93em;font-weight:600}
+.bar nav a{color:#475569;text-decoration:none}
+.bar nav a:hover{color:#0b1c3d}
+@media(min-width:820px){.bar nav{display:flex}}
+
+/* ---------- buttons ---------- */
+.btn{display:inline-block;font-weight:800;text-decoration:none;border-radius:10px;
+ padding:15px 30px;font-size:1.02em;line-height:1;border:2px solid transparent;
+ transition:transform .12s ease, box-shadow .12s ease;text-align:center}
+.btn:hover{transform:translateY(-1px)}
+.btn-gold{background:#e0a406;color:#0b1c3d;box-shadow:0 4px 14px rgba(224,164,6,.35)}
+.btn-navy{background:#0b1c3d;color:#fff}
+.btn-ghost{background:#fff;color:#0b1c3d;border-color:#e2e8f0}
+.btn-sm{padding:11px 20px;font-size:.92em;border-radius:8px}
+.btn-block{display:block;width:100%}
+
+/* ---------- hero ---------- */
+.hero{background:linear-gradient(142deg,#0b1c3d 0%,#14305e 58%,#1c3f77 100%);
+ color:#fff;padding:52px 0 44px}
+.hero .eyebrow{display:inline-block;background:rgba(224,164,6,.16);border:1px solid rgba(224,164,6,.45);
+ color:#e0a406;font-weight:800;font-size:.76em;letter-spacing:.11em;text-transform:uppercase;
+ padding:7px 14px;border-radius:99px;margin:0 0 18px}
+.hero h1{font-size:2.35em;line-height:1.14;margin:0 0 16px;font-weight:900;letter-spacing:-.02em;max-width:19em}
+.hero .sub{font-size:1.13em;color:#d8e4f7;margin:0 0 26px;max-width:40em}
+.hero .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:0 0 26px}
+.hero .micro{font-size:.93em;color:#9fb6d8;margin:0}
+.chips{display:flex;flex-wrap:wrap;gap:9px;margin:0}
+.chip{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);color:#dbe6f7;
+ border-radius:99px;padding:7px 14px;font-size:.86em;font-weight:600}
+@media(max-width:640px){.hero{padding:34px 0 32px}.hero h1{font-size:1.72em}.hero .sub{font-size:1.03em}}
+
+/* ---------- sections ---------- */
+section{padding:52px 0}
+section.tint{background:#f8fafc;border-top:1px solid #e2e8f0;border-bottom:1px solid #e2e8f0}
+h2{font-size:1.78em;line-height:1.2;margin:0 0 12px;font-weight:900;letter-spacing:-.02em}
+h3{font-size:1.18em;margin:0 0 8px;font-weight:800}
+.lede{color:#475569;font-size:1.06em;margin:0 0 30px;max-width:44em}
+.kicker{color:#8a6103;font-weight:800;font-size:.79em;letter-spacing:.1em;
+ text-transform:uppercase;margin:0 0 9px}
+
+/* ---------- verdict (the short answer) ---------- */
+.verdict-grid{display:grid;gap:18px;grid-template-columns:1fr}
+@media(min-width:760px){.verdict-grid{grid-template-columns:repeat(3,1fr)}}
+.vcard{background:#fff;border:2px solid #e2e8f0;border-radius:16px;padding:24px;
+ display:flex;flex-direction:column;position:relative}
+.vcard.hero-pick{border-color:#e0a406;box-shadow:0 10px 34px rgba(224,164,6,.17)}
+.vcard .tag{position:absolute;top:-13px;left:22px;background:#e0a406;color:#0b1c3d;
+ font-weight:900;font-size:.72em;letter-spacing:.08em;text-transform:uppercase;
+ padding:6px 13px;border-radius:99px}
+.vcard .tag.plain{background:#0b1c3d;color:#fff}
+.vcard h3{font-size:1.1em;margin:6px 0 6px;line-height:1.32}
+.vcard .price{font-size:1.5em;font-weight:900;color:#0b1c3d;margin:0 0 12px}
+.vcard .why{color:#475569;font-size:.96em;margin:0 0 18px;flex:1}
+.vcard ul{margin:0 0 18px;padding-left:19px;color:#475569;font-size:.93em}
+.vcard li{margin:0 0 5px}
+
+/* ---------- comparison table ---------- */
+.tablescroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid #e2e8f0;
+ border-radius:14px;background:#fff}
+table{width:100%;border-collapse:collapse;min-width:720px;font-size:.95em}
+thead th{background:#0b1c3d;color:#fff;text-align:left;padding:15px 16px;font-weight:800;
+ font-size:.86em;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap}
+tbody td{padding:16px;border-top:1px solid #e2e8f0;vertical-align:middle}
+tbody tr:nth-child(even){background:#fcfdff}
+tbody tr.pickrow{background:#fff8e6}
+tbody tr.pickrow td:first-child{box-shadow:inset 4px 0 0 #e0a406}
+.pname{font-weight:800;color:#0f172a;display:block;margin-bottom:3px}
+.pspec{color:#475569;font-size:.88em}
+.pprice{font-weight:900;color:#0b1c3d;white-space:nowrap;font-size:1.06em}
+.bestfor{color:#475569;font-size:.93em}
+.oldprice{color:#94a3b8;text-decoration:line-through;font-weight:600;font-size:.82em;
+ display:block;margin-top:2px}
+
+/* ---------- product deep dives ---------- */
+.prod{background:#fff;border:1px solid #e2e8f0;border-radius:18px;padding:0;overflow:hidden;
+ margin:0 0 26px;display:grid;grid-template-columns:1fr}
+@media(min-width:820px){.prod{grid-template-columns:330px 1fr}
+ .prod.flip .prod-media{order:2}.prod.flip .prod-body{order:1}}
+.prod-media{background:#f8fafc;display:flex;align-items:center;justify-content:center;
+ padding:22px;border-bottom:1px solid #e2e8f0}
+@media(min-width:820px){.prod-media{border-bottom:0;border-right:1px solid #e2e8f0}}
+.prod-media img{max-height:250px;width:auto;object-fit:contain}
+.noimg{color:#475569;font-size:.84em;line-height:1.4;text-align:center;padding:0 22px;max-width:24em}
+.prod-body{padding:26px}
+.prod-body .badge{display:inline-block;background:#e0a406;color:#0b1c3d;font-weight:900;
+ font-size:.72em;letter-spacing:.07em;text-transform:uppercase;padding:5px 12px;border-radius:99px;margin:0 0 12px}
+.prod-body .badge.alt{background:#14305e;color:#fff}
+.prod-body h3{font-size:1.32em;margin:0 0 6px;line-height:1.28}
+.prow{display:flex;align-items:baseline;gap:12px;margin:0 0 16px;flex-wrap:wrap}
+.prow .big{font-size:1.6em;font-weight:900;color:#0b1c3d}
+.prow .stock{color:#15803d;font-weight:700;font-size:.9em}
+.prod-body .sum{color:#475569;margin:0 0 18px}
+.specs{list-style:none;margin:0 0 20px;padding:0;display:grid;gap:7px}
+.specs li{position:relative;padding-left:26px;color:#475569;font-size:.95em}
+.specs li::before{content:"";position:absolute;left:0;top:.52em;width:14px;height:8px;
+ border-left:2.5px solid #15803d;border-bottom:2.5px solid #15803d;transform:rotate(-45deg)}
+.pc{display:grid;gap:16px;grid-template-columns:1fr;margin:0 0 20px}
+@media(min-width:620px){.pc{grid-template-columns:1fr 1fr}}
+.pc h4{margin:0 0 7px;font-size:.82em;letter-spacing:.07em;text-transform:uppercase}
+.pc .good h4{color:#15803d}
+.pc .bad h4{color:#b91c1c}
+.pc ul{margin:0;padding-left:19px;font-size:.93em;color:#475569}
+.pc li{margin:0 0 5px}
+.forwho{background:#f8fafc;border-left:3px solid #e0a406;border-radius:0 10px 10px 0;
+ padding:13px 17px;font-size:.94em;color:#475569;margin:0 0 20px}
+.forwho b{color:#0f172a}
+
+/* ---------- guide ---------- */
+.gpoints{display:grid;gap:18px;grid-template-columns:1fr}
+@media(min-width:760px){.gpoints{grid-template-columns:1fr 1fr}}
+.gpoint{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:22px}
+.gpoint .num{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;
+ border-radius:9px;background:#0b1c3d;color:#e0a406;font-weight:900;font-size:.92em;margin:0 0 12px}
+.gpoint p{margin:0;color:#475569;font-size:.96em}
+
+/* ---------- faq ---------- */
+details{background:#fff;border:1px solid #e2e8f0;border-radius:12px;margin:0 0 11px;overflow:hidden}
+details[open]{border-color:#e0a406}
+summary{cursor:pointer;padding:18px 22px;font-weight:800;font-size:1.02em;list-style:none;
+ display:flex;justify-content:space-between;gap:16px;align-items:center}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font-size:1.5em;color:#8a6103;font-weight:400;line-height:1;flex:none}
+details[open] summary::after{content:"\2013"}
+details p{margin:0;padding:0 22px 20px;color:#475569}
+
+/* ---------- final verdict ---------- */
+.fvrow{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between;
+ background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:20px 24px;margin:0 0 12px}
+.fvrow .who{font-weight:800;flex:1 1 190px}
+.fvrow .who span{display:block;font-weight:500;color:#475569;font-size:.92em;margin-top:3px}
+
+/* ---------- trust band ---------- */
+.trust{display:grid;gap:16px;grid-template-columns:1fr}
+@media(min-width:700px){.trust{grid-template-columns:repeat(3,1fr)}}
+.tcard{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:22px;text-align:center}
+.tcard .ic{font-size:1.6em;margin:0 0 8px}
+.tcard b{display:block;margin:0 0 5px}
+.tcard p{margin:0;color:#475569;font-size:.92em}
+
+/* ---------- cta band ---------- */
+.ctaband{background:linear-gradient(142deg,#14305e,#1c3f77);color:#fff;
+ border-radius:18px;padding:40px 32px;text-align:center}
+.ctaband h2{color:#fff}
+.ctaband p{color:#d8e4f7;max-width:40em;margin:0 auto 24px}
+
+/* ---------- placeholder notice ---------- */
+.todo{background:#fffbeb;border:1px dashed #d4a017;border-radius:12px;padding:18px 20px;margin:0 0 20px}
+.todo b{color:#8a6103}
+.todo p{margin:6px 0 0;font-size:.93em;color:#78540a}
+
+/* ---------- footer ---------- */
+footer{background:#0b1c3d;color:#9fb6d8;padding:44px 0 30px;font-size:.93em}
+footer a{color:#d8e4f7}
+footer h4{color:#fff;margin:0 0 10px;font-size:.95em}
+.disc{border-top:1px solid rgba(255,255,255,.14);margin-top:28px;padding-top:22px;
+ font-size:.87em;color:#7f97bb;line-height:1.7}
+
+/* ---------- sticky mobile cta ---------- */
+.sticky{position:fixed;left:0;right:0;bottom:0;z-index:70;background:#fff;
+ border-top:1px solid #e2e8f0;padding:11px 16px;display:flex;gap:12px;align-items:center;
+ justify-content:space-between;box-shadow:0 -4px 18px rgba(15,23,42,.09);
+ transform:translateY(115%);transition:transform .26s ease}
+.sticky.show{transform:translateY(0)}
+.sticky .lbl{font-size:.83em;line-height:1.25;color:#475569}
+.sticky .lbl b{display:block;color:#0f172a;font-size:1.06em}
+.sticky .btn{flex:none}
+@media(min-width:820px){.sticky{display:none}}
+body.sb{padding-bottom:74px}
+@media(min-width:820px){body.sb{padding-bottom:0}}
+@media print{.bar,.sticky{display:none}}
+
+/* ---------- product thumbnail in a verdict card ---------- */
+.vthumb{background:#f8fafc;border-radius:12px;padding:12px;margin:0 0 15px;
+ display:flex;align-items:center;justify-content:center;height:134px}
+.vthumb img{max-height:110px;width:auto;max-width:100%;object-fit:contain}
+
+/* ---------- product thumbnail in a comparison-table row ---------- */
+.tcell{display:flex;gap:11px;align-items:center;min-width:190px}
+.tthumb{width:54px;height:54px;flex:none;background:#f8fafc;border:1px solid #e2e8f0;
+ border-radius:9px;padding:4px;display:flex;align-items:center;justify-content:center}
+.tthumb img{max-width:100%;max-height:100%;width:auto;object-fit:contain}
+
+/* ---------- "shop the range" image grid ---------- */
+.gal{display:grid;gap:14px;grid-template-columns:repeat(2,1fr)}
+@media(min-width:620px){.gal{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:940px){.gal{grid-template-columns:repeat(4,1fr)}}
+.gitem{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:14px;
+ display:flex;flex-direction:column;text-decoration:none;color:inherit;
+ transition:transform .12s ease,box-shadow .12s ease}
+.gitem:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(15,23,42,.10)}
+.gitem .gimg{height:120px;display:flex;align-items:center;justify-content:center;margin:0 0 11px}
+.gitem .gimg img{max-height:112px;width:auto;max-width:100%;object-fit:contain}
+.gitem .gn{font-size:.9em;line-height:1.32;display:block;margin:0 0 5px;color:#0f172a;font-weight:700}
+.gitem .gp{font-weight:900;color:#0b1c3d;font-size:1.04em;margin-top:auto}
+.gitem .gwas{color:#475569;font-weight:600;font-size:.86em;text-decoration:line-through;margin-left:7px}
+
+.hub{display:grid;gap:18px;grid-template-columns:1fr;margin-top:26px}
+@media(min-width:760px){.hub{grid-template-columns:1fr 1fr}}
+.hcard{background:#fff;border:1px solid #e2e8f0;border-radius:16px;padding:24px;display:flex;flex-direction:column}
+.hcard .kind{font-size:.72em;letter-spacing:.08em;text-transform:uppercase;font-weight:900;color:#8a6103;margin:0 0 8px}
+.hcard h3{margin:0 0 8px;font-size:1.16em}
+.hcard p{color:#475569;font-size:.94em;margin:0 0 18px;flex:1}
+.hcard .btn{align-self:flex-start}
+</style></head><body class="sb">
+<div class="bar"><div class="wrap"><a class="brand" href="#">Sales pages <b>review</b></a>
+<a class="btn btn-gold btn-sm" href="https://megastore76.com">The store</a></div></div>
+<div class="hero"><div class="wrap">
+<span class="eyebrow">Review hub</span>
+<h1>Sales pages, ready to examine</h1>
+<p class="sub">Open any page below to see it full size. Each folder in <code>out/</code> is a complete
+static site — drop it onto Netlify or Vercel and it is live. Nothing here is published yet.</p>
+</div></div>
+<section><div class="wrap">
+<p class="kicker">9 pages built</p>
+<h2>Click through them</h2>
+<div class="hub">
+<div class="hcard"><p class="kind">Category page</p>
+  <h3>Best Noise-Cancelling Headphones Under £50 (2026) | Megastore76</h3><p>Twelve ANC headphones and earbuds under £50, compared on the manufacturer's own specs. Six cancel more noise than pairs costing twice as much. UK store, real prices.</p>
+  <a class="btn btn-navy btn-sm" href="out/best-anc-headphones-under-50/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Blog topic page</p>
+  <h3>Best Smartwatches 2026: 18 Compared, £14.99 to £244 | Megastore76</h3><p>&quot;Smartwatch&quot; means two different things. Under £35 you are buying a fitness tracker with a watch face; over £50 a small computer. Eighteen compared, with honest notes on blood-pressure claims and duplicate listings.</p>
+  <a class="btn btn-navy btn-sm" href="out/best-smartwatches-2026/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Blog topic page</p>
+  <h3>Christmas Gift Guide 2026: Tech Gifts From £5.49, Sorted by Budget and Person | Megastore76</h3><p>Twenty-two tech gifts from £5.49 to £465.99, sorted by budget and by who you are buying for. Every price checked against the store on 29 September 2026, and every picture we show checked for claims the store cannot support.</p>
+  <a class="btn btn-navy btn-sm" href="out/christmas-gift-guide-2026/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">category</p>
+  <h3>Digital Products &amp; Services 2026: 80 Reviews, Guides &amp; Tools — Megastore76</h3><p>Every digital product and service we've reviewed: hosting, VPNs, AI tools, affiliate platforms, and the four source-code tools we build ourselves. 80 guides and reviews.</p>
+  <a class="btn btn-navy btn-sm" href="out/digital-services/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Product page</p>
+  <h3>Megastore76 Ministry Suite — 5 Offline Ministry Tools + 11 Books | £147</h3><p>Five offline ministry tools and all eleven books by Pastor Mega Philip Mega in one download. No account, no subscription, no internet. Everything you type stays on your own computer.</p>
+  <a class="btn btn-navy btn-sm" href="out/ministry-suite/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Category page</p>
+  <h3>Smart Home Under £150 in 2026: What Is Actually Worth Buying | Megastore76</h3><p>A smart home that starts at £5.49. Energy-monitoring smart plugs, Philips Hue, a 2K doorbell and a robot vacuum — compared on real UK prices, with the honest limits of each.</p>
+  <a class="btn btn-navy btn-sm" href="out/smart-home/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Store page — the whole shop</p>
+  <h3>Megastore76 — Tech, WordPress Tools &amp; Books from a UK Store</h3><p>The whole shop on one page: 63 products pictured with their own prices, the other 155 linked, across eight departments. Every tile says whether you buy it here or via eBay, Amazon or Google Play.</p>
+  <a class="btn btn-navy btn-sm" href="out/store/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Category page</p>
+  <h3>Streaming Sticks and OLED TVs 2026: What to Buy, From £9.95 | Megastore76</h3><p>A £9.95 streaming stick will make an old TV feel new. Ten sticks from £9.95 to £59.95 compared, plus the two OLEDs — and honest notes on the listings whose pictures print a price the store does not charge.</p>
+  <a class="btn btn-navy btn-sm" href="out/tvs-and-displays/index.html">Open page &rarr;</a></div><div class="hcard"><p class="kind">Category page</p>
+  <h3>8 WordPress Plugins, One-Time Price — No Monthly Subscription | Megastore76</h3><p>Abandoned cart recovery, urgency widgets, social proof, popups, live chat, instant search and more. Eight self-hosted WordPress plugins from £19, one payment, no account, no subscription.</p>
+  <a class="btn btn-navy btn-sm" href="out/wordpress-plugins/index.html">Open page &rarr;</a></div>
+</div>
+</div></section>
+<footer><div class="wrap">
+  <h4>Megastore76</h4>
+  <p style="margin:0 0 14px">Hi-Tech Gadgets and Digital Services — megastore76.com</p>
+  <p style="margin:0">
+    <a href="tel:+447869160958">+44 7869 160958</a> &middot;
+    <a href="mailto:megaphilip76@gmail.com">megaphilip76@gmail.com</a> &middot;
+    <a href="https://megastore76.com">Visit the store</a>
+  </p>
+  <div class="disc">Review copy. Not yet published anywhere.
+  <p style="margin:14px 0 0">Prices, specifications and stock were correct when this page was last checked against the
+  store, and can change. Always confirm the current price on the store page before buying.
+  Manufacturer figures such as battery life and noise-cancelling depth are the manufacturer's own claims.</p>
+  <p style="margin:14px 0 0">&copy; 2026 Megastore76. All rights reserved.</p>
+  </div>
+</div></footer>
+</body></html>

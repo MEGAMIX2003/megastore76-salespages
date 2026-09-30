@@ -1,0 +1,824 @@
+{
+  "slug": "smart-home",
+  "kind": "Category page",
+  "title": "Smart Home Under £150 in 2026: What Is Actually Worth Buying | Megastore76",
+  "metaDescription": "A smart home that starts at £5.49. Energy-monitoring smart plugs, Philips Hue, a 2K doorbell and a robot vacuum — compared on real UK prices, with the honest limits of each.",
+  "eyebrow": "Smart Home · £5.49 to £149.99",
+  "h1": "The smart home that starts at £5.49 — and tells you what it is costing you",
+  "intro": "Most smart home shopping goes wrong in the same way: people buy a hub, a bundle and a set of bulbs before they have any idea what they will actually use. Here is the other way in — start with one plug that measures your electricity, find out which appliance is quietly costing you the most, and build from there. Everything on this page is in stock at Megastore76 right now, at the price shown.",
+  "updated": "Every price on this page was checked against the Megastore76 store on 29 September 2026.",
+  "chips": [
+    "11 products compared",
+    "Real UK prices",
+    "No hub needed to start",
+    "Working with Alexa and Google",
+    "Honest limits on every pick"
+  ],
+  "nav": [
+    {
+      "label": "The picks",
+      "href": "#verdict"
+    },
+    {
+      "label": "Compare",
+      "href": "#compare"
+    },
+    {
+      "label": "In detail",
+      "href": "#picks"
+    },
+    {
+      "label": "The range",
+      "href": "#shelves"
+    },
+    {
+      "label": "Buying guide",
+      "href": "#guide"
+    },
+    {
+      "label": "Questions",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "ctaUrl": "#verdict",
+    "ctaLabel": "See the three picks",
+    "secondaryUrl": "https://megastore76.com/product-category/smart-home",
+    "secondaryLabel": "Browse all Smart Home"
+  },
+  "verdict": {
+    "kicker": "The short answer",
+    "heading": "Three ways in, depending on what you are actually after",
+    "intro": "If you want the cheapest thing that genuinely earns its place, buy the £5.49 plug. If lighting is the point, the Hue kit is the one that feels like an upgrade. If you are here because of security, start at the doorbell. Everything else on this page is a variation on those three.",
+    "picks": [
+      {
+        "label": "Start here",
+        "primary": true,
+        "name": "Tuya Smart WiFi UK Plug",
+        "price": 5.49,
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+        "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+        "why": "Under six pounds, and it does the one job that pays for itself: it shows you how much power whatever is plugged into it is drawing. Put it on the fridge, the tumble dryer or the old freezer in the garage and you will find out within a day which appliance is the expensive one. Alexa voice control and a timer are included at this price.",
+        "points": [
+          "Real-time energy monitoring in the Tuya Smart app",
+          "Works with Alexa voice control",
+          "Built-in timer for schedules",
+          "Standard UK three-pin socket"
+        ],
+        "ctaLabel": "Check the £5.49 plug"
+      },
+      {
+        "label": "If lighting is the point",
+        "name": "Philips Hue Starter Kit",
+        "price": 67.85,
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+        "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+        "why": "The Bridge plus two White and Colour Ambience bulbs. This is the one people mean when they say smart lighting feels like a proper upgrade — millions of colours, room scheduling, and an ecosystem you can grow one bulb at a time rather than replacing all at once. It is also the most expensive way to start, and it needs the Bridge.",
+        "points": [
+          "Hue Bridge included — the hub is in the box",
+          "Two colour-changing Essential bulbs",
+          "Works with Alexa, Google and HomeKit",
+          "Expand bulb by bulb later"
+        ],
+        "ctaLabel": "See the Hue kit"
+      },
+      {
+        "label": "If it is security you came for",
+        "name": "Smart Video Doorbell, 2K HDR",
+        "price": 59.99,
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+        "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+        "why": "2K HDR with colour night vision, a 160-degree view, AI person detection that ignores passing cars, and two-way talk. It is the only thing on this page that answers a problem you already have rather than one you are inventing.",
+        "points": [
+          "2K HDR, colour night vision",
+          "160-degree field of view",
+          "AI person detection, fewer false alerts",
+          "Two-way audio from your phone"
+        ],
+        "ctaLabel": "See the doorbell"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "Compare",
+    "heading": "All eleven, side by side",
+    "intro": "Every product on this page, with the price the store is charging today. The rows marked as a pick are the three above.",
+    "rows": [
+      {
+        "name": "Tuya Smart WiFi UK Plug",
+        "note": "The cheapest real entry point",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+        "spec": "Energy monitoring · Alexa · timer",
+        "price": 5.49,
+        "bestFor": "Finding out what is costing you money",
+        "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+        "pick": true
+      },
+      {
+        "name": "Wireless WiFi Smart Plug",
+        "note": "Alexa and Google both",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_wifi_smart_plug.jpg",
+        "spec": "Voice control · no energy monitoring",
+        "price": 6.49,
+        "bestFor": "Voice control on a lamp, cheaply",
+        "url": "https://megastore76.com/product/wireless-wifi-smart-plug-power-socket-for-amazon-alexa-google-home-uk"
+      },
+      {
+        "name": "Tommee Tippee GroEgg2",
+        "note": "Nursery nightlight and thermometer",
+        "spec": "Colour-coded room temperature",
+        "price": 19.98,
+        "bestFor": "A baby's room, not home automation",
+        "url": "https://megastore76.com/product/tommee-tippee-groegg2-toddler-nightlight"
+      },
+      {
+        "name": "KPON 3-in-1 Charging Station",
+        "note": "Phone, earbuds and watch at once",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989855.png",
+        "spec": "Foldable · tops out around 15W",
+        "price": 23.99,
+        "bestFor": "Overnight charging, not fast top-ups",
+        "url": "https://megastore76.com/product/kpon-3-in-1-wireless-charging-station-review-2026-one-stand-three-devices"
+      },
+      {
+        "name": "WiFi Smart Plug 4-Pack",
+        "note": "Best value per plug",
+        "spec": "Energy monitoring ×4 · scheduling",
+        "price": 24.99,
+        "bestFor": "Doing a whole room in one go",
+        "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring"
+      },
+      {
+        "name": "WiFi 6 Mini Projector",
+        "note": "Screen mirroring, no cables",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/wifi6_mini_projector_review.webp",
+        "spec": "1080P · WiFi 6 · Bluetooth 5.4",
+        "price": 41.99,
+        "bestFor": "Bedrooms and gardens after dark",
+        "url": "https://megastore76.com/product/wifi-6-mini-projector-review-2026-is-it-ready-to-replace-your-tv"
+      },
+      {
+        "name": "Amazon Echo Dot",
+        "note": "The default budget smart speaker",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990347.png",
+        "spec": "Alexa · smart home hub duties",
+        "price": 54.99,
+        "bestFor": "Voice control in any room",
+        "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker"
+      },
+      {
+        "name": "Smart Video Doorbell, 2K HDR",
+        "note": "Colour night vision",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+        "spec": "2K HDR · AI person detection",
+        "price": 59.99,
+        "bestFor": "Watching the front door",
+        "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+        "pick": true
+      },
+      {
+        "name": "Philips Hue Starter Kit",
+        "note": "Bridge and two colour bulbs",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+        "spec": "Zigbee via Bridge · Colour Ambience",
+        "price": 67.85,
+        "bestFor": "Lighting that feels like an upgrade",
+        "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+        "pick": true
+      },
+      {
+        "name": "Anker Soundcore Work",
+        "note": "AI voice recorder",
+        "spec": "Transcribes · separates speakers · summarises",
+        "price": 79.99,
+        "bestFor": "Meetings you would otherwise be typing through",
+        "url": "https://megastore76.com/product/anker-soundcore-work-ai-voice-recorder-review-2026-a-pocket-sized-meeting-assistant"
+      },
+      {
+        "name": "Compact Robot Vacuum",
+        "note": "App control and auto-docking",
+        "spec": "App scheduling · auto-return dock",
+        "price": 149.99,
+        "bestFor": "Daily dust and pet hair, hands off",
+        "url": "https://megastore76.com/product/compact-robot-vacuum-app-control"
+      }
+    ],
+    "footnote": "Prices checked against megastore76.com on 29 September 2026. Stock and price can change — the store page is always the final word."
+  },
+  "dives": {
+    "kicker": "In detail",
+    "heading": "The six worth reading about properly",
+    "intro": "Each one with what is genuinely good about it, and what you should know before you pay."
+  },
+  "products": [
+    {
+      "name": "Tuya Smart WiFi UK Plug",
+      "badge": "The £5.49 starting point",
+      "price": 5.49,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+      "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+      "stock": "In stock",
+      "summary": "This is the cheapest thing on the page and, for most people, the most useful. A smart plug on its own is a novelty — you can turn a lamp on from your phone, which you could already do by walking over and pressing the switch. The difference here is the energy monitoring. Plug it into the appliance you suspect, leave it a day, and the app tells you what that appliance actually draws. Most people find the culprit is not the thing they expected.",
+      "specs": [
+        "Real-time energy monitoring via the Tuya Smart app",
+        "Works with Alexa voice control",
+        "Built-in timer for scheduled on and off",
+        "Standard UK three-pin, no hub required"
+      ],
+      "pros": [
+        "The cheapest way to find out what an appliance is costing you",
+        "Energy monitoring at a price where most plugs at this level only switch",
+        "Timer and voice control included, not add-ons",
+        "No hub, no subscription — straight into a standard UK socket"
+      ],
+      "cons": [
+        "Reads power on one socket, so investigating a whole house takes patience",
+        "It runs the Tuya platform, so you are adding another app to your phone",
+        "It switches power only — it cannot control anything that has a physical dial",
+        "Single plug. If you already know you want four, the 4-pack is better value"
+      ],
+      "forWho": "Anyone who wants to know where their electricity is going before spending real money on smart home gear."
+    },
+    {
+      "name": "WiFi Smart Plug 4-Pack with Energy Monitoring",
+      "badge": "Best value per plug",
+      "price": 24.99,
+      "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+      "stock": "In stock",
+      "summary": "Four plugs for £24.99 works out at about £6.25 each — cheaper per plug than buying singles, and it means you can monitor four appliances at once instead of guessing one at a time. Each plug takes app control, scheduling and voice assistant support, and each reports energy use in real time. Grouping them means one tap can switch a whole room.",
+      "specs": [
+        "Four plugs, roughly £6.25 each",
+        "Real-time energy monitoring on every plug",
+        "App control, scheduling and grouping",
+        "Voice assistant support"
+      ],
+      "pros": [
+        "Cheaper per plug than buying singles",
+        "Monitor several appliances at once instead of one at a time",
+        "Group control makes a whole room one tap",
+        "No hub or wiring needed"
+      ],
+      "cons": [
+        "Only worth it if you will actually use three or four",
+        "Four plugs is four things to name and organise in the app",
+        "The money is all spent up front, before you know what you need",
+        "If you want to test the idea first, one £5.49 plug is the cheaper experiment"
+      ],
+      "forWho": "Someone who already knows they want several appliances automated and monitored — the sensible bulk buy.",
+      "imgNote": "This listing’s picture prints an award and a 9.2/10 review score the store has never been given, and shows US 125-volt hardware on a UK product, so there is no picture on this card."
+    },
+    {
+      "name": "Philips Hue Starter Kit",
+      "badge": "The lighting upgrade",
+      "price": 67.85,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+      "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+      "stock": "In stock",
+      "summary": "Smart lighting is where a house starts to feel genuinely different, and Hue is the system everything else is measured against. The kit includes the Bridge — the small box that talks to the bulbs over Zigbee rather than Wi-Fi — plus two Essential bulbs in White and Colour Ambience, so you get millions of colours and full app and voice control from one box. The reason to buy Hue specifically is that it grows sensibly: add a bulb, not a new system.",
+      "specs": [
+        "Hue Bridge included — the hub is in the box",
+        "Two Essential bulbs, White and Colour Ambience",
+        "Millions of colours, room scheduling, scenes",
+        "Works with Alexa, Google and Apple HomeKit"
+      ],
+      "pros": [
+        "The Bridge uses Zigbee, so bulbs do not clog up your Wi-Fi",
+        "Works across Alexa, Google and HomeKit — no assistant lock-in",
+        "The most expandable ecosystem here, one bulb at a time",
+        "Two bulbs included means it works the day it arrives"
+      ],
+      "cons": [
+        "Nearly £68 for two bulbs is a lot for what is, physically, two bulbs",
+        "The Bridge is required — no Bridge, no Hue bulbs",
+        "Cheap Wi-Fi colour bulbs cost far less if you only want one lamp to change colour",
+        "Two bulbs will not light a room on their own; budget for more"
+      ],
+      "forWho": "Someone who wants lighting to be the smart home feature they actually notice, and is willing to pay for the ecosystem."
+    },
+    {
+      "name": "Amazon Echo Dot",
+      "badge": "Voice control everywhere",
+      "price": 54.99,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990347.png",
+      "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker",
+      "stock": "In stock",
+      "summary": "The Echo Dot is the default cheap smart speaker for a reason: it is a genuine step up in sound over older Dots, it takes full Alexa control of everything else on this page, and it doubles as the hub for Alexa-based smart home devices. If you own smart plugs or Hue bulbs and are still reaching for your phone to switch them, this is the piece that removes the phone from the loop.",
+      "specs": [
+        "Full Alexa voice control",
+        "Room-filling sound, a step up on older Dot generations",
+        "Acts as a hub for Alexa smart home control",
+        "Multi-room audio with other Echo devices"
+      ],
+      "pros": [
+        "Turns every other smart device on this page into a voice command",
+        "Audio quality is a real improvement on earlier Dots",
+        "Multi-room audio if you add more Echos later",
+        "Alexa has the widest device compatibility of the assistants"
+      ],
+      "cons": [
+        "It locks your smart home into Amazon's assistant, mostly",
+        "It is a microphone in your room that is always listening for its wake word",
+        "At £54.99 it costs more than the four smart plugs it would be controlling",
+        "It is a speaker first — if you already own one, this adds nothing"
+      ],
+      "forWho": "Anyone with smart plugs or bulbs who is tired of opening an app to use them."
+    },
+    {
+      "name": "Smart Video Doorbell with 2K HDR Night Vision",
+      "badge": "The one that answers a real problem",
+      "price": 59.99,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+      "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+      "stock": "In stock",
+      "summary": "Unlike most of this page, a doorbell is not a solution looking for a problem. The 2K HDR sensor with colour night vision means footage stays legible after dark rather than switching to grey, the 160-degree lens leaves very little blind spot, and the AI person detection is tuned to alert on people rather than on every car that passes. Two-way audio means you can answer the door from wherever you are.",
+      "specs": [
+        "2K HDR video with colour night vision",
+        "160-degree field of view",
+        "AI person detection to cut false alerts",
+        "Two-way audio from your phone"
+      ],
+      "pros": [
+        "Colour night vision is genuinely more useful than the black-and-white most doorbells fall back to",
+        "160 degrees minimises the blind spot at the edge of the step",
+        "Person detection means far fewer pointless notifications",
+        "Two-way talk covers the parcel-delivery case without opening the door"
+      ],
+      "cons": [
+        "It needs decent Wi-Fi at the front of the house or the footage suffers",
+        "Recording storage depends on how you set it up — check before buying",
+        "Wired installation may be needed depending on your existing doorbell",
+        "The AI detection is good, but it is not a substitute for a proper alarm"
+      ],
+      "forWho": "Anyone who wants to see the front door from anywhere, and would rather have colour footage at night."
+    },
+    {
+      "name": "Compact Robot Vacuum with App Control",
+      "badge": "The hands-off option",
+      "price": 149.99,
+      "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+      "stock": "In stock",
+      "summary": "The most expensive thing on this page, and the only one that saves you time every single day rather than occasionally. It handles daily dust, pet hair and crumbs on a schedule you set, returns to its dock to charge on its own, and reports battery status in the app. It is compact, which matters in smaller rooms, and it is aimed at maintenance rather than deep cleaning.",
+      "specs": [
+        "Smartphone app control and scheduling",
+        "Automatic return-to-dock charging",
+        "Strong suction for carpet and pet hair",
+        "Compact body for smaller rooms"
+      ],
+      "pros": [
+        "Saves time daily, not once — the only pick here that does",
+        "Auto-docking means you genuinely can forget about it",
+        "App scheduling lets it run while you are out",
+        "Compact enough for tight rooms and under furniture"
+      ],
+      "cons": [
+        "At £149.99 it costs more than everything else on this page combined",
+        "It is a maintenance vacuum — it will not replace a proper deep clean",
+        "Robots still need a clear floor: cables and clutter stop them",
+        "Entry-level models like this map less cleverly than pricier lidar machines"
+      ],
+      "forWho": "Someone with pets or kids who wants the floor dealt with daily without doing it themselves.",
+      "imgNote": "The picture on this listing shows another brand’s robot vacuum, so there is no picture on this card."
+    }
+  ],
+  "guide": {
+    "kicker": "Buying guide",
+    "heading": "Six things worth knowing before you spend anything",
+    "intro": "None of this is complicated, but getting the order wrong is how people end up with £300 of kit they never use.",
+    "points": [
+      {
+        "h": "Energy monitoring is the only feature that pays you back",
+        "p": "Voice control is convenient. Scheduling is convenient. Neither saves you money. A plug that reports power draw is the one smart home feature that can actually change a bill, because it tells you which appliance is the expensive one — and it is usually not the one people assume. That is why the £5.49 plug is the pick at the top of this page rather than something more impressive."
+      },
+      {
+        "h": "You almost certainly do not need a hub to start",
+        "p": "Wi-Fi smart plugs connect straight to your router, so you can begin with one plug and no hub at all. The exception is Hue, which uses the Zigbee radio standard and needs the Bridge — but the Bridge comes in the starter kit, so you are not buying it separately."
+      },
+      {
+        "h": "Wi-Fi, Zigbee and Matter are not the same thing",
+        "p": "Wi-Fi devices connect directly but each one takes a slot on your network. Zigbee devices, like Hue, talk to a hub instead, which keeps your Wi-Fi cleaner once you have a lot of them. Matter is the newer cross-brand standard meant to make everything work together — support is improving, but it is still worth checking the specific device you are buying rather than assuming."
+      },
+      {
+        "h": "Voice assistant lock-in is real, so pick deliberately",
+        "p": "Most plugs on this page work with both Alexa and Google, which is the safest position. The Echo Dot is obviously Alexa-first. If you already have a house full of one assistant, buy for that one rather than starting a second ecosystem by accident."
+      },
+      {
+        "h": "Buy one, live with it, then buy more",
+        "p": "The most common expensive mistake is buying a bundle of four or six devices before knowing how you will use them. One plug, one week, and you will know whether you want four more or whether you have answered your question and can stop. The 4-pack is better value per plug — but only if you were going to buy four anyway."
+      },
+      {
+        "h": "What smart home kit genuinely cannot do",
+        "p": "A smart plug switches power. It cannot dim a lamp, control anything with a physical dial, or run a boiler. None of these devices will fix poor Wi-Fi — a doorbell with a weak signal at the front of the house will give you poor footage no matter how good the camera is. And a robot vacuum at this price maintains a floor; it does not replace cleaning it properly."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "Before you buy",
+    "heading": "What you should know about buying from us",
+    "intro": "Three things that are true about this page, stated plainly, because you would find them out anyway.",
+    "cards": [
+      {
+        "ic": "📦",
+        "b": "Everything here is in stock",
+        "p": "All eleven products were confirmed in stock when this page was last checked, and the prices shown are the prices the store is charging. If something sells out between now and your visit, the store page will say so."
+      },
+      {
+        "ic": "💷",
+        "b": "Prices move, so we give you the date",
+        "p": "Retail prices on electronics change often. Rather than pretend otherwise, every page here carries the date it was checked. The store page is always the final word on what you will actually pay."
+      },
+      {
+        "ic": "🔍",
+        "b": "We are the seller, not an independent reviewer",
+        "p": "Megastore76 sells these products, so treat this as a shop's own guide rather than an impartial review. The limits and drawbacks listed against each product are there because they are true, not because we had no choice."
+      }
+    ],
+    "slotNote": "There are no customer testimonials on this page. We have not invented any, because the store has no customer reviews to quote yet. When there are real ones, they will go here — see README.md for how to add them."
+  },
+  "faqHeading": "Common questions about smart home gear",
+  "faq": [
+    {
+      "q": "What is the cheapest way to start a smart home?",
+      "a": "One Wi-Fi smart plug. At <b>£5.49</b> the Tuya plug needs no hub, connects straight to your router, works with Alexa, and includes energy monitoring. You will know within a week whether smart home is something you actually want before you spend anything more."
+    },
+    {
+      "q": "Do I need a hub for any of these?",
+      "a": "Only for Philips Hue. The Hue bulbs use Zigbee rather than Wi-Fi, so they need the Bridge — which is included in the starter kit, so it is not a separate purchase. Every smart plug and the doorbell here connect directly to your Wi-Fi."
+    },
+    {
+      "q": "Is energy monitoring actually accurate?",
+      "a": "It is accurate enough to be useful, which is the point. The reading tells you what a device is drawing in real time, so you can compare one appliance against another and find the expensive one. Treat it as a tool for comparison rather than as a substitute for your electricity meter."
+    },
+    {
+      "q": "Will these work with the Alexa or Google device I already own?",
+      "a": "The smart plugs work with both Alexa and Google Home, so either assistant is fine. Philips Hue supports Alexa, Google and Apple HomeKit. The Echo Dot is Amazon's own, so it is Alexa by design."
+    },
+    {
+      "q": "Is Philips Hue worth it compared to cheap colour bulbs?",
+      "a": "If you want one lamp to change colour, no — cheap Wi-Fi colour bulbs cost far less and will do that. Hue is worth the money if you want a lighting system: reliable Zigbee connection that does not load your Wi-Fi, colour that matches across bulbs, and the ability to grow room by room without replacing anything."
+    },
+    {
+      "q": "Can a smart plug control anything in my house?",
+      "a": "No, and this trips people up. A smart plug switches power to whatever is plugged into it, so it suits lamps, heaters, fans and chargers. It cannot dim a light, control an appliance with a mechanical dial, or operate anything that needs to stay on — a freezer on a smart plug is a bad idea."
+    },
+    {
+      "q": "Which robot vacuum should I buy?",
+      "a": "The one on this page is a compact, app-controlled model at £149.99 aimed at daily maintenance — dust, pet hair and crumbs — rather than deep cleaning. If you want mapping, no-go zones and far stronger suction, expect to pay considerably more; the cheaper robots in the store use simpler navigation."
+    },
+    {
+      "q": "Why do some products on this page have no picture?",
+      "a": "Because their listing pictures failed a check we run on every image here. We look at each one for a claim the store cannot support — a price that contradicts the checkout, or a rating, award or review count, when the store has no customer reviews at all — and for a picture that shows a different product from the one named on the listing. Four failed: the WiFi Smart Plug 4-Pack, whose image prints an Editors’ Pick award and a 9.2/10 score the store has never been given, and shows US 125-volt hardware on a UK product; the Tommee Tippee GroEgg2, whose picture implies a Wi-Fi connection the nightlight does not have; the Anker Soundcore Work, pictured with no Anker branding; and the Compact Robot Vacuum, pictured as another brand’s robot vacuum. All four are still compared and priced above — they just have no picture, because a wrong picture is worse than none. The same check ran over the rest of the department, which is why the £23.78 desk lamp, the £15.97 LED strip, the £74.68 OKP robot vacuum, the £85 Proscenic and the £59.99 UR1 are absent from the grid below as well: every one of those five graphics prints a price between £1 and £99 that the store does not charge. A product with no picture is a lost sale; a product with a picture that misstates the price is a refund and a complaint. That is the trade we made."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Final word",
+    "heading": "Which one, for which person",
+    "intro": "Find yourself below and go straight there.",
+    "rows": [
+      {
+        "who": "I just want to see if I like this",
+        "why": "Start with one plug that measures power",
+        "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+        "label": "The £5.49 plug"
+      },
+      {
+        "who": "I want lighting to be the upgrade",
+        "why": "Bridge and two colour bulbs, expandable",
+        "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+        "label": "Philips Hue kit"
+      },
+      {
+        "who": "I am tired of using an app",
+        "why": "Take the phone out of the loop entirely",
+        "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker",
+        "label": "Amazon Echo Dot"
+      },
+      {
+        "who": "I want to see my front door",
+        "why": "2K colour night vision and person alerts",
+        "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+        "label": "The 2K doorbell"
+      },
+      {
+        "who": "I want the floor done for me",
+        "why": "Daily cleaning on a schedule, hands off",
+        "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+        "label": "Robot vacuum"
+      },
+      {
+        "who": "I already know I want several plugs",
+        "why": "Four plugs with monitoring, about £6.25 each",
+        "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+        "label": "The 4-pack"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Start with the £5.49 plug",
+    "text": "If you take one thing from this page: buy the cheap plug that measures power before you buy anything else. It is the least you can spend to find out whether smart home is for you — and it will probably tell you something about your electricity bill you did not know.",
+    "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+    "label": "See the Tuya plug — £5.49",
+    "secondaryUrl": "https://megastore76.com/product-category/smart-home",
+    "secondaryLabel": "Browse all Smart Home"
+  },
+  "sticky": {
+    "top": "Start at £5.49",
+    "sub": "The plug that measures your power",
+    "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+    "label": "See it"
+  },
+  "schemaProducts": [
+    {
+      "name": "Tuya Smart WiFi UK Plug",
+      "price": 5.49,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+      "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+      "summary": "Tuya Smart WiFi UK plug with energy monitoring, Alexa voice control and a built-in timer."
+    },
+    {
+      "name": "WiFi Smart Plug 4-Pack with Energy Monitoring",
+      "price": 24.99,
+      "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+      "summary": "Four WiFi smart plugs with app control, scheduling, voice assistant support and real-time energy monitoring."
+    },
+    {
+      "name": "Philips Hue Starter Kit",
+      "price": 67.85,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+      "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+      "summary": "Philips Hue Bridge and two White and Colour Ambience Essential bulbs, with app and voice control."
+    },
+    {
+      "name": "Smart Video Doorbell with 2K HDR Night Vision",
+      "price": 59.99,
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+      "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+      "summary": "2K HDR smart doorbell with colour night vision, AI person detection and two-way talk."
+    },
+    {
+      "name": "Compact Robot Vacuum with App Control",
+      "price": 149.99,
+      "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+      "summary": "Compact app-controlled robot vacuum with scheduling and an automatic return-to-dock charger."
+    }
+  ],
+  "disclosure": "<b>Disclosure:</b> Megastore76 sells every product on this page, so this is a shop's own guide, not an independent review. We do not publish star ratings or customer review counts here, because the store has no customer reviews yet and inventing them would be dishonest. Prices were checked against the store on 29 September 2026.",
+  "shelves": {
+    "kicker": "The wider department",
+    "heading": "Thirteen pictures from the smart home range",
+    "intro": "<p>Thirteen products from this department, every one in stock at the price the store charges today. The first seven are the ones written up above; the other six are elsewhere in the same range — the cheaper end of the robot vacuums, a smart plug at under a fiver, and a set of under-cabinet lights that do not need wiring in.</p><p>Each of the thirteen was checked for the two things that actually mislead a buyer: a price the store does not charge, and a rating, award or review count the store cannot back. Not one of them carries either.</p>",
+    "legend": "<b>What the badge means.</b> Every tile carries the listing’s own picture, its own price and its own link. The badge says where the button takes you, because in this shop that varies: <b>Bought here</b> means we sell it and you check out on this site, and <b>via eBay</b>, <b>via Amazon</b> or <b>via Google Play</b> means the listing hands you to that seller and we earn a commission on the sale. Of the 13 above, 0 are ours and 13 hand you elsewhere (7 to eBay, 6 to Amazon).",
+    "groups": [
+      {
+        "name": "Smart Home",
+        "count": 37,
+        "sub": "Plugs, lighting, robot vacuums and a doorbell. The £4.69 plug at the bottom is the cheapest way to find out whether any of this is for you.",
+        "items": [
+          {
+            "id": 5991,
+            "name": "Tuya Smart WiFi UK Plug",
+            "price": 5.49,
+            "url": "https://megastore76.com/product/tuya-smart-wifi-uk-plug-alexa-voice-control-energy-monitoring-timer-function",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/tuya_smart_wifi_plug.webp",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5986,
+            "name": "Wireless WiFi Smart Plug",
+            "price": 6.49,
+            "url": "https://megastore76.com/product/wireless-wifi-smart-plug-power-socket-for-amazon-alexa-google-home-uk",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/wireless_wifi_smart_plug.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5760,
+            "name": "KPON 3-in-1 Charging Station",
+            "price": 23.99,
+            "url": "https://megastore76.com/product/kpon-3-in-1-wireless-charging-station-review-2026-one-stand-three-devices",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/1786989855.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5758,
+            "name": "WiFi 6 Mini Projector",
+            "price": 41.99,
+            "url": "https://megastore76.com/product/wifi-6-mini-projector-review-2026-is-it-ready-to-replace-your-tv",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/wifi6_mini_projector_review.webp",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5755,
+            "name": "Amazon Echo Dot",
+            "price": 54.99,
+            "url": "https://megastore76.com/product/amazon-echo-dot-review-2026-still-the-best-budget-smart-speaker",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990347.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5236,
+            "name": "Smart Video Doorbell, 2K HDR",
+            "price": 59.99,
+            "url": "https://megastore76.com/product/smart-video-doorbell-with-2k-hdr-night-vision",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Smart-Video-Bell-1.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5754,
+            "name": "Philips Hue Starter Kit",
+            "price": 67.85,
+            "url": "https://megastore76.com/product/philips-hue-starter-kit-review-2026-is-smart-lighting-worth-it",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/1786990110.png",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 6015,
+            "name": "Gritin Under Cabinet Kitchen Lights, 2-Pack",
+            "price": 12.72,
+            "url": "https://megastore76.com/product/gritin-under-cabinet-kitchen-lights-rechargeable-2-pack",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_3izi893izi893izi-scaled.jpg",
+            "badge": "via Amazon",
+            "kind": "aff"
+          },
+          {
+            "id": 5987,
+            "name": "GNCC WiFi Smart Plug",
+            "price": 4.69,
+            "url": "https://megastore76.com/product/smart-plug-gncc-wifi-plugs-works-with-google-home-smart-socket-wireless",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_nqieh5nqieh5nqie-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5975,
+            "name": "Laresar Robot Vacuum Cleaner and Mop",
+            "price": 49,
+            "url": "https://megastore76.com/product/laresar-robot-vacuum-cleaner-and-mop",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_jna0t0jna0t0jna0-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5970,
+            "name": "Ecovacs DEEBOT OZMO T8 AIVI Robot Vacuum",
+            "price": 29.99,
+            "url": "https://megastore76.com/product/ecovacs-deebot-ozmo-t8-aivi-robot-vacuum-cleaner-with-mop",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_2slk6n2slk6n2slk-1-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5967,
+            "name": "MONSGA MS1 Robot Vacuum and Mop, 7000Pa",
+            "price": 64.99,
+            "url": "https://megastore76.com/product/monsga-ms1-robot-vacuum-mop-7000pa-lidar-navigation-app-180min-maps-uk",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_u943csu943csu943-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          },
+          {
+            "id": 5968,
+            "name": "7KPa MS1-MAX Robot Vacuum, 3.5L Self-Emptying",
+            "price": 169.99,
+            "url": "https://megastore76.com/product/7kpa-ms1-max-robot-vacuum-cleaner-smart-mapping-3-5l-hoover-180mins-app-remote",
+            "img": "https://megastore76.com/wp-content/uploads/2026/08/Gemini_Generated_Image_wsrmnmwsrmnmwsrm-scaled.jpg",
+            "badge": "via eBay",
+            "kind": "aff"
+          }
+        ],
+        "more": {
+          "heading": "The other 24 listings in Smart Home",
+          "sub": "Not pictured — either the listing’s own image prints a claim we cannot stand behind, or it is a picture we have not opened and looked at. The listings are live in the shop all the same.",
+          "items": [
+            {
+              "name": "2 Smart Heavy Duty Outdoor Plug IP44 WiFi Plug Alexa Voice Control Google Apple",
+              "url": "https://megastore76.com/product/2-smart-heavy-duty-outdoor-plug-ip44-wifi-plug-alexa-voice-control-google-apple",
+              "via": "via eBay"
+            },
+            {
+              "name": "20A Smart WiFi Plug Socket Energy Monitoring Alexa Google Home 4400W High Power",
+              "url": "https://megastore76.com/product/20a-smart-wifi-plug-socket-energy-monitoring-alexa-google-home-4400w-high-power",
+              "via": "via eBay"
+            },
+            {
+              "name": "4pack Tuya Smart Life Wifi Smart Plugs with Power Monitor UK Plug Alexa Voice",
+              "url": "https://megastore76.com/product/4pack-tuya-smart-life-wifi-smart-plugs-with-power-monitor-uk-plug-alexa-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Alexa Smart Plug - Make Your Home Smart - Simple to Set up and Use",
+              "url": "https://megastore76.com/product/amazon-alexa-smart-plug-make-your-home-smart-simple-to-set-up-and-use",
+              "via": "via eBay"
+            },
+            {
+              "name": "Amazon Basics Single Outlet Indoor Wi-Fi Smart Plug, Works with Alexa 4 Pack",
+              "url": "https://megastore76.com/product/amazon-basics-single-outlet-indoor-wi-fi-smart-plug-works-with-alexa-4-pack",
+              "via": "via eBay"
+            },
+            {
+              "name": "Compact Robot Vacuum with App Control",
+              "url": "https://megastore76.com/product/compact-robot-vacuum-app-control",
+              "via": "via Amazon"
+            },
+            {
+              "name": "eufy L60 Hybrid Robot Vacuum Cleaner with Mop and Self-Empty Station",
+              "url": "https://megastore76.com/product/eufy-l60-hybrid-robot-vacuum-cleaner-with-mop-and-self-empty-station",
+              "via": "via eBay"
+            },
+            {
+              "name": "Hoover Robot Vacuum Cleaner Dry - HG410D - Brand New Sealed UK Warranty",
+              "url": "https://megastore76.com/product/hoover-robot-vacuum-cleaner-dry-hg410d-brand-new-sealed-uk-warranty",
+              "via": "via eBay"
+            },
+            {
+              "name": "Innovate Further S2 Max Robot Vacuum Cleaner Smart Mopping",
+              "url": "https://megastore76.com/product/innovate-further-s2-max-robot-vacuum-cleaner-smart-mopping",
+              "via": "via eBay"
+            },
+            {
+              "name": "Intelligent Robot Vacuum Cleaner – Automatic Hoover – White – New/Unused",
+              "url": "https://megastore76.com/product/intelligent-robot-vacuum-cleaner-automatic-hoover-white-new-unused",
+              "via": "via eBay"
+            },
+            {
+              "name": "KSIPZE 30m LED Strip Lights RGB Music Sync",
+              "url": "https://megastore76.com/product/ksipze-30m-led-strip-lights-rgb-music-sync",
+              "via": "via Amazon"
+            },
+            {
+              "name": "LED Desk Lamp with Wireless Charging Base",
+              "url": "https://megastore76.com/product/led-desk-lamp-with-wireless-charging-base",
+              "via": "via Amazon"
+            },
+            {
+              "name": "Lefant M1 Robot Vacuum Cleaner and Mop",
+              "url": "https://megastore76.com/product/lefant-m1-robot-vacuum-cleaner-and-mop",
+              "via": "via eBay"
+            },
+            {
+              "name": "Meross MSS315 Matter Smart Plug Mini WiFi Energy Monitor Alexa HomeKit 1-4Pack",
+              "url": "https://megastore76.com/product/meross-mss315-matter-smart-plug-mini-wifi-energy-monitor-alexa-homekit-1-4pack",
+              "via": "via eBay"
+            },
+            {
+              "name": "OKP Robot Vacuum Cleaner K4 3600Pa Super Strong Suction Alexa WiFi",
+              "url": "https://megastore76.com/product/okp-robot-vacuum-cleaner-k4-3600pa-super-strong-suction-alexa-wifi",
+              "via": "via eBay"
+            },
+            {
+              "name": "Proscenic Q8 Max+ Robot Vacuum Cleaner with Mop, 8000Pa Strong Suction",
+              "url": "https://megastore76.com/product/proscenic-q8-max-robot-vacuum-cleaner-with-mop-8000pa-strong-suction",
+              "via": "via eBay"
+            },
+            {
+              "name": "Roborock Qrevo S Pro, Robot Vacuum Cleaner 18500Pa, White, New",
+              "url": "https://megastore76.com/product/roborock-qrevo-s-pro-robot-vacuum-cleaner-18500pa-white-new",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Life Intelligent Vacuum Cleaner Robot Rechargeable Working",
+              "url": "https://megastore76.com/product/smart-life-intelligent-vacuum-cleaner-robot-rechargeable-working",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Life WiFi Plug for Google Home Amazon Alexa 20A Wireless Power Socket",
+              "url": "https://megastore76.com/product/smart-life-wifi-plug-for-google-home-amazon-alexa-20a-wireless-power-socket",
+              "via": "via eBay"
+            },
+            {
+              "name": "Smart Plug Socket For Home Alexa Google WiFi UK Monitoring Timer Wireless Voice",
+              "url": "https://megastore76.com/product/smart-plug-socket-for-home-alexa-google-wifi-uk-monitoring-timer-wireless-voice",
+              "via": "via eBay"
+            },
+            {
+              "name": "Tommee Tippee GroEgg2 Toddler Nightlight",
+              "url": "https://megastore76.com/product/tommee-tippee-groegg2-toddler-nightlight",
+              "via": "via Amazon"
+            },
+            {
+              "name": "UR1 Robot Vacuum Cleaner 5000Pa Mop Smart App Pet Hair Carpet Hard Floor",
+              "url": "https://megastore76.com/product/ur1-robot-vacuum-cleaner-5000pa-mop-smart-app-pet-hair-carpet-hard-floor",
+              "via": "via eBay"
+            },
+            {
+              "name": "WiFi Smart Plug 4-Pack with Energy Monitoring",
+              "url": "https://megastore76.com/product/wifi-smart-plug-4-pack-with-energy-monitoring",
+              "via": "via Amazon"
+            },
+            {
+              "name": "WiFi Smart Plug Socket Plug Works with Alexa, Google Home Smart Plug Alexa Plugs",
+              "url": "https://megastore76.com/product/wifi-smart-plug-socket-plug-works-with-alexa-google-home-smart-plug-alexa-plugs",
+              "via": "via eBay"
+            }
+          ]
+        }
+      }
+    ],
+    "footnote": "These are the Smart Home products with a picture we can show. Most listings in this department — and in this store — use a seller-made marketing graphic rather than a photograph of the item, so we checked each picture here for a claim the store could not support. Several failed and are missing from this grid: the WiFi Smart Plug 4-Pack, whose image prints an award and a review score the store has never been given; the Tommee Tippee GroEgg2, whose picture shows a Wi-Fi signal for a nightlight that has no Wi-Fi; the Anker Soundcore Work, pictured without any Anker branding; and the Compact Robot Vacuum, whose picture is another brand’s robot vacuum carrying that brand’s name. The same check is why there is no picture for the £23.78 desk lamp, the £15.97 LED strip, the £74.68 OKP vacuum, the £85 Proscenic, or the £59.99 UR1 — every one of those graphics prints a price well below what the store actually charges. All of them are still sold and still priced; they simply have no picture here."
+  }
+}
