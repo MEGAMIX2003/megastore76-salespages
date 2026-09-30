@@ -837,6 +837,21 @@ ${footer({ disclosure: 'Review copy. Not yet published anywhere.' })}
 </body></html>`;
 
   fs.writeFileSync(path.join(ROOT, 'review-hub.html'), hub);
+
+  // Public homepage for the deployed out/ directory: the same page cards,
+  // links resolved relative to out/ itself, and copy that reads as a live
+  // index rather than a private review sheet.
+  fs.writeFileSync(
+    path.join(OUT, 'index.html'),
+    hub
+      .replace(/out\/([a-z0-9-]+)\/index\.html/g, '$1/')
+      .replace('Sales pages — review hub', 'Megastore76 — sales pages')
+      .replace('<span class="eyebrow">Review hub</span>', '<span class="eyebrow">Megastore76</span>')
+      .replace('<h1>Sales pages, ready to examine</h1>', '<h1>The Megastore76 sales pages</h1>')
+      .replace(/Nothing here is published yet\./g, 'The full store lives at megastore76.com.')
+      .replace('Review copy. Not yet published anywhere.', 'Sales pages for megastore76.com.')
+  );
+  console.log(`\n  ✓ out/index.html — deployed homepage\n`);
   console.log(`\n  ✓ review-hub.html — open this to review everything\n`);
   console.log(`Built ${built.length} page(s).`);
 }
