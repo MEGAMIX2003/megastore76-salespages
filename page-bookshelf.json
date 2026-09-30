@@ -1,0 +1,378 @@
+{
+  "slug": "bookshelf",
+  "kind": "Books page",
+  "title": "The Bookshelf — 11 Bible-Based Books by Pastor Mega Philip Mega (PDF + EPUB)",
+  "metaDescription": "All eleven books by Pastor Mega Philip Mega — instant PDF + EPUB download, bought direct from the author on Selar, from XAF 2,500. No subscription, no account, yours to keep.",
+  "canonical": "https://pages.megastore76.com/bookshelf/",
+  "eyebrow": "The bookshelf · 11 books · PDF + EPUB",
+  "h1": "Eleven Bible-based books for strong homes and strong faith",
+  "intro": "Written by Pastor Mega Philip Mega for couples, parents, singles and every believer who wants solid ground in a shaking world. Every book is an instant download: a PDF that opens on any phone, plus an EPUB for e-reader apps. The buy buttons take you to the author's own Selar store, where you pay directly and are reading in minutes — no subscription, no account, and the book is yours to keep.",
+  "chips": [
+    "Instant download",
+    "PDF + EPUB",
+    "Direct from the author",
+    "From XAF 2,500"
+  ],
+  "updated": "Prices are Selar's own GBP display of XAF 2,500 and XAF 3,500, checked 30 September 2026.",
+  "nav": [
+    { "label": "Where to start", "href": "#verdict" },
+    { "label": "All 11 books", "href": "#compare" },
+    { "label": "What each is for", "href": "#guide" },
+    { "label": "Questions", "href": "#faq" }
+  ],
+  "hero": {
+    "ctaLabel": "Choose your book on Selar",
+    "ctaUrl": "https://selar.com/m/megaphilipmega",
+    "secondaryLabel": "Compare all eleven",
+    "secondaryUrl": "#compare"
+  },
+  "verdict": {
+    "kicker": "Where to start",
+    "heading": "Three books cover most of what brings people here",
+    "intro": "None of these is a long course, and none claims to do the Holy Spirit's job for you. They are honest, practical books — pick the one that matches the season you are in.",
+    "picks": [
+      {
+        "label": "Start here, especially if life just changed",
+        "name": "The Driver",
+        "price": 3.51,
+        "why": "The newest book, and the one the author points new readers to. Twelve short chapters on letting God lead when you cannot see the road ahead — with reflection questions and a prayer at the end of each, drawn from his own testimony and the King James Bible.",
+        "points": [
+          "12 short chapters + reflection questions",
+          "Paperback-honest about detours and control",
+          "XAF 2,500 (about £3.50 today)",
+          "Also available as PDF, not just EPUB"
+        ],
+        "url": "https://selar.com/960633w1sg",
+        "ctaLabel": "Get The Driver on Selar",
+        "primary": true
+      },
+      {
+        "label": "For married couples",
+        "name": "Undivided",
+        "price": 4.91,
+        "why": "A one-year devotional for couples pursuing demanding careers, a real marriage and children who know the Lord — without serving God in fragments. The longest book in the library, and the natural next step after The Driver.",
+        "points": [
+          "365 daily readings",
+          "Written to be read together",
+          "XAF 3,500 (about £4.90 today)",
+          "Pairs with God's Blueprint"
+        ],
+        "url": "https://selar.com/1ilk7a7413",
+        "ctaLabel": "Get Undivided on Selar"
+      },
+      {
+        "label": "For marriage on solid ground",
+        "name": "God's Blueprint for a Strong Christian Marriage",
+        "price": 4.91,
+        "why": "Marriage as a covenant, not a contract: love rooted in Christ, roles guided by Scripture, and prayer that holds a home together. The most complete book in the library on making a marriage last.",
+        "points": [
+          "A biblical guide, not tips",
+          "Honest about hard seasons",
+          "XAF 3,500 (about £4.90 today)",
+          "Good with Undivided"
+        ],
+        "url": "https://selar.com/6303mgq8mz",
+        "ctaLabel": "Get God's Blueprint on Selar"
+      }
+    ]
+  },
+  "table": {
+    "kicker": "The bookshelf",
+    "heading": "All eleven, compared",
+    "intro": "Every book, what it is about, and who it will serve. One tap takes you to that book's own Selar page, where you pay and download immediately.",
+    "rows": [
+      {
+        "name": "The Driver",
+        "note": "Book · PDF + EPUB",
+        "spec": "Trusting a Driver you cannot see — twelve chapters, with questions and prayer",
+        "price": 3.51,
+        "bestFor": "Trusting God in uncertainty; the recommended first book",
+        "url": "https://selar.com/960633w1sg"
+      },
+      {
+        "name": "Undivided",
+        "note": "Book · PDF + EPUB",
+        "spec": "A one-year devotional for couples pursuing their calling and family together",
+        "price": 4.91,
+        "bestFor": "Married couples; read together",
+        "url": "https://selar.com/1ilk7a7413",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png"
+      },
+      {
+        "name": "God's Blueprint for a Strong Christian Marriage",
+        "note": "Book · PDF + EPUB",
+        "spec": "A biblical guide to building love, trust and unity that lasts",
+        "price": 4.91,
+        "bestFor": "Married or engaged couples",
+        "url": "https://selar.com/6303mgq8mz",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg"
+      },
+      {
+        "name": "Bringing Up God-Fearing Children",
+        "note": "Book · PDF + EPUB",
+        "spec": "Raising children who love God, honour His Word and live with character",
+        "price": 4.91,
+        "bestFor": "Parents",
+        "url": "https://selar.com/4z74a47080",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Bringing-Up-God-Fearing-Children-scaled.jpg"
+      },
+      {
+        "name": "Dating on Purpose",
+        "note": "Book · PDF + EPUB",
+        "spec": "Courtship, boundaries, and discerning God's will before marriage",
+        "price": 3.51,
+        "bestFor": "Courting couples and their advisors",
+        "url": "https://selar.com/a94p63iw05",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-dating-on-purpose.jpg"
+      },
+      {
+        "name": "Waiting Well",
+        "note": "Book · PDF + EPUB",
+        "spec": "Singleness without settling — living fully now",
+        "price": 3.51,
+        "bestFor": "Single believers",
+        "url": "https://selar.com/070107n8pz",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-waiting-well.png"
+      },
+      {
+        "name": "Forgiving Forward",
+        "note": "Book · PDF + EPUB",
+        "spec": "Releasing resentment and finding freedom; what forgiveness is and isn't",
+        "price": 3.51,
+        "bestFor": "Anyone carrying a grudge",
+        "url": "https://selar.com/1y167q766i",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/Forgiving-Forward-cover-original-subtitle.jpg"
+      },
+      {
+        "name": "Loving Like Jesus",
+        "note": "Book · PDF + EPUB",
+        "spec": "Living out the Gospel in every relationship — where most of it is tested",
+        "price": 3.51,
+        "bestFor": "Everyday discipleship",
+        "url": "https://selar.com/fms1fnkw70",
+        "img": "https://megastore76.com/wp-content/uploads/2026/08/Lovin-like-Jesus.jpg"
+      },
+      {
+        "name": "Unusual Obedience",
+        "note": "Book · PDF + EPUB",
+        "spec": "When God asks the unexpected — beyond comfort, logic and public approval",
+        "price": 3.51,
+        "bestFor": "Anyone at a crossroads",
+        "url": "https://selar.com/96e391j071"
+      },
+      {
+        "name": "The Christian Journey",
+        "note": "Book · PDF + EPUB",
+        "spec": "Uncompromising holiness and integrity, even when it costs something",
+        "price": 4.91,
+        "bestFor": "Discipleship foundations",
+        "url": "https://selar.com/0c75279q26",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-christian-journey.png"
+      },
+      {
+        "name": "Stories That Build Faith",
+        "note": "Book · PDF + EPUB",
+        "spec": "Thirteen Bible accounts retold — verse, lesson, question and prayer each",
+        "price": 4.91,
+        "bestFor": "Newer believers; small groups",
+        "url": "https://selar.com/77a3p15111",
+        "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-stories-that-build-faith.png"
+      }
+    ],
+    "footnote": "Prices are Selar's own GBP display (XAF 2,500 shows about £3.51 and XAF 3,500 about £4.91), checked 30 September 2026 — the checkout shows the price in your currency at its rate that day. Ten titles are also listed on megastore76.com from £3.99; there the buy button hands you to Google Play for an EPUB. On Selar you buy direct from the author and get PDF + EPUB both, and The Driver — which our store lists only inside the £147 Ministry Suite — is sold on its own here."
+  },
+  "guide": {
+    "kicker": "What each is for",
+    "heading": "Pick the book that matches your season",
+    "intro": "Every book is an instant download in two formats — a PDF that opens on any phone or computer, and an EPUB that opens in Apple Books, Google Play Books, Kobo, Calibre, Adobe Digital Editions or the Kindle app. They are yours to keep and re-read.",
+    "points": [
+      {
+        "h": "The Driver — Trusting a Driver You Cannot See",
+        "p": "The newest book, and the one to start with if recent events have taken away your sense of control. Twelve chapters on hearing God and following His map, closing each chapter with reflection questions and a prayer. Draws on the author's own testimony — a life turned around in 2010 and a season when they borrowed nothing and lacked nothing."
+      },
+      {
+        "h": "Undivided — A One-Year Devotional for Christian Couples",
+        "p": "A year of daily readings for couples pursuing careers, a real marriage and children together. The longest book in the library, and the one to start with if you are married."
+      },
+      {
+        "h": "God's Blueprint for a Strong Christian Marriage",
+        "p": "A biblical guide to love, trust and unity that lasts. Marriage as a covenant, not a contract. Pairs naturally with Undivided."
+      },
+      {
+        "h": "Bringing Up God-Fearing Children",
+        "p": "Biblical, practical wisdom for raising children who love God, honour His Word and live with godly character — in a culture that is not helping you."
+      },
+      {
+        "h": "Dating on Purpose — Courtship, Boundaries, and Discerning God's Will",
+        "p": "For couples working out what a relationship looks like before marriage, from the talking stage to the wedding day — and for the people advising them."
+      },
+      {
+        "h": "Waiting Well — Singleness Without Settling",
+        "p": "Written for single believers under pressure to settle, or to treat singleness as a waiting room rather than a season."
+      },
+      {
+        "h": "Forgiving Forward — Releasing Resentment and Finding Freedom",
+        "p": "On what to do with a grudge you have decided you are entitled to keep. What forgiveness is, what it is not, and how to forgive a wound that is still open."
+      },
+      {
+        "h": "Loving Like Jesus — Living Out the Gospel in Every Relationship",
+        "p": "Everyday discipleship in ordinary relationships, which is where most of it is actually tested."
+      },
+      {
+        "h": "Unusual Obedience — When God Asks the Unexpected",
+        "p": "For anyone at a crossroads where the instruction does not match the plan they had."
+      },
+      {
+        "h": "The Christian Journey — Holiness and Integrity",
+        "p": "Foundational teaching on walking in uncompromising holiness and integrity when it costs something."
+      },
+      {
+        "h": "Stories That Build Faith",
+        "p": "Thirteen Bible accounts retold for today, each with a key verse, a faith lesson, a reflection question and a prayer. A good starting point for newer believers, and for groups."
+      }
+    ]
+  },
+  "proof": {
+    "kicker": "Before you buy",
+    "heading": "The honest version",
+    "intro": "These books were written by the pastor who runs this store, so read this page as a description of our own work rather than an independent review. Everything else you should know before paying:",
+    "cards": [
+      {
+        "ic": "📖",
+        "b": "A real library, not a bundle",
+        "p": "Eleven books written and published over several years of ministry. Ten are also listed on megastore76.com, and the full library (as EPUB, plus five offline ministry tools) is inside the £147 Ministry Suite."
+      },
+      {
+        "ic": "🛒",
+        "b": "Where the buttons go",
+        "p": "Every buy button on this page opens that book's own page on Selar (selar.com), a creator-commerce platform that handles the checkout and instant delivery. You pay the author, you download immediately, and Selar emails you the link as well."
+      },
+      {
+        "ic": "📄",
+        "b": "Digital editions",
+        "p": "Every purchase is the PDF + EPUB download. There are no printed copies and no shipping on this page — if you need print, say so at megaphilip76@gmail.com and we will tell you honestly what exists."
+      }
+    ],
+    "slotNote": "The reviews slot is empty on purpose: these books have no buyer reviews on Selar yet, and we do not invent them. If you have read one and can spare a sentence, email megaphilip76@gmail.com — a real reader's words will go here word-for-word."
+  },
+  "faqHeading": "Questions before you buy",
+  "faq": [
+    {
+      "q": "Where do the buy buttons take me?",
+      "a": "To that book's own page on Selar, the author's storefront (selar.com/m/megaphilipmega). Selar handles the checkout and shows the payment options available in your country — cards and mobile money among them — then delivers the download immediately and emails you a copy of the link."
+    },
+    {
+      "q": "What formats do I get?",
+      "a": "Both: a PDF that opens on any phone, tablet or computer, and an EPUB for e-reader apps such as Apple Books, Google Play Books, Kobo, Calibre, Adobe Digital Editions and the Kindle app. One purchase, both files."
+    },
+    {
+      "q": "How much are the books?",
+      "a": "Two prices on Selar: XAF 2,500 (about £3.50 / US$4.50) and XAF 3,500 (about £4.90 / US$6.30). The amounts above are Selar's own GBP display, checked 30 September 2026 — the checkout shows the price in your currency at its rate that day. For comparison, ten titles are also listed on megastore76.com from £3.99, but there the button hands off to Google Play for an EPUB only."
+    },
+    {
+      "q": "Why are the books in two stores?",
+      "a": "On Selar you buy direct from the author — both formats, instant download, and mobile-money-friendly payment. megastore76.com also lists ten of the titles, where the buy button hands you to Google Play, and the £147 Ministry Suite bundles all eleven books (as EPUB) with five offline ministry tools. Pick whichever checkout suits you; the reading experience is the same."
+    },
+    {
+      "q": "Will it work on my phone?",
+      "a": "Yes — that is the point. The PDF opens on any phone, and the EPUB opens in any e-reader app you already have. No special app is needed beyond the one you will read in."
+    },
+    {
+      "q": "What if it is not right for me?",
+      "a": "Message <a href=\"mailto:megaphilip76@gmail.com\">megaphilip76@gmail.com</a> or <a href=\"tel:+447869160958\">+44 7869 160958</a> before or after buying, and tell us what you need. We answer honestly rather than upsell."
+    }
+  ],
+  "finalVerdict": {
+    "kicker": "Final word",
+    "heading": "Which book fits you right now",
+    "intro": "Being straight about this saves us both time. Find your season below and start there — every row downloads in minutes.",
+    "rows": [
+      {
+        "who": "Married, and want a year of togetherness",
+        "why": "Undivided — 365 daily readings to do together",
+        "url": "https://selar.com/1ilk7a7413",
+        "label": "Get Undivided"
+      },
+      {
+        "who": "Rebuilding a marriage on firmer ground",
+        "why": "God's Blueprint — covenant, trust and unity",
+        "url": "https://selar.com/6303mgq8mz",
+        "label": "Get God's Blueprint"
+      },
+      {
+        "who": "Raising children in a confusing world",
+        "why": "Bringing Up God-Fearing Children",
+        "url": "https://selar.com/4z74a47080",
+        "label": "Get the children's guide"
+      },
+      {
+        "who": "Single, and told to just settle",
+        "why": "Waiting Well — singleness without settling",
+        "url": "https://selar.com/070107n8pz",
+        "label": "Get Waiting Well"
+      },
+      {
+        "who": "Dating, and want to do it right",
+        "why": "Dating on Purpose — boundaries and discernment",
+        "url": "https://selar.com/a94p63iw05",
+        "label": "Get Dating on Purpose"
+      },
+      {
+        "who": "Carrying something you cannot forgive",
+        "why": "Forgiving Forward — releasing resentment",
+        "url": "https://selar.com/1y167q766i",
+        "label": "Get Forgiving Forward"
+      },
+      {
+        "who": "Life just took a turn you did not plan",
+        "why": "The Driver — trust the One you cannot see",
+        "url": "https://selar.com/960633w1sg",
+        "label": "Get The Driver"
+      },
+      {
+        "who": "You want all eleven books and the five tools",
+        "why": "The Ministry Suite — everything offline, £147 once",
+        "url": "https://megastore76.com/product/megastore76-ministry-suite",
+        "label": "See the Ministry Suite"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pick one book. Start reading tonight.",
+    "text": "The whole library is on the author's Selar store, one download away. If you are not sure which one fits, the three picks above are the place to start — or just ask us first.",
+    "label": "Choose your book on Selar",
+    "url": "https://selar.com/m/megaphilipmega",
+    "secondaryLabel": "Ask a question first",
+    "secondaryUrl": "mailto:megaphilip76@gmail.com"
+  },
+  "sticky": {
+    "top": "The Bookshelf",
+    "sub": "11 books · PDF + EPUB",
+    "label": "Choose your book",
+    "url": "https://selar.com/m/megaphilipmega"
+  },
+  "disclosure": "Books by Pastor Mega Philip Mega, sold direct on Selar (selar.com/m/megaphilipmega) and also listed on megastore76.com (ten titles, where the button hands off to Google Play). This page is by Megastore76, which is the author's own store, so it is a description of our own books rather than an independent review. Prices checked against Selar on 30 September 2026.",
+  "schemaProducts": [
+    {
+      "name": "The Driver: Trusting a Driver You Cannot See (PDF + EPUB)",
+      "img": null,
+      "summary": "Twelve short chapters on trusting God when you cannot see the road, with reflection questions and a prayer in every chapter.",
+      "price": 3.51,
+      "url": "https://selar.com/960633w1sg"
+    },
+    {
+      "name": "Undivided: A One-Year Devotional for Christian Couples (PDF + EPUB)",
+      "img": "https://megastore76.com/wp-content/uploads/2026/09/cover-undivided.png",
+      "summary": "A 365-day devotional for Christian couples pursuing their calling, marriage and family together.",
+      "price": 4.91,
+      "url": "https://selar.com/1ilk7a7413"
+    },
+    {
+      "name": "God's Blueprint for a Strong Christian Marriage (PDF + EPUB)",
+      "img": "https://megastore76.com/wp-content/uploads/2026/08/God.jpg",
+      "summary": "A biblical guide to building love, trust and unity that lasts.",
+      "price": 4.91,
+      "url": "https://selar.com/6303mgq8mz"
+    }
+  ]
+}
