@@ -32,7 +32,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = __dirname;
-const DATA = path.join(ROOT, 'data');
+const DATA = fs.existsSync(path.join(ROOT, 'data')) ? path.join(ROOT, 'data') : ROOT;
 const OUT = path.join(ROOT, 'out');
 
 // ---------------------------------------------------------------------
